@@ -1,0 +1,273 @@
+# Wedesday, May 18, 2022 
+### Legend {-}
+
+
+
+```{block, type='reflect'}
+#### Keynote
+
+```
+
+```{block, type='wp'}
+#### Invited Speaker
+
+```
+
+```{block, type='secondary'}
+#### Regular Session
+
+```
+```{block, type='gh'}
+#### Social Session
+
+```
+
+```{block, type='protip'}
+
+#### ✨ Note{-}
+
+***All times are in Eastern Time (Canada)***
+```
+--- 
+
+
+
+##  Welcome Desk Open (10:30 - 12:30) {-}
+
+
+## Conference Updates & Keynote (11:00 - 12:30) {-}
+
+```{block, type='reflect'}
+#### Outside-In: Openness as Subversion
+*Maha Bali, American University in Cairo*
+```
+
+
+
+## Break (12:30 - 1:00) {-}
+
+## Parallel Session 9 - Invited Speakers (1:00 – 1:45){-}
+
+
+### Parallel Session 9.1 {-}
+
+```{block, type='wp'}
+#### Embracing Feminist Pedagogies in Learning Design
+
+*Enilda Romero-Hall, University of Tampa*
+```
+
+### Parallel Session 9.2 {-}
+
+```{block, type='wp'}
+#### Using Wikimedia as a Teaching Tool: How Wikidata can support Indigenous and low resource languages on the internet
+
+*Sadik Shahadu*
+```
+
+
+
+## Break (1:45 – 2:15) {-}
+
+
+## Parallel Session 10 (2:15 – 3:45) {-}
+
+
+### Parallel Session 10.1 – Transitions of Online Learning and Teaching {-}
+
+```{block, type='secondary'}
+#### 2:15-2:45 – K12
+
+**Flipped Learning in Grade 7 and 9 Mathematics (Research-Oriented)**
+
+*Barb Brown, Nadia Delanoy, Mark Webster (University of Calgary)*
+```
+
+```{block, type='secondary'}
+#### 2:45-3:15 – K12
+
+**Using Teacher Presence to Engage Online Learners (Practice-Oriented)**
+
+*Leanne Huston,* *Rochelle Smith, Rhyanon Logan-Goyette (Langley School District & University of Victoria)*
+```
+
+```{block, type='secondary'}
+#### 3:15-3:45 – K12, PSE, Society
+
+**Implementation of Education Technology in Canada: A Comparison with Korea, Finland and the EU (Research-Oriented)**
+
+*Keith Rispin (West Vancouver School District & University of Victoria), Valerie Irvine (University of Victoria)*
+```
+
+
+## Parallel Session 10.2 – Transitions of Online Learning and Teaching: PSE Online {-}
+
+```{block, type='secondary'}
+#### 2:15-2:45
+**Taking Experiential Learning Online During COVID-19 (Research-Oriented)**
+
+*Theodora Kapoyannis, Astrid Kendrick, Patricia Danyluk (University of Calgary)*
+```
+
+```{block, type='secondary'}
+#### 2:45-3:45
+
+**What we do today will change what happens tomorrow – Exploring university teaching during a pandemic to derive recommendations for post-pandemic times (Research-Oriented)**
+
+*Joerdis Weilandt, Sandra Dixon, Richelle Marynowski, Lorraine Beaudin, Rumi Graham, Stavroula Malla, Angeliki Pantazi (University of Lethbridge)*
+```
+
+### Parallel Session 10.3 – Addressing the New Inequities: PSE {-}
+
+```{block, type='secondary'}
+#### 2:15-2:45
+
+**Co-designing OER with Learners: A Replacement to Traditional College Level Assessments (Practice-Oriented)**
+
+*Kimberlee Carter, Maria Camila Redondo Morant (Conestoga College)*
+```
+
+
+```{block, type='secondary'}
+#### 2:45-3:45
+**A Critical Examination of Learner-Educator Co-Creation Within a Course (Practice-Oriented)**
+
+*Laura Killam (Queens University), Jess Mitchell (Ontario College of Art and Design University)*
+```
+
+### Parallel Session 10.4 {-}
+
+```{block, type='secondary'}
+#### 2:15-2:45 – Wildcard: Microlearning/Society
+
+**The use of design-based research to design and evaluate an online microlearning intervention aiming to interrupt COVID-19 vaccine misinformation (Research-Oriented)**
+
+*George Veletsianos (Royal Roads University), Shandell Houlden (Royal Roads University), Jaigris Hodson (Royal Roads University), Darren Reid (University College London), Christiani Thompson (University of Saskatchewan)*
+```
+
+```{block, type='secondary'}
+#### 2:45-3:15– Transitions of Online Learning and Teaching: PSE
+
+**Méthodes d'évaluation et technologies : vers des activités authentiques, dans un processus itératif en soutien aux apprentissages (Practice-Oriented)**
+
+*Géraldine Heilporn (Université Laval), Audrey Raynault (Université Laval), Alice Mascarenhas (Université de Sherbrooke), Constance Denis (Université de Sherbrooke)*
+```
+
+```{block, type='secondary'}
+#### 2:45-3:15 – Transitions of Online Learning and Teaching: PSE
+
+**Quels nouveaux modèles d’affaires pour supporter les communautés de pratique en éducation? (Practice-Oriented)**
+
+*Robert Grégoire, Jacques Cool, Olivier Alfieri (Réseau d'enseignement francophone à distance)*
+```
+
+### Parallel Session 10.5 {-}
+
+```{block, type='secondary'}
+#### 2:15-2:45 – Sustaining Positive Change – PSE Online
+
+**Orlando: Broadening the Conversation on Women’s Writing Through A Scholarly Podcast (Practice-Oriented)**
+
+*Christie Hurrell, Karen Bourrier, Kathryn Holland, Jessica J Khuu (University of Calgary)*
+```
+
+```{block, type='secondary'}
+#### 2:45-3:45 – Addressing the New Inequities
+
+**A(nother) Guide for Resisting EdTech: The Case Against (or For?) Course Hero (Practice-Oriented)**
+
+*Brenna Clarke Gray (Thompson Rivers University)*
+```
+
+## Break 3:45 – 4:00 {-}
+
+## Social Session (4:00 – 4:30) {-}
+
+```{block, type='gh'}
+#### Kendra Coupland
+
+**Mindfulness Session**
+```
+
+## Parallel Session 11 (4:30 – 5:30) {-}
+
+
+
+### Parallel Session 11.1 – Transitions of Online Learning and Teaching: PSE Open {-}
+
+```{block, type='secondary'}
+#### Multi-Section Open Course Design: Design and Implications for Faculty, Sessional Instructors, and Learners (Practice-Oriented)
+
+*Valerie Irvine, Michael Paskevicius, Colin Madland, Rich McCue, Verena Roberts (University of Victoria)*
+```
+
+```{block, type='secondary'}
+#### Parallel Session 11.2 – Transitions of Online Learning and Teaching: K12 Online
+
+**Nonverbal Communication (NVC) and teacher presence in collaborative online learning in primary school (Research-Oriented)**
+
+*Ayşegül Liman Kaban (Bahcesehir University)*
+```
+
+```{block, type='secondary'}
+#### Integration of Technology with UDL and RTI in Inclusive Classrooms (Research-Oriented)
+
+*Diane Montgomery (University of Prince Edward Island)*
+
+```{block, type='secondary'}
+#### Creating a Socially Inclusive Learning Environment Through Mobile Technologies for Students with Autism Spectrum Disorders (Research-Oriented)
+
+*Rahim Pira (University of Calgary)*
+```
+
+### Parallel Session 11.3 – Transitions of Online Learning and Teaching – PSE Assessment {-}
+
+```{block, type='secondary'}
+#### No Need to Cheat, Every Reason to Succeed: The Benefits of Alternative, Authentic Assessments in Online English Literature Courses (Research-Oriented)
+
+*Shannon Lodoen, University of Waterloo*
+```
+
+### Parallel Session 11.4 – Sustaining Positive Change - Ethics {-}
+
+```{block, type='secondary'}
+#### Applying Trauma-informed Design to Online and Face-to-Face Teaching and Learning (Research-Oriented)
+
+*Suzanne Reinhardt (Simon Fraser University)*
+```
+
+### Parallel Session 11.5 – Transitions of Online Learning and Teaching - PSE {-}
+
+```{block, type='secondary'}
+#### The SAMR Model as a Framework for Scaffolding Online Chat (Research-Oriented)
+
+*Janine Aldous Arantes*
+```
+
+## Break (5:30 – 6:00) {-}
+
+
+
+## Parallel Session 12 - Invited Speakers (6:00 – 6:45) {-}
+
+### Parallel Session 12.1 {-}
+
+```{block, type='wp'}
+#### Online Learning and the Disruption of Teaching and Learning
+
+*Tony Bates*, Chang School of Continuing Education (Ryerson University) and Contact North*
+```
+
+### Parallel Session 12.2 {-}
+
+```{block, type='wp'}
+#### Indigenous Representation in the Academy and Beyond
+
+*Lyn Trudeau, Brock University*
+```
+
+
+
+## Discussion/Networking Pods (6:45 – 7:00) {-}
+
+...or till end of convo

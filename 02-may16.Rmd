@@ -2,21 +2,30 @@
 
 ### Legend {-}
 
-```{block, type='wp'}
-#### Invited Speaker
-
-```
-
 ```{block, type='reflect'}
 #### Keynote
 
 ```
 
-```{block, type='secondary'}
-#### Presentation
+```{block, type='wp'}
+#### Invited Speaker
 
 ```
 
+```{block, type='secondary'}
+#### Regular Session
+
+```
+```{block, type='gh'}
+#### Social Session
+
+```
+```{block, type='protip'}
+
+#### ✨ Note{-}
+
+***All times are in Eastern Time (Canada)***
+```
 --- 
 
 
@@ -34,9 +43,7 @@
 
 ## Break (12:30 - 1:00) {-}
 
-## Parallel Session 1 (1:00 – 1:45)  {-}
-
-Invited Speaker Options   
+## Parallel Session 1 - Invited Speakers (1:00 – 1:45)  {-}
 
 ### Parallel Session 1.1 {-}
 
@@ -113,7 +120,6 @@ _Judith Fathallah (Lancaster University), Martin Eve (University of London, Tom 
 ### Parallel Session 2.4 {-}
 
 ```{block, type='secondary'}
-#### `TIME`
 
 **Flexible approaches to learning: Bridging inclusive/exclusive spaces through open educational practice (Practice-Oriented)**
 
@@ -121,7 +127,6 @@ _Michelle Harrison (Thompson Rivers University)_
 ```
 
 ```{block, type='secondary'}
-#### `TIME`
 
 **Warp and Weft: Weaving and Open Dissertation (Practice-Oriented)**
 
@@ -129,7 +134,6 @@ _Helen Dewaard (Lakehead University & University of British Columbia), Leo Havem
 ```
 
 ```{block, type='secondary'}
-#### `TIME`
 
 **Incorporating Open Educational Pedagogies and Co-mentorship Practices in Graduate Education (Research-Oriented)** 
 
@@ -137,7 +141,6 @@ _Cindy Ives (Athabasca University)_
 ```
 
 ```{block, type='secondary'}
-#### `TIME`
 
 **Critical reflection: How can open reflexive frameworks redefine academic practices? (Practice-Oriented)**
 
@@ -167,7 +170,7 @@ _Alissa Bigelow (eCampusOntario)_
 ## Social Session (4:00 – 4:30) {-}
 
 ```{block, type='gh'}
-#### Social: Gurdeep Pandher of the Yukon {-}
+#### Gurdeep Pandher of the Yukon {-}
 
 **Bhangra dance class**
 ```
@@ -178,7 +181,6 @@ _Alissa Bigelow (eCampusOntario)_
 ### Parallel Session 3.1 – Sustaining Positive Change: K12, GreenTech {-}
 
 ```{block, type='secondary'}
-#### `Time`
 
 **Improving environmental sustainability by using public school systems as centers of green energy production and conservation: Approaches to offsetting the cost of increased technology use and associated pollution (Practice-Oriented)**
 
@@ -189,7 +191,6 @@ _Scott Warren, Scott Moran, Kristen McGuffin (University of North Texas)_
 ### Parallel Session 3.2 – Sustaining Positive Change – PSE Open {-}
 
 ```{block, type='secondary'}
-#### `TIME`
 
 **Sustaining Complexity: Why Higher Education Should Avoid TechnoSolutionism (Practice-Oriented)**
 
@@ -200,7 +201,6 @@ _Jim Luke (Lansing Community College), Bonnie Stewart (University of Windsor)_
 ### Parallel Session 3.3 – Addressing the New Inequities: Critical EdTech {-}
 
 ```{block, type='secondary'}
-#### `time`
 
 **Rejecting the ready-made future: Reimagining technologies from and for the classroom (Research-Oriented)**
 
@@ -211,7 +211,6 @@ _Esteban Morales, Rachel Horst (University of British Columbia)_
 ### Parallel Session 3.4 – Addressing the New Inequities: Open {-}
 
 ```{block, type='secondary'}
-#### `TIME`
 
 **Open Educational Practices (OEP): Critical Policy Analysis in the Canadian Post-Secondary Education Context (Research-Oriented)**
 
@@ -221,7 +220,6 @@ _Mara Bordignon (University of Western Ontario)_
 ### Parallel Session 3.5 – Transitions of Online Learning and Teaching – Online & Society {-}
 
 ```{block, type='secondary'}
-#### `TIME`
 
 **Online or Remote Learning and Mental Health (Research-Oriented)**
 
@@ -252,4 +250,4 @@ _Matt Bower_
 
 ## Discussion/Networking Pods (6:45 – 7:00) {-}
 
-
+...or until the end of your conversation!

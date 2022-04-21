@@ -1,7 +1,0 @@
-# Abstracts
-
-```{block, type='protip'}
-#### ✨ Note {-}
-Abstracts linked in with daily schedule
-```
-

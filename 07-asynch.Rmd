@@ -1,0 +1,24 @@
+# Asynchronous Presentations (May 16-20, 2022) {-}
+
+
+## Practice-Oriented {-}
+
+```{block, type='secondary'}
+#### ePortfolio Pedagogy: Stimulating a Shift in Mindset
+
+*Rita Zuba Prokopetz, Athabasca University*
+```
+
+```{block, type='secondary'}
+#### Transitioning, and Why It’ll Never Be Enough
+
+*Christian Metaxas, Trent University*
+```
+
+```{block, type='secondary'}
+#### Assessing the impact of technological skills on students’ performance: Critical digital literacy and overconfidence bias
+
+*Marta Samokishyn, Saint Paul University*
+```
+
+

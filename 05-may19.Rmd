@@ -1,0 +1,301 @@
+# Thursday, May 19, 2022 
+### Legend {-}
+
+
+
+```{block, type='reflect'}
+#### Keynote
+
+```
+
+```{block, type='wp'}
+#### Invited Speaker
+
+```
+
+```{block, type='secondary'}
+#### Regular Session
+
+```
+```{block, type='gh'}
+#### Social Session
+
+```
+
+```{block, type='protip'}
+
+#### ✨ Note{-}
+
+***All times are in Eastern Time (Canada)***
+```
+--- 
+
+
+
+##  Welcome Desk Open (10:30 - 12:30) {-}
+
+
+## Conference Updates & Keynote (11:00 - 12:30) {-}
+
+```{block, type='reflect'}
+#### Things Unsaid: Exploring the Margins and Limits of Open
+
+*Brenna Clarke Gray, Thompson Rivers University*
+```
+
+
+
+## Break (12:30 - 1:00) {-}
+
+
+
+
+
+## Parallel Session 13 - Invited Speakers (1:00 – 1:45) {-}
+
+
+### Parallel Session 13.1 {-}
+
+```{block, type='wp'}
+#### Digital Inequalities in Education by Design
+
+*Simon Collin, Université du Québec à Montréal*
+```
+
+### Parallel Session 13.2 {-}
+
+```{block, type='wp'}
+#### The Ripple Effect: Reflecting Upon and Developing an Open Learning Identity Through the Pandemic and Beyond
+
+*Verena Roberts, Thompson Rivers University*
+```
+
+
+
+## Break (1:45 – 2:15) {-}
+
+## Parallel Session 14 (2:15 – 3:45) {-}
+
+
+
+
+### Parallel Session 14.1 – Transitions of Online Learning and Teaching: PSE {-}
+
+```{block, type='secondary'}
+#### 2:15-2:45
+
+**Évolution de pratiques pédagogiques inclusives au collégial en contexte pandémique (Research-Oriented)**
+
+*Géraldine Heilporn (Université Laval), Simon Larose (Université Laval), Catherine Beaulieu (Cégep de Saint-Laurent, Montréal, Québec)*
+```
+
+```{block, type='secondary'}
+#### 2:45-3:45
+
+
+**Aspirations for post pandemic teaching and learning: Stepping stones for future possibilities**
+*Lisa Gedak (Royal Roads University & Kwantlen Polytechnic University)*
+```
+
+### Parallel Session 14.2 – Sustaining Positive Change: K12 Online {-}
+
+```{block, type='secondary'}
+#### 2:15-2:45
+
+
+**Project MIXITÉ: Towards a Numér-ACTIF process of the intervention plan promoting the active participation of the student, his parents, and interprofessional collaborative practices (Practice-Oriented)**
+
+*Audrey Raynault*
+```
+
+```{block, type='secondary'}
+#### 2:45-3:45
+
+**Professional Learning and Online Tutoring**
+
+*Michael Canuel (LearnQuebec)*
+```
+
+### Parallel Session 14.3 – Transitions of Online Learning and Teaching: Community {-}
+
+```{block, type='secondary'}
+#### 2:15-2:45
+
+**How Digital Technologies Shapes Pedagogical Practices in Virtual Chinese Language Classroom (Research-Oriented)**
+
+*Yina Liu (University of Alberta), Jing Jin (University of Alberta)*
+```
+```{block, type='secondary'}
+#### 2:45-3:45
+
+**Indigenizing Internationalization and Internationalizing Indigenization: Insights from a Virtual Study Abroad to Ireland, Jamaica, and Aotearoa/New Zealand (Research-Oriented)**
+
+*Michael Cottrell, Kristine Dreaver-Charles (University of Saskatchewan)*
+```
+### Parallel Session 14.4 – Sustaining Positive Change: Open {-}
+
+```{block, type='secondary'}
+#### Provocations and Perspectives: A Work in Progress Learning Design Framework (Practice-Oriented)
+
+*Michael Paskevicius (University of Victoria)*
+```
+
+```{block, type='secondary'}
+#### Open Learning Design: Principles & Practices (Practice-Oriented)
+
+*Verena Roberts (University of Calgary & Thompson Rivers University), Leo Havemann (University College London), Helen Dewaard (Lakehead University & University of British Columbia)*
+```
+
+```{block, type='secondary'}
+#### How faculty perceptions of and experiences with open access and predatory publications impact teaching and learning (Research-Oriented)
+
+*Richard Hayman (Mount Royal University)*
+```
+
+```{block, type='secondary'}
+#### Conestoga OER Teaching Case Journal: Creating a peer-reviewed, openly licensed, and accessible teaching case journal at Conestoga College (Practice-Oriented)
+
+*Kevin McDermott, Jane Gravill, Fatih Yegal, Kimberlee Carter (Conestoga College)*
+```
+
+### Parallel Session 14.5 – Wildcard: Open {-}
+
+#### 2:15-2:45: *Wildcard: 10-min ALT Format* {-}
+
+```{block, type='secondary'}
+
+
+#### Fostering Resiliency in Online Learners: A Blended Test Anxiety Intervention
+
+*Jacqueline Yu*
+```
+
+```{block, type='secondary'}
+#### The Liberated Learner: How to Learn with Style
+
+*Terry Greene (Trent University), Giulia Forsythe (Brock University)*
+```
+
+```{block, type='secondary'}
+#### The role of inquiry-based information literacy curriculum design in fostering self-efficacy in the digital learning environment
+
+*Marta Samokishyn (Saint Paul University)*
+```
+
+```{block, type='secondary'}
+#### 2:45-3:45
+
+**Learning In the Open: The Journey of Creating and Implementing Open Web-Based Portfolio Templates (Practice-Oriented)**
+
+*Melanie Laurie (Fraser Health), Jamie Drozda (Thompson Rivers University)*
+```
+
+
+## Break (3:45 – 4:00) {-}
+
+## Social Session (4:00 – 4:30) {-}
+
+```{block, type='gh'}
+#### Dr Jones (DJ)
+
+*Beats*
+```
+
+## Parallel Session 15 (4:30 – 5:30) {-}
+
+### Parallel Session 15.1 – Sustaining Positive Change: PSE Online Teacher Education {-}
+
+```{block, type='secondary'}
+#### Practicum During the Pandemic: Zooming In (Practice-Oriented) 
+
+*Christine Ho Younghusband (University of Northern British Columbia)*
+```
+
+```{block, type='secondary'}
+#### Equipping Pre-Service Teacher Candidates for a Post-Pandemic Reality: Building e-Pedagogy Skills and Connecting Theory to Praxis (Practice-Oriented)
+
+*Karen Roeck (Heritage Christian Online School), Nina Pak Lui (Trinity Western University)*
+```
+
+### Parallel Session 15.2 – Sustaining Positive Change: PSE Graduate Ed {-}
+
+```{block, type='secondary'}
+#### Graduate Supervision Webinar Series: Open, Online, and Transdisciplinary Faculty Development (Research-Oriented)
+
+*Michele Jacobsen (University of Calgary)*
+```
+
+### Parallel Session 15.3 - Wildcard: PSE Online {-}
+
+```{block, type='secondary'}
+#### From Crime Scene to the Laboratory: Travel CSI style!
+
+*Sanela Martic, Stephanie Ferguson, James Bailey (Trent University)*
+```
+
+### Parallel Session 15.4 – Transitions of Online Learning and Teaching – Open {-}
+
+
+```{block, type='secondary'}
+#### Lessons from the Pandemic: How did a terrible online course make a better textbook? (Practice-Oriented)
+
+*Rebekah Bennetch (University of Saskatchewan), Zach Keesey*
+```
+
+```{block, type='secondary'}
+#### Show Me Your Crystal Ball: An Environmental Scan for Usefulness (Practice-Oriented)
+
+*Jenni Hayman (Cambrian College)*
+```
+
+```{block, type='secondary'}
+#### Opening a Seminal Work for the Next Century (Practice-Oriented)
+
+*Kristine Dreaver-Charles, Monique Mayer (University of Saskatchewan)*
+```
+
+
+## Parallel Session 15.5 {-}
+
+```{block, type='secondary'}
+#### 4:30-5:00 – Sustaining Positive Change - PSE
+
+**Investigating the Conversational Framework as a design approach (Research-Oriented)**
+
+*Maryam Shirdel Pour, Michael Paskevicius (University of Victoria)*
+```
+
+```{block, type='secondary'}
+#### 5:00-5:30 – Addressing the New Inequities - PSE
+
+**Defining Diversity in the Development of a Health Education Media Library (Practice-Oriented)**
+
+*Danielle Dilkes (University of Western Ontario)*
+```
+
+
+
+## Break( 5:30 – 6:00) {-}
+
+
+
+
+## \#tresdancing - Invited Speakers (6:00 – 6:45) {-}
+
+```{block, type='wp'}
+#### Short Film Screening and Q&A with Filmmakers
+
+*sava saheli singh, University of Ottawa (co-producer)*  
+*Tim Maughan (script writer)*  
+*Hingman Leung (director)*  
+*Lesley Marshall (co-producer)*  
+```
+
+## Closing Comments - Conference Co-Chairs / Introducing Workshops & Unconference (6:45 – 6:55) {-}
+
+
+## Discussion/Networking Pods 6:55 – ♾️ {-}
+
+
+
+

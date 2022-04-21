@@ -1,0 +1,167 @@
+# Friday, May 20, 2022 
+### Legend {-}
+
+
+
+```{block, type='reflect'}
+#### Keynote
+
+```
+
+```{block, type='wp'}
+#### Invited Speaker
+
+```
+
+```{block, type='secondary'}
+#### Regular Session
+
+```
+
+```{block, type='gh'}
+#### Social Session
+
+```
+
+```{block, type='protip'}
+
+#### ✨ Note{-}
+
+***All times are in Eastern Time (Canada)***
+```
+--- 
+
+
+
+##  Welcome Desk Open (10:30 - 12:30) {-}
+
+
+## Conference Updates & Keynote (11:00 - 12:30) {-}
+
+
+## Parallel Session 16 - Workshops (11:30 - 12:30) {-}
+
+
+### Parallel Session 16.1 {-}
+
+```{block, type='todo'}
+#### Design-Based Research
+
+*Michele Jacobsen, University of Calgary*
+```
+
+### Parallel Session 16.2 {-}
+
+```{block, type='todo'}
+#### Open Education – Title Forthcoming
+
+*Leo Havemann, University College London*
+```
+
+### Parallel Session 16.3 {-}
+
+```{block, type='todo'}
+#### Decolonisation of learning spaces: It’s not about knowing more but knowing better
+
+*Marguerite Koole (University of Saskatchewan), John Traxler (UNESCO, Wolverhampton University), Shri Footring (Independent Researcher)*
+```
+
+### Parallel Session 16.4 {-}
+
+```{block, type='todo'}
+#### Introduction to Pressbooks
+
+*Verena Roberts, Barbara Brown (University of Calgary)*
+```
+## Break (12:30 – 12:45) {-}
+
+## Unconference Session (aka: EdCamp) (12:45 – 1:45) {-}
+## Break (1:45 – 2:15) {-}
+
+## Parallel Session 17 (2:15 – 4:15) {-}
+ 
+### Parallel Session 17.1 (2:15-4:15) {-}
+
+```{block, type='todo'}
+#### Analyzing and Visualizing Survey Questions Using Open-Source Software
+
+*Okan Bulut, University of Alberta*
+```
+
+### Parallel Session 17.2  {-}
+
+
+```{block, type='todo'}
+#### 2:15-3:15
+**Stories of Learning & Teaching Online Together: Digital Literacy Basic Skills with Indigenous Students in Remote Communities**
+
+*Suzanne Jolly*
+```
+```{block, type='todo'}
+#### 3:15-4:15
+
+**OER in the Plague Years – Lessons and a Hands-on Workshop**
+
+*Joshua Halpern, Yasin Dahi, LibreTexts*
+```
+
+### Parallel Session 17.3 {-}
+
+```{block, type='todo'}
+#### 2:15-3:15
+
+
+**An Innovative Approach to Academic Publishing: Open Books**
+
+*Suzan Koseoglu (University of Greenwich) & Royce Kimmons (Bringham Young University)*
+```
+
+```{block, type='todo'}
+#### 3:15-4:15
+
+**Share Access! Using Bookdown to Remove Barriers and Open Up Learning**
+
+*Kelly Marjanovic (Trinity Western University)*
+```
+
+
+
+
+
+## Break (4:15– 4:30) {-}
+
+
+
+
+## Parallel Session 18 (4:30 – 5:30) {-}
+
+
+### Parallel Session 18.1 {-}
+
+```{block, type='todo'}
+#### Using 360 Spaces to Engage Learners with Virtual Puzzle Escape Rooms
+
+*Lillian Chumbley (Trent University), Jane Tyerman (University of Ottawa)*
+```
+
+### Parallel Session 18.2 {-}
+
+```{block, type='todo'}
+#### CRICKET: An OER for Educational Developers and Instructional Designers
+
+*Brenda Smith, Marie Martlett, Brenna Clarke Gray, Carolyn Ives (Thompson Rivers University)*
+```
+
+### Parallel Session 18.3 {-}
+
+```{block, type='todo'}
+#### The eLearning Design Charrette: A H5P Workshop
+
+*JR Dingwall, University of Saskatchewan*
+```
+
+## Closing Comments (5:30-5:45) {-}
+
+
+## Discussion/Networking Pods (5:45 - ♾️) {-}
+
