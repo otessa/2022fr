@@ -1,0 +1,15 @@
+bookdown::gitbook:
+  includes:
+      in_header: includes.html
+  css: style.css
+  config:
+    toc:
+      collapse: section
+      scroll_highlight: true
+      before: |
+        <li><a href="https://otessa.org" target="blank">OTESSA</a></li>
+      after: |
+        <li><a href="https://bookdown.org" target="blank">Published with bookdown</a></li>
+    edit: https://github.com/otessa/2022/edit/master/%s
+    download: ["epub"]
+bookdown::epub_book: default

@@ -1,0 +1,255 @@
+# Monday, May 16, 2022 
+
+### Legend {-}
+
+```{block, type='wp'}
+#### Invited Speaker
+
+```
+
+```{block, type='reflect'}
+#### Keynote
+
+```
+
+```{block, type='secondary'}
+#### Presentation
+
+```
+
+--- 
+
+
+
+##  Welcome Desk Open (10:30 - 12:30) {-}
+
+## Conference Welcome and Keynote (11:00 - 12:30) {-}
+
+```{block, type='reflect'}
+#### Metaphors of Ed Tech
+*Martin Weller*  
+[Abstract](https://otessa.github.io/2022/keynotes-intro.html#metaphors-of-edtech)
+
+```
+
+## Break (12:30 - 1:00) {-}
+
+## Parallel Session 1 (1:00 – 1:45)  {-}
+
+Invited Speaker Options   
+
+### Parallel Session 1.1 {-}
+
+```{block, type='wp'}
+#### **Embracing the Middle**
+
+*Jess Mitchell*
+```
+
+### Parallel Session 1.2 {-}
+
+```{block, type='wp'}
+#### **One for All, All for One, to Support and Enable Our Learning  Societies** 
+
+*Nadia Naffi*
+```
+## Break (1:45 – 2:15) {-}
+
+## Parallel Session 2 (2:15 – 3:45) {-}
+
+### Parallel Session 2.1 - WILDCARD: Indigenous Language Revival & K12 Truth & Reconciliation {-}
+
+```{block, type='secondary'}
+#### 2:15-2:45 
+**Elders’ Conversations: Perspectives on leveraging digital technology in language revival (Research-Oriented)**
+
+*Melissa Bishop*
+```
+
+```{block, type='secondary'}
+#### 2:45-3:45 {-}
+
+**Truth and Reconciliation Through Inquiry-based Collaborative Learning (Practice-Oriented)**
+
+_Deirdre Houghton (Nechako Lakes School District & University of Victoria), Gary Soles (Nechako Lakes School District & University of Victoria), Andrew Vogelsang (Nechako Lakes School District & University of Victoria), Valerie Irvine (University of Victoria)_
+``` 
+
+### Parallel Session 2.2 – Sustaining Positive Change: PSE Ethics & PSE Scholarship {-}
+
+```{block, type='secondary'}
+#### 2:15-2:45 {-}
+
+**Surveillance in the System: Data as Critical Change in Higher Education (Research-Oriented)**
+
+_Bonnie Stewart (University of Windsor), Samatha Szcyrek (University of Windsor)_
+```
+
+```{block, type='secondary'}
+####  2:45-3:45 {-}
+
+**Cognification in Education in Light of the Fourth Industrial Revolution (Research-Oriented)**
+
+_Vivekanandan Kumar (Athabasca University), Mohamed Ally (Athabasca University), Avgoustos Tsinakos (International Hellenic University), Muhammad Helmi Norman (Universiti Kebangsaan Malaysia)_
+```
+
+### Parallel Session 2.3 – Transitions of Online Learning and Teaching: E-Texts / OER {-}
+
+```{block, type='secondary'}
+#### 2:15-2:45 {-}
+
+**Investigating the effects of computer-generated contextual landmarks on short-term recall of e-texts (Research-Oriented)**
+
+_Jon Dron, Rory McGreal, Vive Kumar, Jennifer Davies (Athabasca University)_
+```
+
+```{block, type='secondary'}
+#### 2:45-3:45 {-}
+
+**Community-Led Infrastructures for Open Access Books: A Sustainable Model and Platform (Practice-Oriented)**
+
+_Judith Fathallah (Lancaster University), Martin Eve (University of London, Tom Grady (University of London)_
+```
+
+### Parallel Session 2.4 {-}
+
+```{block, type='secondary'}
+#### `TIME`
+
+**Flexible approaches to learning: Bridging inclusive/exclusive spaces through open educational practice (Practice-Oriented)**
+
+_Michelle Harrison (Thompson Rivers University)_
+```
+
+```{block, type='secondary'}
+#### `TIME`
+
+**Warp and Weft: Weaving and Open Dissertation (Practice-Oriented)**
+
+_Helen Dewaard (Lakehead University & University of British Columbia), Leo Havemann (University College London), Verena Roberts (University of Calgary & Thompson Rivers University)_
+```
+
+```{block, type='secondary'}
+#### `TIME`
+
+**Incorporating Open Educational Pedagogies and Co-mentorship Practices in Graduate Education (Research-Oriented)** 
+
+_Cindy Ives (Athabasca University)_
+```
+
+```{block, type='secondary'}
+#### `TIME`
+
+**Critical reflection: How can open reflexive frameworks redefine academic practices? (Practice-Oriented)**
+
+_Helen DeWaard (Lakehead University & University of British Columbia), Shauna Burnie (Lakehead University)_
+```
+
+### Parallel Session 2.5 {-}
+
+```{block, type='secondary'}
+#### 2:15-2:45 – Sustaining Positive Change – PSE Open {-}
+
+**Open educational practice and research resources created by students, for students (Practice-Oriented)**
+
+_Marie Bartlett & Students (Thompson Rivers University)_
+```
+
+```{block, type='secondary'}
+#### 2:45-3:45: – Transitions of Online Learning and Teaching – PSE Online {-}
+
+**Building digital fluency skills during the rapid transition to online and hybrid teaching through open access with the Ontario Extend program (Practice-Oriented)**
+
+_Alissa Bigelow (eCampusOntario)_
+```
+
+## Break  (3:45 – 4:00) {-}
+
+## Social Session (4:00 – 4:30) {-}
+
+```{block, type='gh'}
+#### Social: Gurdeep Pandher of the Yukon {-}
+
+**Bhangra dance class**
+```
+
+## Parallel Session 3 (4:30 – 5:30) {-}
+
+
+### Parallel Session 3.1 – Sustaining Positive Change: K12, GreenTech {-}
+
+```{block, type='secondary'}
+#### `Time`
+
+**Improving environmental sustainability by using public school systems as centers of green energy production and conservation: Approaches to offsetting the cost of increased technology use and associated pollution (Practice-Oriented)**
+
+_Scott Warren, Scott Moran, Kristen McGuffin (University of North Texas)_
+```
+
+
+### Parallel Session 3.2 – Sustaining Positive Change – PSE Open {-}
+
+```{block, type='secondary'}
+#### `TIME`
+
+**Sustaining Complexity: Why Higher Education Should Avoid TechnoSolutionism (Practice-Oriented)**
+
+_Jim Luke (Lansing Community College), Bonnie Stewart (University of Windsor)_
+```
+
+
+### Parallel Session 3.3 – Addressing the New Inequities: Critical EdTech {-}
+
+```{block, type='secondary'}
+#### `time`
+
+**Rejecting the ready-made future: Reimagining technologies from and for the classroom (Research-Oriented)**
+
+_Esteban Morales, Rachel Horst (University of British Columbia)_
+```
+
+
+### Parallel Session 3.4 – Addressing the New Inequities: Open {-}
+
+```{block, type='secondary'}
+#### `TIME`
+
+**Open Educational Practices (OEP): Critical Policy Analysis in the Canadian Post-Secondary Education Context (Research-Oriented)**
+
+_Mara Bordignon (University of Western Ontario)_
+```
+
+### Parallel Session 3.5 – Transitions of Online Learning and Teaching – Online & Society {-}
+
+```{block, type='secondary'}
+#### `TIME`
+
+**Online or Remote Learning and Mental Health (Research-Oriented)**
+
+_Stephanie Moore (University of New Mexico), Michael Barbour (Touro University California), George Veletsianos (Royal Roads University)_
+```
+
+## Break (5:30 - 6:00) {-}
+
+## Parallel Session 4 (6:00 - 6:45) {-}
+
+Invited Speakers
+
+### Parallel Session 4.1 {-}
+
+```{block, type='reflect'}
+#### Land-use Metaphor in Scholarly Communication: A Brief Inventory and Inspection {-}
+
+_AJ Boston_
+```
+
+### Parallel Session 4.2 {-}
+
+```{block, type='reflect'}
+#### Critical Change in Online Education - What We Can Learn (And Not Learn) From COVID as a Context {-}
+
+_Matt Bower_
+```
+
+## Discussion/Networking Pods (6:45 – 7:00) {-}
+
+
