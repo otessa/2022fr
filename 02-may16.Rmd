@@ -10,7 +10,7 @@
 ```
 
 ```{block, type='reflect'}
-#### Conférenciers principaux
+#### Conférences principales
 
 ```
 
