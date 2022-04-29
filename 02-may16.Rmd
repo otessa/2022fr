@@ -236,16 +236,14 @@ Conférenciers invités
 ### Séance en parallèle 4.1 {-}
 
 ```{block, type='reflect'}
-#### Land-use Metaphor in Scholarly Communication: A Brief Inventory and Inspection {-}
-
+#### "Land-use Metaphor in Scholarly Communication: A Brief Inventory and Inspection" (La métaphore de l'utilisation du sol dans la communication savante : bref inventaire et examen) {-}
 _AJ Boston_
 ```
 
 ### Séance en parallèle 4.2 {-}
 
 ```{block, type='reflect'}
-#### Critical Change in Online Education - What We Can Learn (And Not Learn) From COVID as a Context {-}
-
+#### “Critical Change in Online Education - What We Can Learn (And Not Learn) From COVID as a Context” Changement critique en formation en ligne - Ce que nous pouvons apprendre (et ne pas apprendre) du contexte de COVID {-}
 _Matt Bower_
 ```
 
