@@ -32,10 +32,10 @@
 
 
 
-##  Welcome Desk Open (10:30 - 12:30) {-}
+## Ouverture du bureau d’accueil (10:30 - 12:30) {-}
 
 
-## Conference Updates & Keynote (11:00 - 12:30) {-}
+## Mot de bienvenue et conférence principale (11:00 - 12:30) {-}
 
 ```{block, type='reflect'}
 #### Outside-In: Openness as Subversion
@@ -44,36 +44,34 @@
 
 
 
-## Break (12:30 - 1:00) {-}
+## Pause (12:30 - 1:00) {-}
 
-## Parallel Session 9 - Invited Speakers (1:00 – 1:45){-}
+## Séances de conférencières et conférenciers invités (1:00 – 1:45){-}
 
 
-### Parallel Session 9.1 {-}
+### Séance en parallèle 9.1 {-}
 
 ```{block, type='wp'}
-#### Embracing Feminist Pedagogies in Learning Design
-
+#### "Embracing Feminist Pedagogies in Learning Design" (Inclure les pédagogies féministes dans la conception pédagogique)
 *Enilda Romero-Hall, University of Tampa*
 ```
 
-### Parallel Session 9.2 {-}
+### Séance en parallèle 9.2 {-}
 
 ```{block, type='wp'}
-#### Using Wikimedia as a Teaching Tool: How Wikidata can support Indigenous and low resource languages on the internet
-
+#### "Using Wikimedia as a Teaching Tool: How Wikidata can support Indigenous and low resource languages on the internet" (Utilisation de Wikimedia comme outil d'enseignement : comment Wikidata peut soutenir les langues autochtones et à faibles ressources sur Internet)
 *Sadik Shahadu*
 ```
 
 
 
-## Break (1:45 – 2:15) {-}
+## Pause (1:45 – 2:15) {-}
 
 
-## Parallel Session 10 (2:15 – 3:45) {-}
+## Séance en parallèle 10 (2:15 – 3:45) {-}
 
 
-### Parallel Session 10.1 – Transitions of Online Learning and Teaching {-}
+### Séance en parallèle 10.1 – Transitions of Online Learning and Teaching {-}
 
 ```{block, type='secondary'}
 #### 2:15-2:45 – K12
@@ -100,7 +98,7 @@
 ```
 
 
-## Parallel Session 10.2 – Transitions of Online Learning and Teaching: PSE Online {-}
+## Séance en parallèle 10.2 – Transitions of Online Learning and Teaching: PSE Online {-}
 
 ```{block, type='secondary'}
 #### 2:15-2:45
@@ -117,7 +115,7 @@
 *Joerdis Weilandt, Sandra Dixon, Richelle Marynowski, Lorraine Beaudin, Rumi Graham, Stavroula Malla, Angeliki Pantazi (University of Lethbridge)*
 ```
 
-### Parallel Session 10.3 – Addressing the New Inequities: PSE {-}
+### Séance en parallèle 10.3 – Addressing the New Inequities: PSE {-}
 
 ```{block, type='secondary'}
 #### 2:15-2:45
@@ -135,7 +133,7 @@
 *Laura Killam (Queens University), Jess Mitchell (Ontario College of Art and Design University)*
 ```
 
-### Parallel Session 10.4 {-}
+### Séance en parallèle 10.4 {-}
 
 ```{block, type='secondary'}
 #### 2:15-2:45 – Wildcard: Microlearning/Society
@@ -161,7 +159,7 @@
 *Robert Grégoire, Jacques Cool, Olivier Alfieri (Réseau d'enseignement francophone à distance)*
 ```
 
-### Parallel Session 10.5 {-}
+### Séance en parallèle 10.5 {-}
 
 ```{block, type='secondary'}
 #### 2:15-2:45 – Sustaining Positive Change – PSE Online
@@ -179,9 +177,9 @@
 *Brenna Clarke Gray (Thompson Rivers University)*
 ```
 
-## Break 3:45 – 4:00 {-}
+## Pause 3:45 – 4:00 {-}
 
-## Social Session (4:00 – 4:30) {-}
+## Séance en parallèle (4:00 – 4:30) {-}
 
 ```{block, type='gh'}
 #### Kendra Coupland
@@ -189,11 +187,11 @@
 **Mindfulness Session**
 ```
 
-## Parallel Session 11 (4:30 – 5:30) {-}
+## Séance en parallèle 11 (4:30 – 5:30) {-}
 
 
 
-### Parallel Session 11.1 – Transitions of Online Learning and Teaching: PSE Open {-}
+### Séance en parallèle 11.1 – Transitions of Online Learning and Teaching: PSE Open {-}
 
 ```{block, type='secondary'}
 #### Multi-Section Open Course Design: Design and Implications for Faculty, Sessional Instructors, and Learners (Practice-Oriented)
@@ -220,7 +218,7 @@
 *Rahim Pira (University of Calgary)*
 ```
 
-### Parallel Session 11.3 – Transitions of Online Learning and Teaching – PSE Assessment {-}
+### Séance en parallèle 11.3 – Transitions of Online Learning and Teaching – PSE Assessment {-}
 
 ```{block, type='secondary'}
 #### No Need to Cheat, Every Reason to Succeed: The Benefits of Alternative, Authentic Assessments in Online English Literature Courses (Research-Oriented)
@@ -228,7 +226,7 @@
 *Shannon Lodoen, University of Waterloo*
 ```
 
-### Parallel Session 11.4 – Sustaining Positive Change - Ethics {-}
+### Séance en parallèle 11.4 – Sustaining Positive Change - Ethics {-}
 
 ```{block, type='secondary'}
 #### Applying Trauma-informed Design to Online and Face-to-Face Teaching and Learning (Research-Oriented)
@@ -236,7 +234,7 @@
 *Suzanne Reinhardt (Simon Fraser University)*
 ```
 
-### Parallel Session 11.5 – Transitions of Online Learning and Teaching - PSE {-}
+### Séance en parallèle 11.5 – Transitions of Online Learning and Teaching - PSE {-}
 
 ```{block, type='secondary'}
 #### The SAMR Model as a Framework for Scaffolding Online Chat (Research-Oriented)
@@ -244,30 +242,28 @@
 *Janine Aldous Arantes*
 ```
 
-## Break (5:30 – 6:00) {-}
+## Pause (5:30 – 6:00) {-}
 
 
 
-## Parallel Session 12 - Invited Speakers (6:00 – 6:45) {-}
+## Séances de conférencières et conférenciers invités (6:00 – 6:45) {-}
 
-### Parallel Session 12.1 {-}
+### Séance en parallèle 12.1 {-}
 
 ```{block, type='wp'}
-#### Online Learning and the Disruption of Teaching and Learning
-
+#### "Online Learning and the Disruption of Teaching and Learning" ” (Apprentissage en ligne et bouleversements en enseignement et apprentissage)
 *Tony Bates*, Chang School of Continuing Education (Ryerson University) and Contact North*
 ```
 
-### Parallel Session 12.2 {-}
+### Séance en parallèle 12.2 {-}
 
 ```{block, type='wp'}
-#### Indigenous Representation in the Academy and Beyond
-
+#### "Indigenous Representation in the Academy and Beyond" (Représentation des autochtones dans les milieux académiques et au-delà)
 *Lyn Trudeau, Brock University*
 ```
 
 
 
-## Discussion/Networking Pods (6:45 – 7:00) {-}
+## Discussion/Networking Pods - Discussions/Réseautage (ateliers) (6:45 – 7:00) {-}
 
 ...or till end of convo
