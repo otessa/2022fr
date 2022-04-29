@@ -9,8 +9,7 @@
 ```
 
 ```{block, type='wp'}
-#### Invited Speaker
-
+#### Conférencières et conférenciers invités
 ```
 
 ```{block, type='secondary'}
