@@ -42,7 +42,7 @@
 
 ```
 
-## Break (12:30 - 1:00) {-}
+## Pause (12:30 - 1:00) {-}
 
 ## Séances en parallèle 1 - Conférenciers invités (1:00 – 1:45)  {-}
 
@@ -61,7 +61,7 @@
 
 *Nadia Naffi*
 ```
-## Break (1:45 – 2:15) {-}
+## Pause (1:45 – 2:15) {-}
 
 ## Séances en parallèle 2 (2:15 – 3:45) {-}
 
@@ -166,7 +166,7 @@ _Marie Bartlett & Students (Thompson Rivers University)_
 _Alissa Bigelow (eCampusOntario)_
 ```
 
-## Break  (3:45 – 4:00) {-}
+## Pause  (3:45 – 4:00) {-}
 
 ## Évènement social (4:00 – 4:30) {-}
 
@@ -227,7 +227,7 @@ _Mara Bordignon (University of Western Ontario)_
 _Stephanie Moore (University of New Mexico), Michael Barbour (Touro University California), George Veletsianos (Royal Roads University)_
 ```
 
-## Break (5:30 - 6:00) {-}
+## Pause (5:30 - 6:00) {-}
 
 ## Séances en parallèle 4 (6:00 - 6:45) {-}
 
