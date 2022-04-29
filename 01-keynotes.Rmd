@@ -5,10 +5,9 @@
 ## Martin Weller {-}
 
 ```{block, type='reflect'}
-### Metaphors of EdTech
+### Metaphores of EdTech
 
-In this talk, I will explore why metaphors are both a useful and potentially misleading way of thinking about educational technology. A number of metaphors will be proposed and analysed which demonstrate how metaphors can shape our thinking and help us view educational technology from different perspectives. The Covid pandemic saw nearly all education institutions engaging in an online pivot, which usually involved online versions of existing practices, such as lectures. As we seek to build on this experience and offer a richer online experience it has become evident that the face-to-face lecture has become a dominant model that many struggle to see past. This talk will examine how different metaphors can help us approach educational technology.  
-
+Au cours de cette rencontre, j'analyserai en quoi les métaphores sont à la fois une manière utile et potentiellement trompeuse de percevoir la technologie éducative. Un certain nombre de métaphores seront proposées et analysées afin de démontrer comment les métaphores peuvent façonner notre pensée et nous aider à envisager la technologie éducative sous différents angles. La pandémie de Covid a vu presque toutes les institutions éducatives s'engager dans un pivot en ligne, qui impliquait généralement des versions en ligne des pratiques existantes, telles que les conférences. Alors que nous cherchons à tirer parti de cette expérience et à offrir une expérience en ligne plus riche, il est devenu évident que le cours magistral en face à face est devenu un modèle dominant que beaucoup ont du mal à dépasser. Cet exposé examinera comment différentes métaphores peuvent nous aider à aborder la technologie éducative.
 ```
 
 ## Sherri Spelic {-}
@@ -16,7 +15,7 @@ In this talk, I will explore why metaphors are both a useful and potentially mis
 ```{block, type='reflect'}
 ### Hide and Seek: On Kids, Power, and Resistance in Education
 
-I want to explore what happens when the learners in our care resist our offer of help, expertise, and teaching. How do we make sense of students applying refusal skills in the classroom? Rather than provide answers I will draw on student statements about the possibility and significance of saying "no" at school and use these to probe our understanding and appreciation of power in students' hands and voices. We'll also pose the question: to what degree do our pedagogies leave space for negotiation and power sharing? And where does this show itself in practice?
+Je veux explorer ce qui se passe lorsque les apprentis qui nous sont confiés résistent à notre offre d'aide, notre expertise et notre enseignement. Comment comprendre que les élèves appliquent des compétences de refus en classe? Plutôt que de fournir des réponses, je m'appuierai sur les déclarations des élèves concernant la possibilité et la signification de dire "non" à l'école et je les utiliserai pour sonder notre compréhension et notre appréciation du pouvoir dans les mains et les voix des élèves. Nous poserons également la question suivante : dans quelle mesure nos pédagogies laissent-elles un espace pour la négociation et le partage du pouvoir ? Et où cela se manifeste-t-il dans la pratique?
 ```
 
 ## Maha Bali {-}
@@ -24,10 +23,9 @@ I want to explore what happens when the learners in our care resist our offer of
 ```{block, type='reflect'}
 ### Outside-In: Openness as Subversion
 
-We often talk about how open education expands access, supports knowledge sharing, and potentially enhances the quality of education. We also critique open education for sometimes reproducing inequalities despite promising to promote social justice.  
-But what about the ways in which "openness" removes/destroys barriers within us? In what ways does openness empower us from the outside-in? When does openness influence critical change and when might it fail to do so?  
-In this interactive session, we will explore some of the things openness makes possible that are often not possible within the walls of institutions, and which can end up challenging and subverting injustice.
-
+Nous parlons souvent de la façon dont l'éducation ouverte élargit l'accès, soutient le partage des connaissances et améliore potentiellement la qualité de l'éducation. Nous critiquons également l'éducation ouverte pour avoir parfois reproduit des inégalités malgré sa promesse de promouvoir la justice sociale.  
+Mais qu'en est-il de la manière dont l'"ouverture" élimine/détruit les barrières en nous ? De quelle manière l'ouverture nous donne-t-elle du pouvoir de l'extérieur vers l'intérieur? Quand l'ouverture influence-t-elle le changement critique et quand peut-elle échouer à le faire?  
+Au cours de cette session interactive, nous explorerons certaines des choses que l'ouverture rend possibles et qui ne sont souvent pas possibles entre les murs des institutions, et qui peuvent finir par remettre en question et subvertir l'injustice.
 ```
 
 ## Brenna Clarke Gray {-}
@@ -35,5 +33,5 @@ In this interactive session, we will explore some of the things openness makes p
 ```{block, type='reflect'}
 ### Things Unsaid: Exploring the Margins and Limits of Open
 
-Open is not an unambiguous good, a panacea, or accessible to everyone. But maybe it could be more of all of those things if, as a community, we could talk more openly about open’s borders and limitations. What does it mean to say we are a community of open educators? What is the edge of open-ness, and how do we account for its definition? What — and whose — truths remain unsaid or unspoken even in communities that define themselves as open? And who is safe to choose open? Offering an autoethnography of pregnancy loss set against the backdrop of the pandemic university as a place to start this exploration, this talk looks to chart the margins and limits of open and to ask about the benefits of expanding the scope and possibilities of openness in our institutions. It invites all of us to imagine a more perfect open, or at least to consider how more of us can be supported to speak our things unsaid.
+L'ouverture n'est pas un bien sans ambiguïté, une panacée, ou accessible à tous. Mais peut-être qu'elle pourrait être plus que toutes ces choses si, en tant que communauté, nous pouvions parler plus ouvertement des frontières et des limites de l'ouverture. Qu'est-ce que cela signifie de dire que nous sommes une communauté d'éducateurs ouverts? Quelle est la limite de l'ouverture, et comment rendre compte de sa définition? Quelles vérités - et celles de qui - restent inexprimées ou non dites, même dans les communautés qui se définissent comme ouvertes? Et qui peut choisir l'ouverture en toute sécurité? En proposant une auto-ethnographie sur la perte d'une grossesse dans le contexte de la pandémie universitaire comme point de départ de cette exploration, cette présentation cherche à définir les marges et les limites de l'ouverture et à s'interroger sur les avantages d'élargir la portée et les possibilités de l'ouverture dans nos institutions. Elle nous invite tous à imaginer une ouverture plus parfaite, ou du moins à réfléchir à la manière dont nous pouvons être plus nombreux à être soutenus pour dire nos non-dits.
 ```
