@@ -68,7 +68,7 @@
 ## Pause (1:45 – 2:15) {-}
 
 
-## Séance en parallèle 10 (2:15 – 3:45) {-}
+## Séances en parallèle 10 (2:15 – 3:45) {-}
 
 
 ### Séance en parallèle 10.1 – Transitions of Online Learning and Teaching {-}
@@ -179,7 +179,7 @@
 
 ## Pause 3:45 – 4:00 {-}
 
-## Séance en parallèle (4:00 – 4:30) {-}
+## Évènement social (4:00 – 4:30) {-}
 
 ```{block, type='gh'}
 #### Kendra Coupland
@@ -187,7 +187,7 @@
 **Mindfulness Session**
 ```
 
-## Séance en parallèle 11 (4:30 – 5:30) {-}
+## Séances en parallèle 11 (4:30 – 5:30) {-}
 
 
 
