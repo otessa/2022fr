@@ -61,10 +61,10 @@
 ## Pause (1:45 – 2:15) {-}
 
 
-## Séances en parallèle 6 (2:15 – 3:45) {-}
+## Parallel sessions 6 (2:15 – 3:45) {-}
 
 
-### Séance en parallèle 6.1 – Sustaining Positive Change - K12 & PSE {-}
+### Parallel session 6.1 – Sustaining Positive Change - K12 & PSE {-}
 
 ```{block, type='secondary'}
 #### 2:15-2:45
@@ -81,7 +81,7 @@
 
 *Connie Blomgren (Athabasca University)*
 ```
-### Séance en parallèle 6.2  {-}
+### Parallel session 6.2  {-}
 
 ```{block, type='secondary'}
 #### 2:15-2:45 - Transitions of Online Learning and Teaching – PSE
@@ -98,7 +98,7 @@
 *Andrew Mardjetko, Michele Jacobsen, Beth Archer-Kuhn, Cari Din, Lorelli Nowell, Heather Jamniczky (University of Calgary)*
 ```
 
-### Séance en parallèle 6.3 – Transitions of Online Learning and Teaching – PSE {-}
+### Parallel session 6.3 – Transitions of Online Learning and Teaching – PSE {-}
 
 ```{block, type='secondary'}
 #### 2:15-2:45
@@ -115,7 +115,7 @@
 *Don Eldridge, Megan Houghton (eCampusOntario)*
 ```
 
-### Séance en parallèle  6.4 {-}
+### Parallel session  6.4 {-}
 
 ```{block, type='secondary'}
 
@@ -143,7 +143,7 @@
 
 *Colin Madland (University of Victoria)*
 ```
-### Séance en parallèle 6.5 - WildCard – PSE Open {-}
+### Parallel session 6.5 - WildCard – PSE Open {-}
 
 ```{block, type='secondary'}
 #### 2:15-2:45
@@ -171,10 +171,10 @@
 **Special Musical Guest**
 ```
 
-## Séances en parallèle 7 (4:30 – 5:30) {-}
+## Parallel sessions 7 (4:30 – 5:30) {-}
 
 
-### Séance en parallèle 7.1 – Addressing the New Inequities: Online Ed {-}
+### Parallel session 7.1 – Addressing the New Inequities: Online Ed {-}
 
 ```{block, type='secondary'}
 **Naamaktuq? A question of balancing professional learning needs of educators and online learning in Nunavut (Research-Oriented)**
@@ -188,7 +188,7 @@
 *Tanya Elias, University of Calgary*
 ```
 
-### Séance en parallèle  7.2 – Addressing New Inequities/Sustaining Positive Change: PSE Online & Open {-}
+### Parallel session  7.2 – Addressing New Inequities/Sustaining Positive Change: PSE Online & Open {-}
 
 ```{block, type='secondary'}
 **From Study Abroad to Virtual Study Abroad: Decolonizing and Opening the Academy (Practice-Oriented)**
@@ -203,7 +203,7 @@
 *Colin Madland (University of Victoria)*
 ```
 
-### Séance en parallèle 7.3 – Sustaining Positive Change: PSE {-}
+### Parallel session 7.3 – Sustaining Positive Change: PSE {-}
 
 ```{block, type='secondary'}
 
@@ -218,7 +218,7 @@
 *Melanie Opmeer (University of Calgary)*
 ```
 
-### Séance en parallèle 7.4 – Transitions of Online Learning and Teaching – PSE Online {-}
+### Parallel session 7.4 – Transitions of Online Learning and Teaching – PSE Online {-}
 
 ```{block, type='secondary'}
 **Turning to uncertainty for online learning (Practice-Oriented)**
@@ -226,7 +226,7 @@
 *David Cormier, University of Windsor*
 ```
 
-### Séance en parallèle 7.5 – Transitions of Online Learning and Teaching: PSE {-}
+### Parallel session 7.5 – Transitions of Online Learning and Teaching: PSE {-}
 
 ```{block, type='secondary'}
 
