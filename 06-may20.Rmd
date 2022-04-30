@@ -39,7 +39,7 @@
 ## Mot de bienvenue et conférence principale (11:00 - 12:30) {-}
 
 
-## Séance en parallèle 16 - Workshops (11:30 - 12:30) {-}
+## Séances en parallèle 16 - Workshops (11:30 - 12:30) {-}
 
 
 ### Séance en parallèle  16.1 {-}
@@ -78,7 +78,7 @@
 ## Unconference Session (aka: EdCamp) (12:45 – 1:45) {-}
 ## Pause (1:45 – 2:15) {-}
 
-## Séance en parallèle 17 (2:15 – 4:15) {-}
+## Séances en parallèle 17 (2:15 – 4:15) {-}
  
 ### Séance en parallèle 17.1 (2:15-4:15) {-}
 
@@ -133,7 +133,7 @@
 
 
 
-## Séance en parallèle 18 (4:30 – 5:30) {-}
+## Séances en parallèle 18 (4:30 – 5:30) {-}
 
 
 ### Séance en parallèle 18.1 {-}
