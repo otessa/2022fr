@@ -68,10 +68,10 @@
 ## Pause (1:45 – 2:15) {-}
 
 
-## Séances en parallèle 10 (2:15 – 3:45) {-}
+## Parallel sessions 10 (2:15 – 3:45) {-}
 
 
-### Séance en parallèle 10.1 – Transitions of Online Learning and Teaching {-}
+### Parallel session 10.1 – Transitions of Online Learning and Teaching {-}
 
 ```{block, type='secondary'}
 #### 2:15-2:45 – K12
@@ -98,7 +98,7 @@
 ```
 
 
-## Séance en parallèle 10.2 – Transitions of Online Learning and Teaching: PSE Online {-}
+## Parallel session 10.2 – Transitions of Online Learning and Teaching: PSE Online {-}
 
 ```{block, type='secondary'}
 #### 2:15-2:45
@@ -115,7 +115,7 @@
 *Joerdis Weilandt, Sandra Dixon, Richelle Marynowski, Lorraine Beaudin, Rumi Graham, Stavroula Malla, Angeliki Pantazi (University of Lethbridge)*
 ```
 
-### Séance en parallèle 10.3 – Addressing the New Inequities: PSE {-}
+### Parallel session 10.3 – Addressing the New Inequities: PSE {-}
 
 ```{block, type='secondary'}
 #### 2:15-2:45
@@ -133,7 +133,7 @@
 *Laura Killam (Queens University), Jess Mitchell (Ontario College of Art and Design University)*
 ```
 
-### Séance en parallèle 10.4 {-}
+### Parallel session 10.4 {-}
 
 ```{block, type='secondary'}
 #### 2:15-2:45 – Wildcard: Microlearning/Society
@@ -159,7 +159,7 @@
 *Robert Grégoire, Jacques Cool, Olivier Alfieri (Réseau d'enseignement francophone à distance)*
 ```
 
-### Séance en parallèle 10.5 {-}
+### Parallel session 10.5 {-}
 
 ```{block, type='secondary'}
 #### 2:15-2:45 – Sustaining Positive Change – PSE Online
@@ -187,11 +187,11 @@
 **Mindfulness Session**
 ```
 
-## Séances en parallèle 11 (4:30 – 5:30) {-}
+## Parallel sessions 11 (4:30 – 5:30) {-}
 
 
 
-### Séance en parallèle 11.1 – Transitions of Online Learning and Teaching: PSE Open {-}
+### Parallel session 11.1 – Transitions of Online Learning and Teaching: PSE Open {-}
 
 ```{block, type='secondary'}
 #### Multi-Section Open Course Design: Design and Implications for Faculty, Sessional Instructors, and Learners (Practice-Oriented)
@@ -218,7 +218,7 @@
 *Rahim Pira (University of Calgary)*
 ```
 
-### Séance en parallèle 11.3 – Transitions of Online Learning and Teaching – PSE Assessment {-}
+### Parallel session 11.3 – Transitions of Online Learning and Teaching – PSE Assessment {-}
 
 ```{block, type='secondary'}
 #### No Need to Cheat, Every Reason to Succeed: The Benefits of Alternative, Authentic Assessments in Online English Literature Courses (Research-Oriented)
@@ -226,7 +226,7 @@
 *Shannon Lodoen, University of Waterloo*
 ```
 
-### Séance en parallèle 11.4 – Sustaining Positive Change - Ethics {-}
+### Parallel session 11.4 – Sustaining Positive Change - Ethics {-}
 
 ```{block, type='secondary'}
 #### Applying Trauma-informed Design to Online and Face-to-Face Teaching and Learning (Research-Oriented)
@@ -234,7 +234,7 @@
 *Suzanne Reinhardt (Simon Fraser University)*
 ```
 
-### Séance en parallèle 11.5 – Transitions of Online Learning and Teaching - PSE {-}
+### Parallel session 11.5 – Transitions of Online Learning and Teaching - PSE {-}
 
 ```{block, type='secondary'}
 #### The SAMR Model as a Framework for Scaffolding Online Chat (Research-Oriented)
