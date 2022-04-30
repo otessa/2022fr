@@ -61,7 +61,7 @@
 ## Pause (1:45 – 2:15) {-}
 
 
-## Séance en parallèle 6 (2:15 – 3:45) {-}
+## Séances en parallèle 6 (2:15 – 3:45) {-}
 
 
 ### Séance en parallèle 6.1 – Sustaining Positive Change - K12 & PSE {-}
@@ -171,10 +171,10 @@
 **Special Musical Guest**
 ```
 
-## Séance en parallèle 7 (4:30 – 5:30) {-}
+## Séances en parallèle 7 (4:30 – 5:30) {-}
 
 
-### Parallel Session 7.1 – Addressing the New Inequities: Online Ed {-}
+### Séance en parallèle 7.1 – Addressing the New Inequities: Online Ed {-}
 
 ```{block, type='secondary'}
 **Naamaktuq? A question of balancing professional learning needs of educators and online learning in Nunavut (Research-Oriented)**
@@ -247,10 +247,10 @@
 
 
 
-## Séance en parallèle  8 - Conférenciers invités (6:00 – 6:45) {-}
+## Séances en parallèle  8 - Conférenciers invités (6:00 – 6:45) {-}
 
  
-### Parallel Session 8.1  {-}
+### Séance en parallèle 8.1 {-}
 
 
 ```{block, type='reflect'}
@@ -259,7 +259,7 @@
 *Terry Anderson, Athabasca University*
 ```
 
-### Parallel Session 8.2 {-}
+### Séance en parallèle 8.2 {-}
 ```{block, type='reflect'}
 #### "Exploring the Inquiry Classroom" ” (Explorer la classe d'investigation)
 
