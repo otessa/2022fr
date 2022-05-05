@@ -1,7 +1,7 @@
 # Asynchronous Presentations (May 16-20, 2022) {-}
 
 
-## Practice-Oriented - Axé sur la pratique {-}
+## Axé sur la pratique {-}
 
 ```{block, type='secondary'}
 #### ePortfolio Pedagogy: Stimulating a Shift in Mindset
