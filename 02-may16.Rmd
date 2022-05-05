@@ -33,7 +33,7 @@
 
 ##  Ouverture du bureau d'accueil (10:30 - 12:30) {-}
 
-## Mot d'ouverture de la conférence et conférenciers principaux (11:00 - 12:30) {-}
+## Mot d'ouverture de la conférence et conférence principale (11:00 - 12:30) {-}
 
 ```{block, type='reflect'}
 #### Metaphors of Ed Tech
