@@ -1,7 +1,7 @@
 --- 
-title: "OTESSA 2022 Program"
-author: "Open Technology in Education, Society, and Scholarship Association"
-date: "Last updated `r Sys.Date()`"
+title: "Programme de la Conférence 2022 "
+author: "Ouverture et Technologies en Éducation, dans la Société et pour l’avancement des Savoirs"
+date: "dernière mise à jour `r Sys.Date()`"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
 documentclass: book
@@ -9,7 +9,7 @@ bibliography: [book.bib]
 biblio-style: apalike
 link-citations: yes
 github-repo: otessa/2022fr
-description: "Open Technology in Education, Society, and Scholarship Association"
+description: "Ouverture et Technologies en Éducation, dans la Société et pour l’avancement des Savoirs"
 ---
 
 # Welcome {-}
@@ -21,14 +21,15 @@ Welcome to our searchable program. We will continue to update this site througho
 
 #### ✨ Note{-}
 
-***All times are in Eastern Time (Canada)***
+***Toutes les heures indiquées sont selon l’horaire de l’est (Québec, Canada)***
 ```
 
 ![](assets/media/image2.jpeg)
 
-All OTESSA Participants can attend the [Congress “Big Thinking” lecture series](https://www.federationhss.ca/en/congress/congress-2022/open-programming). These take place each day of the conference. Congress has “[open events](https://www.federationhss.ca/en/congress/congress-2022/calendar-open-events)” available as well (open to registrants across association conferences at Congress as well as those who hold community passes).
+Tous les participants à OTESSA peuvent assister à la [série de causeries Voir grand](https://www.federationhss.ca/fr/congres/congres-2022/programme/programmation-ouverte) de cette année ainsi qu’aux [autres évènements ouverts](https://www.federationhss.ca/fr/congres/congres-2022/calendrier-des-evenements-ouverts) dans le calendrier. Ces évènements ont lieu chaque jour de la conférence. 
 
-All OTESSA Registrants can also attend conference sessions offered by the [Canadian Association for the Study of Education (CSSE)](https://csse-scee.ca/), [Canadian Association for the Study of Higher Education (CSSHE)](https://csshe-scees.ca/), [Canadian Association of Learned Journals (CALJ)](https://www.calj-acrs.ca/), and [Canadian Association for the Study of Adult Education (CASAE)](https://www.casae-aceea.ca/) as we have reciprocity agreements in place. 
+Tous les participants inscrits à la conference OTESSA peuvent aussi assister sans frais aux séances des associations suivantes :  la [Société Canadienne pour l’Étude de l’Éducation (SCÉÉ)](https://csse-scee.ca/fr), la [Société Canadienne pour l’Étude de l’Enseignement Supérieur (SCEES)](https://csshe-scees.ca/francais/), la [Association Canadienne des Revues Savantes (ACRS)](https://www.calj-acrs.ca/fr) et l’[Association Canadienne pour l’Étude de l’Éducation des Adultes (ACÉÉA)](https://www.casae-aceea.ca/) puisque nous avons conclu des ententes de réciprocité. Notez toutefois que les présentateurs doivent s’inscrire à chaque conférence où ils présentent une communication. 
+ 
 
 Please note that presenters must register in each conference in which they are presenting. 
 
