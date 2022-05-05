@@ -36,10 +36,10 @@
 ## Mot de bienvenue et conférence principale (11:00 - 12:30) {-}
 
 
-## Parallel session 16 - Workshops (11:30 - 12:30) {-}
+## Séances en parallèle 16 - Workshops (11:30 - 12:30) {-}
 
 
-### Parallel session  16.1 {-}
+### Séance en parallèle  16.1 {-}
 
 ```{block, type='todo'}
 #### Design-Based Research
@@ -47,7 +47,7 @@
 *Michele Jacobsen, University of Calgary*
 ```
 
-### Parallel session 16.2 {-}
+### Séance en parallèle 16.2 {-}
 
 ```{block, type='todo'}
 #### Open Education – Title Forthcoming
@@ -55,7 +55,7 @@
 *Leo Havemann, University College London*
 ```
 
-### Parallel session 16.3 {-}
+### Séance en parallèle 16.3 {-}
 
 ```{block, type='todo'}
 #### Decolonisation of learning spaces: It’s not about knowing more but knowing better
@@ -63,7 +63,7 @@
 *Marguerite Koole (University of Saskatchewan), John Traxler (UNESCO, Wolverhampton University), Shri Footring (Independent Researcher)*
 ```
 
-### Parallel session 16.4 {-}
+### Séance en parallèle 16.4 {-}
 
 ```{block, type='todo'}
 #### Introduction to Pressbooks
@@ -72,12 +72,12 @@
 ```
 ## Pause (12:30 – 12:45) {-}
 
-## Unconference Session (aka: EdCamp) (12:45 – 1:45) {-}
+## Unconference (aka: EdCamp) (12:45 – 1:45) {-}
 ## Pause (1:45 – 2:15) {-}
 
-## Parallel sessions 17 (2:15 – 4:15) {-}
+## Séances en parallèle 17 (2:15 – 4:15) {-}
  
-### Parallel session 17.1 (2:15-4:15) {-}
+### Séance en parallèle 17.1 (2:15-4:15) {-}
 
 ```{block, type='todo'}
 #### Analyzing and Visualizing Survey Questions Using Open-Source Software
@@ -85,7 +85,7 @@
 *Okan Bulut, University of Alberta*
 ```
 
-### Parallel session 17.2  {-}
+### Séance en parallèle 17.2  {-}
 
 
 ```{block, type='todo'}
@@ -102,7 +102,7 @@
 *Joshua Halpern, Yasin Dahi, LibreTexts*
 ```
 
-### Parallel session 17.3 {-}
+### Séance en parallèle 17.3 {-}
 
 ```{block, type='todo'}
 #### 2:15-3:15
@@ -130,10 +130,10 @@
 
 
 
-## Parallel sessions 18 (4:30 – 5:30) {-}
+## Séances en parallèle 18 (4:30 – 5:30) {-}
 
 
-### Parallel session 18.1 {-}
+### Séance en parallèle 18.1 {-}
 
 ```{block, type='todo'}
 #### Using 360 Spaces to Engage Learners with Virtual Puzzle Escape Rooms
@@ -141,7 +141,7 @@
 *Lillian Chumbley (Trent University), Jane Tyerman (University of Ottawa)*
 ```
 
-### Parallel session 18.2 {-}
+### Séance en parallèle 18.2 {-}
 
 ```{block, type='todo'}
 #### CRICKET: An OER for Educational Developers and Instructional Designers
@@ -149,7 +149,7 @@
 *Brenda Smith, Marie Martlett, Brenna Clarke Gray, Carolyn Ives (Thompson Rivers University)*
 ```
 
-### Parallel session 18.3 {-}
+### Séance en parallèle 18.3 {-}
 
 ```{block, type='todo'}
 #### The eLearning Design Charrette: A H5P Workshop

@@ -81,10 +81,10 @@ Cette présentation se concentrera sur la façon dont vous pouvez utiliser Wikim
 ## Pause (1:45 – 2:15) {-}
 
 
-## Parallel sessions 10 (2:15 – 3:45) {-}
+## Séances en parallèle 10 (2:15 – 3:45) {-}
 
 
-### Parallel session 10.1 – Transitions of Online Learning and Teaching {-}
+### Séance en parallèle 10.1 – Transitions of Online Learning and Teaching {-}
 
 ```{block, type='secondary'}
 #### 2:15-2:45 – K12
@@ -111,7 +111,7 @@ Cette présentation se concentrera sur la façon dont vous pouvez utiliser Wikim
 ```
 
 
-## Parallel session 10.2 – Transitions of Online Learning and Teaching: PSE Online {-}
+## Séance en parallèle 10.2 – Transitions of Online Learning and Teaching: PSE Online {-}
 
 ```{block, type='secondary'}
 #### 2:15-2:45
@@ -128,7 +128,7 @@ Cette présentation se concentrera sur la façon dont vous pouvez utiliser Wikim
 *Joerdis Weilandt, Sandra Dixon, Richelle Marynowski, Lorraine Beaudin, Rumi Graham, Stavroula Malla, Angeliki Pantazi (University of Lethbridge)*
 ```
 
-### Parallel session 10.3 – Addressing the New Inequities: PSE {-}
+### Séance en parallèle 10.3 – Addressing the New Inequities: PSE {-}
 
 ```{block, type='secondary'}
 #### 2:15-2:45
@@ -146,7 +146,7 @@ Cette présentation se concentrera sur la façon dont vous pouvez utiliser Wikim
 *Laura Killam (Queens University), Jess Mitchell (Ontario College of Art and Design University)*
 ```
 
-### Parallel session 10.4 {-}
+### Séance en parallèle 10.4 {-}
 
 ```{block, type='secondary'}
 #### 2:15-2:45 – Wildcard: Microlearning/Society
@@ -172,7 +172,7 @@ Cette présentation se concentrera sur la façon dont vous pouvez utiliser Wikim
 *Robert Grégoire, Jacques Cool, Olivier Alfieri (Réseau d'enseignement francophone à distance)*
 ```
 
-### Parallel session 10.5 {-}
+### Séance en parallèle 10.5 {-}
 
 ```{block, type='secondary'}
 #### 2:15-2:45 – Sustaining Positive Change – PSE Online
@@ -200,11 +200,11 @@ Cette présentation se concentrera sur la façon dont vous pouvez utiliser Wikim
 **Mindfulness Session**
 ```
 
-## Parallel sessions 11 (4:30 – 5:30) {-}
+## Séances en parallèle 11 (4:30 – 5:30) {-}
 
 
 
-### Parallel session 11.1 – Transitions of Online Learning and Teaching: PSE Open {-}
+### Séance en parallèle 11.1 – Transitions of Online Learning and Teaching: PSE Open {-}
 
 ```{block, type='secondary'}
 #### Multi-Section Open Course Design: Design and Implications for Faculty, Sessional Instructors, and Learners (Practice-Oriented)
@@ -231,7 +231,7 @@ Cette présentation se concentrera sur la façon dont vous pouvez utiliser Wikim
 *Rahim Pira (University of Calgary)*
 ```
 
-### Parallel session 11.3 – Transitions of Online Learning and Teaching – PSE Assessment {-}
+### Séance en parallèle 11.3 – Transitions of Online Learning and Teaching – PSE Assessment {-}
 
 ```{block, type='secondary'}
 #### No Need to Cheat, Every Reason to Succeed: The Benefits of Alternative, Authentic Assessments in Online English Literature Courses (Research-Oriented)
@@ -239,7 +239,7 @@ Cette présentation se concentrera sur la façon dont vous pouvez utiliser Wikim
 *Shannon Lodoen, University of Waterloo*
 ```
 
-### Parallel session 11.4 – Sustaining Positive Change - Ethics {-}
+### Séance en parallèle 11.4 – Sustaining Positive Change - Ethics {-}
 
 ```{block, type='secondary'}
 #### Applying Trauma-informed Design to Online and Face-to-Face Teaching and Learning (Research-Oriented)
@@ -247,7 +247,7 @@ Cette présentation se concentrera sur la façon dont vous pouvez utiliser Wikim
 *Suzanne Reinhardt (Simon Fraser University)*
 ```
 
-### Parallel session 11.5 – Transitions of Online Learning and Teaching - PSE {-}
+### Séance en parallèle 11.5 – Transitions of Online Learning and Teaching - PSE {-}
 
 ```{block, type='secondary'}
 #### The SAMR Model as a Framework for Scaffolding Online Chat (Research-Oriented)
@@ -290,6 +290,6 @@ La représentation autochtone dans le milieu universitaire a des répercussions 
 
 
 
-## Discussion/Networking Pods - Discussions/Réseautage (ateliers) (6:45 – 7:00) {-}
+## Discussions/Réseautage (ateliers) (6:45 – 7:00) {-}
 
 ...or till end of convo
