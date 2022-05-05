@@ -62,9 +62,9 @@
 ```
 ## Pause (1:45 – 2:15) {-}
 
-## Parallel sessions 2 (2:15 – 3:45) {-}
+## Séances en parallèle 2 (2:15 – 3:45) {-}
 
-### Parallel session 2.1 - WILDCARD: Indigenous Language Revival & K12 Truth & Reconciliation {-}
+### Séance en parallèle 2.1 - WILDCARD: Indigenous Language Revival & K12 Truth & Reconciliation {-}
 
 ```{block, type='secondary'}
 #### 2:15-2:45 
@@ -81,7 +81,7 @@
 _Deirdre Houghton (Nechako Lakes School District & University of Victoria), Gary Soles (Nechako Lakes School District & University of Victoria), Andrew Vogelsang (Nechako Lakes School District & University of Victoria), Valerie Irvine (University of Victoria)_
 ``` 
 
-### Parallel session 2.2 – Sustaining Positive Change: PSE Ethics & PSE Scholarship {-}
+### Séance en parallèle 2.2 – Sustaining Positive Change: PSE Ethics & PSE Scholarship {-}
 
 ```{block, type='secondary'}
 #### 2:15-2:45 {-}
@@ -99,7 +99,7 @@ _Bonnie Stewart (University of Windsor), Samatha Szcyrek (University of Windsor)
 _Vivekanandan Kumar (Athabasca University), Mohamed Ally (Athabasca University), Avgoustos Tsinakos (International Hellenic University), Muhammad Helmi Norman (Universiti Kebangsaan Malaysia)_
 ```
 
-### Parallel session 2.3 – Transitions of Online Learning and Teaching: E-Texts / OER {-}
+### Séance en parallèle 2.3 – Transitions of Online Learning and Teaching: E-Texts / OER {-}
 
 ```{block, type='secondary'}
 #### 2:15-2:45 {-}
@@ -117,7 +117,7 @@ _Jon Dron, Rory McGreal, Vive Kumar, Jennifer Davies (Athabasca University)_
 _Judith Fathallah (Lancaster University), Martin Eve (University of London, Tom Grady (University of London)_
 ```
 
-### Parallel sessions 2.4 {-}
+### Séance en parallèle 2.4 {-}
 
 ```{block, type='secondary'}
 
@@ -147,7 +147,7 @@ _Cindy Ives (Athabasca University)_
 _Helen DeWaard (Lakehead University & University of British Columbia), Shauna Burnie (Lakehead University)_
 ```
 
-### Parallel session 2.5 {-}
+### Séance en parallèle 2.5 {-}
 
 ```{block, type='secondary'}
 #### 2:15-2:45 – Sustaining Positive Change – PSE Open {-}
@@ -175,10 +175,10 @@ _Alissa Bigelow (eCampusOntario)_
 **Bhangra dance class**
 ```
 
-## Parallel sessions 3 (4:30 – 5:30) {-}
+## Séances en parallèle 3 (4:30 – 5:30) {-}
 
 
-### Parallel session 3.1 – Sustaining Positive Change: K12, GreenTech {-}
+### Séance en parallèle 3.1 – Sustaining Positive Change: K12, GreenTech {-}
 
 ```{block, type='secondary'}
 
@@ -188,7 +188,7 @@ _Scott Warren, Scott Moran, Kristen McGuffin (University of North Texas)_
 ```
 
 
-### Parallel session 3.2 – Sustaining Positive Change – PSE Open {-}
+### Séance en parallèle 3.2 – Sustaining Positive Change – PSE Open {-}
 
 ```{block, type='secondary'}
 
@@ -198,7 +198,7 @@ _Jim Luke (Lansing Community College), Bonnie Stewart (University of Windsor)_
 ```
 
 
-### Parallel session 3.3 – Addressing the New Inequities: Critical EdTech {-}
+### Séance en parallèle 3.3 – Addressing the New Inequities: Critical EdTech {-}
 
 ```{block, type='secondary'}
 
@@ -208,7 +208,7 @@ _Esteban Morales, Rachel Horst (University of British Columbia)_
 ```
 
 
-### Parallel session 3.4 – Addressing the New Inequities: Open {-}
+### Séance en parallèle 3.4 – Addressing the New Inequities: Open {-}
 
 ```{block, type='secondary'}
 
@@ -217,7 +217,7 @@ _Esteban Morales, Rachel Horst (University of British Columbia)_
 _Mara Bordignon (University of Western Ontario)_
 ```
 
-### Parallel session 3.5 – Transitions of Online Learning and Teaching – Online & Society {-}
+### Séance en parallèle 3.5 – Transitions of Online Learning and Teaching – Online & Society {-}
 
 ```{block, type='secondary'}
 
