@@ -33,5 +33,7 @@ Au cours de cette session interactive, nous explorerons certaines des choses que
 ```{block, type='reflect'}
 ### Things Unsaid: Exploring the Margins and Limits of Open
 
+**Keywords:** limits of open, challenges to open, autoethnography, pregnancy loss and miscarriage, institutional silences
+
 L'ouverture n'est pas un bien sans ambiguïté, une panacée, ou accessible à tous. Mais peut-être qu'elle pourrait être plus que toutes ces choses si, en tant que communauté, nous pouvions parler plus ouvertement des frontières et des limites de l'ouverture. Qu'est-ce que cela signifie de dire que nous sommes une communauté d'éducateurs ouverts? Quelle est la limite de l'ouverture, et comment rendre compte de sa définition? Quelles vérités - et celles de qui - restent inexprimées ou non dites, même dans les communautés qui se définissent comme ouvertes? Et qui peut choisir l'ouverture en toute sécurité? En proposant une auto-ethnographie sur la perte d'une grossesse dans le contexte de la pandémie universitaire comme point de départ de cette exploration, cette présentation cherche à définir les marges et les limites de l'ouverture et à s'interroger sur les avantages d'élargir la portée et les possibilités de l'ouverture dans nos institutions. Elle nous invite tous à imaginer une ouverture plus parfaite, ou du moins à réfléchir à la manière dont nous pouvons être plus nombreux à être soutenus pour dire nos non-dits.
 ```

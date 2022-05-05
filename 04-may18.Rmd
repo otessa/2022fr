@@ -1,32 +1,30 @@
-# Wedesday, May 18, 2022 
-### Legend {-}
-
-
-
-```{block, type='reflect'}
-#### Keynote
-
-```
-
-```{block, type='wp'}
-#### Invited Speaker
-
-```
-
-```{block, type='secondary'}
-#### Regular Session
-
-```
-```{block, type='gh'}
-#### Social Session
-
-```
+# Mercredi, 18 mai, 2022 
+### Légende {-}
 
 ```{block, type='protip'}
 
 #### ✨ Note{-}
 
-***All times are in Eastern Time (Canada)***
+*** L'horaire suit l'heure de l'est (Québec, Canada)***
+```
+
+```{block, type='reflect'}
+#### Conférences principales
+
+```
+
+```{block, type='wp'}
+#### Conférencières et conférenciers invités
+
+```
+
+```{block, type='secondary'}
+#### Séances régulières (communications)
+
+```
+```{block, type='gh'}
+#### Évènements sociaux
+
 ```
 --- 
 
@@ -54,6 +52,13 @@
 ```{block, type='wp'}
 #### "Embracing Feminist Pedagogies in Learning Design" (Inclure les pédagogies féministes dans la conception pédagogique)
 *Enilda Romero-Hall, University of Tampa*
+
+**Keywords:** Critical Change, Feminist Pedagogy, Intersectional Feminism, Learning Design
+
+#### Abstract 
+
+Je me considère comme une féministe intersectionnelle. Le féminisme intersectionnel considère que les identités sont constituées de multiples dimensions sociales, notamment le genre, la race, la sexualité et la classe (Crenshaw, 1989). En raison de mes tendances féministes intersectionnelles, en tant qu'universitaire, instructeur et concepteur d'apprentissage, j'ai adopté une philosophie de pédagogie féministe. Selon Shrewsbury (1987), la pédagogie féministe est une philosophie des processus d'enseignement/apprentissage qui guide notre choix de pratiques de classe dans lesquelles une communauté d'apprenants est habilitée à agir de manière responsable les uns envers les autres et envers le sujet. La pédagogie féministe nous encourage également à appliquer ce que nous apprenons à l'action sociale. Pour les praticiens de la conception de l'apprentissage et les instructeurs, l'intégration des principes de la pédagogie féministe stimule la conception et le développement d'expériences d'apprentissage plus équitables, inclusives et transformatrices. Le discours lié à la pédagogie féministe dans le domaine de la conception de l'apprentissage vise à faire évoluer le domaine vers une conception "universelle" qui prend en considération les besoins de tous les apprenants tout en promouvant l'agence, l'équité, l'autonomisation et la justice sociale.
+
 ```
 
 ### Séance en parallèle 9.2 {-}
@@ -61,6 +66,14 @@
 ```{block, type='wp'}
 #### "Using Wikimedia as a Teaching Tool: How Wikidata can support Indigenous and low resource languages on the internet" (Utilisation de Wikimedia comme outil d'enseignement : comment Wikidata peut soutenir les langues autochtones et à faibles ressources sur Internet)
 *Sadik Shahadu*
+
+**Keywords:** Wikidata, Lexicography, Lexemes, Languages, Wikimedia
+
+#### Abstract
+
+Depuis le début de Wikidata en 2012, la base de connaissances multilingue était principalement axée sur les concepts : Les Q-items sont liés à une chose ou une idée, et non au mot qui la décrit. Depuis 2018, Wikidata stocke également un nouveau type de données : des mots, des expressions et des phrases, dans de nombreuses langues, décrits dans de nombreuses langues. Ces informations sont stockées dans de nouveaux types d'entités, appelées Lexèmes (L), Formes (F) et Sens (S). 
+
+Cette présentation se concentrera sur la façon dont vous pouvez utiliser Wikimedia comme outil d'enseignement, les données lexicographiques de Wikidata : de l'enregistrement des mots, aux lexèmes et au-delà.
 ```
 
 
@@ -253,6 +266,13 @@
 ```{block, type='wp'}
 #### "Online Learning and the Disruption of Teaching and Learning" ” (Apprentissage en ligne et bouleversements en enseignement et apprentissage)
 *Tony Bates*, Chang School of Continuing Education (Ryerson University) and Contact North*
+
+**Keywords**: Covid-19, online learning, future skills, digital learning, best practices
+
+#### Abstract
+
+Pendant près de 30 ans, l'apprentissage en ligne a constitué une part croissante, cependant mineure, de l'enseignement supérieur. La Covid-19 et le développement de la vidéo synchrone ont changé la donne. L'apprentissage en ligne et en particulier l'apprentissage mixte vont prendre de plus en plus d'importance, tant pour des raisons économiques que pédagogiques. Mais nous devons tirer les leçons du passé pour garantir la qualité de notre utilisation future des technologies numériques. Cette présentation abordera (a) ce que nous avons appris sur la réussite de la conception de l'apprentissage en ligne (b) comment l'enseignement et l'apprentissage doivent changer pour répondre aux besoins des apprenants du 21ème siècle et (c) le rôle critique que les technologies numériques joueront dans cette transition.
+
 ```
 
 ### Séance en parallèle 12.2 {-}
@@ -260,6 +280,12 @@
 ```{block, type='wp'}
 #### "Indigenous Representation in the Academy and Beyond" (Représentation des autochtones dans les milieux académiques et au-delà)
 *Lyn Trudeau, Brock University*
+
+**Keywords:** representation visual reconciliation Anishinaabe storytelling 
+
+#### Abstract 
+
+La représentation autochtone dans le milieu universitaire a des répercussions qui s'étendent au-delà des établissements d'enseignement, et doit être synonyme de mauvaise/non-représentation en ce qui concerne la population autochtone. Les composantes visuelles dans les domaines académiques qui sont censées refléter l'histoire, le présent et l'avenir des Autochtones seront exprimées d'un point de vue anishinaabe. En outre, l'accent sera mis sur l'importance de la narration personnelle et collective et sur la vérité.
 ```
 
 

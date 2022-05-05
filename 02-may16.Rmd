@@ -59,6 +59,8 @@
 #### **One for All, All for One, to Support and Enable Our Learning  Societies** 
 
 *Nadia Naffi*
+
+***Reprogrammé pour 2023***
 ```
 ## Pause (1:45 – 2:15) {-}
 
@@ -237,6 +239,8 @@ Conférenciers invités
 ```{block, type='reflect'}
 #### "Land-use Metaphor in Scholarly Communication: A Brief Inventory and Inspection" (La métaphore de l'utilisation du sol dans la communication savante : bref inventaire et examen) {-}
 _AJ Boston_
+
+Les praticiens des domaines centrés sur l'information utilisent régulièrement des métaphores dans la littérature professionnelle et dans l'usage quotidien. Nombre d'entre elles sont basées sur l'utilisation des terres ou sur une compréhension générale des sciences naturelles, et se rapportent parfois (mais pas toujours) à un concept métaphorique plus large d'écologie de l'information ou d'écosystème de l'information. Le discours dans des domaines comme la communication savante ne fait pas exception. Ce que je recommande dans cette présentation est que nous commencions à faire l'inventaire de nos métaphores terrestres dans les communications savantes. Ensuite, par une inspection délibérée de nos concepts métaphoriques, nous pourrons vérifier si les présomptions que chacun d'entre eux implique correspondent à nos valeurs et ne nous amènent pas à tirer des conclusions fausses, fallacieuses ou prématurées. En reconnaissant l'utilité et l'effet des métaphores, nous devrions chercher à remplacer les anciennes lorsqu'elles cessent de porter des fruits sages.
 ```
 
 ### Séance en parallèle 4.2 {-}

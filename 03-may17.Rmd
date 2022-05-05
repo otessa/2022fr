@@ -1,30 +1,30 @@
-# Tuesday, May 17, 2022 
-### Legend {-}
+# Mardi, 17 mai, 2022 
+### Légende {-}
 
+```{block, type='protip'}
 
+#### ✨ Remarque {-}
+
+***L'horaire suit l'heure de l'est (Québec, Canada)***
+```
 
 ```{block, type='reflect'}
-#### Keynote
+#### Conférences principales
 
 ```
 
 ```{block, type='wp'}
 #### Conférencières et conférenciers invités
+
 ```
 
 ```{block, type='secondary'}
-#### Regular Session
+#### Séances régulières (communications)
 
 ```
 ```{block, type='gh'}
-#### Social Session
+#### Évènements sociaux
 
-```
-```{block, type='protip'}
-
-#### ✨ Note{-}
-
-***All times are in Eastern Time (Canada)***
 ```
 --- 
 
@@ -57,6 +57,12 @@
 #### "Shaping ‘the new normal’: Reflection and Design for Iterating Forward" (Façonner la "nouvelle normalité" : Réflexion et conception pour aller de l'avant)
 
 *Stephanie Moore, University of New Mexico*
+
+**Keywords:** reflective practice, design as agency
+
+#### Abstract 
+
+Schön (1983) décrit la réflexion-en-action comme une sorte de conversation que les concepteurs engagent tout au long du processus de conception et avec la situation. Whitbeck (1996) définit l'éthique non pas comme une évaluation ou un jugement visant à déterminer le bien ou le mal, mais comme un processus de conception, d'élaboration de plans d'action possibles en réponse à des problèmes moraux. Dans cette session, ces deux principes - la réflexion et la conception - forment la base de l'élaboration de nos réponses aux besoins mis en lumière par la pandémie et la rhétorique autour de la "nouvelle normalité". Cette session comprendra un temps de réflexion sur les visions souhaitables des "nouvelles normales" et une discussion sur les thèmes de nos visions. Nous explorerons ensuite ensemble l'idée de Whitbeck de "l'éthique en tant que conception" et la façon dont elle peut être utilisée pour mettre en œuvre une vision d'une nouvelle normalité à travers nos processus de conception et les produits ou environnements conçus que nous créons. Notre exploration du design comme moyen de mettre en œuvre une nouvelle normalité comprendra une "exposition d'inspiration de design" avec du temps pour faire le tour des idées et ensuite l'exploration de comment et où une vision d'une "nouvelle normalité" peut être intégrée à la fois dans la conception et la planification de l'enseignement et dans la conception des systèmes éducatifs.
 ```
 ## Pause (1:45 – 2:15) {-}
 
@@ -257,6 +263,8 @@
 #### "(learning) Information Wants to Be Free - Open Access Publishing - Challenges and Successes" (Information (pédagogique) libre - Publication en libre accès - Défis et succès)
 
 *Terry Anderson, Athabasca University*
+
+Cette session examine les progrès de la recherche sur l'apprentissage et l'éducation et sa lutte pour être libre et accessible à tous les enseignants, étudiants et chercheurs du monde entier. Elle examine les progrès d'IRRODL, qui est passé d'une revue en ligne naissante à l'une des revues les plus lues et citées dans notre domaine. Il examine ensuite les modèles or, argent et platine de publication formelle, le développement de ces modèles dans le monde quasi monopolistique de l'édition commerciale, l'impact des revues et conférences prédatrices. Enfin, la présentation examine les opportunités et les défis présentés par les modèles de publication au noir qui échappent aux restrictions du droit d'auteur.
 ```
 
 ### Séance en parallèle 8.2 {-}
@@ -264,6 +272,12 @@
 #### "Exploring the Inquiry Classroom" ” (Explorer la classe d'investigation)
 
 *Trevor Mackenzie, Greater Victoria School District (#61)*
+
+**Keywords:** inquiry, constructivism, student-centred learning, student agency, curiosity
+
+#### Abstract
+
+Trevor parlera de son travail de soutien aux écoles dans la mise en place de l'enquête, de la façon d'échafauder pour l'agencement des étudiants et de ce que les écoles d'enquête solides font pour construire une culture de l'enquête à la fois pour les étudiants et pour les enseignants. Trevor partagera les structures permettant de cultiver la curiosité et d'engager les apprenants comme partenaires dans la conception de l'expérience d'apprentissage. Les participants feront l'expérience de la recherche avec Trevor. Vous vous engagerez dans des routines de réflexion, des structures de compétences et explorerez des ressources que vous pourrez rapporter dans votre école et votre contexte, quels que soient votre rôle et votre position. L'une des valeurs de Trevor en matière d'enquête est que l'apprentissage fondé sur l'enquête n'est pas seulement une activité à laquelle participent nos élèves. De solides cultures d'enquête créent les conditions permettant à toutes les parties prenantes de s'engager dans la curiosité, l'émerveillement et l'enquête, que vous soyez enseignant, coordonnateur ou administrateur. Le temps passé avec Trevor transcendera le contexte tout en ayant une pertinence et une signification personnelles pour chacun d'entre vous.
 ```
 ## Discussion/Networking Pods - Discussions/Réseautage (ateliers) (6:45 – 7:00) {-}
 

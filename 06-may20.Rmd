@@ -1,33 +1,30 @@
-# Friday, May 20, 2022 
-### Legend {-}
-
-
-
-```{block, type='reflect'}
-#### Keynote
-
-```
-
-```{block, type='wp'}
-#### Invited Speaker
-
-```
-
-```{block, type='secondary'}
-#### Regular Session
-
-```
-
-```{block, type='gh'}
-#### Social Session
-
-```
+# Vendredi, 20 mai, 2022 
+### Légende {-}
 
 ```{block, type='protip'}
 
 #### ✨ Note{-}
 
-***All times are in Eastern Time (Canada)***
+*** L'horaire suit l'heure de l'est (Québec, Canada)***
+```
+
+```{block, type='reflect'}
+#### Conférences principales
+
+```
+
+```{block, type='wp'}
+#### Conférencières et conférenciers invités
+
+```
+
+```{block, type='secondary'}
+#### Séances régulières (communications)
+
+```
+```{block, type='gh'}
+#### Évènements sociaux
+
 ```
 --- 
 

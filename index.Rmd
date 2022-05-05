@@ -19,7 +19,7 @@ Welcome to our searchable program. We will continue to update this site througho
 
 ```{block, type='protip'}
 
-#### ✨ Note{-}
+#### ✨ Remarque {-}
 
 ***Toutes les heures indiquées sont selon l’horaire de l’est (Québec, Canada)***
 ```
