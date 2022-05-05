@@ -72,12 +72,12 @@
 
 ## Pause (1:45 – 2:15) {-}
 
-## Parallel sessions 14 (2:15 – 3:45) {-}
+## Séances en parallèle 14 (2:15 – 3:45) {-}
 
 
 
 
-### Parallel session 14.1 – Transitions of Online Learning and Teaching: PSE {-}
+### Séance en parallèle 14.1 – Transitions of Online Learning and Teaching: PSE {-}
 
 ```{block, type='secondary'}
 #### 2:15-2:45
@@ -95,7 +95,7 @@
 *Lisa Gedak (Royal Roads University & Kwantlen Polytechnic University)*
 ```
 
-### Parallel session 14.2 – Sustaining Positive Change: K12 Online {-}
+### Séance en parallèle 14.2 – Sustaining Positive Change: K12 Online {-}
 
 ```{block, type='secondary'}
 #### 2:15-2:45
@@ -114,7 +114,7 @@
 *Michael Canuel (LearnQuebec)*
 ```
 
-### Parallel session 14.3 – Transitions of Online Learning and Teaching: Community {-}
+### Séance en parallèle 14.3 – Transitions of Online Learning and Teaching: Community {-}
 
 ```{block, type='secondary'}
 #### 2:15-2:45
@@ -130,7 +130,7 @@
 
 *Michael Cottrell, Kristine Dreaver-Charles (University of Saskatchewan)*
 ```
-### Parallel session 14.4 – Sustaining Positive Change: Open {-}
+### Séance en parallèle 14.4 – Sustaining Positive Change: Open {-}
 
 ```{block, type='secondary'}
 #### Provocations and Perspectives: A Work in Progress Learning Design Framework (Practice-Oriented)
@@ -156,7 +156,7 @@
 *Kevin McDermott, Jane Gravill, Fatih Yegal, Kimberlee Carter (Conestoga College)*
 ```
 
-### Parallel session 14.5 – Wildcard: Open {-}
+### Séance en parallèle 14.5 – Wildcard: Open {-}
 
 #### 2:15-2:45: *Wildcard: 10-min ALT Format* {-}
 
@@ -199,9 +199,9 @@
 *Beats*
 ```
 
-## Parallel sessions 15 (4:30 – 5:30) {-}
+## Séances en parallèle 15 (4:30 – 5:30) {-}
 
-### Parallel session 15.1 – Sustaining Positive Change: PSE Online Teacher Education {-}
+### Séance en parallèle 15.1 – Sustaining Positive Change: PSE Online Teacher Education {-}
 
 ```{block, type='secondary'}
 #### Practicum During the Pandemic: Zooming In (Practice-Oriented) 
@@ -215,7 +215,7 @@
 *Karen Roeck (Heritage Christian Online School), Nina Pak Lui (Trinity Western University)*
 ```
 
-### Parallel session 15.2 – Sustaining Positive Change: PSE Graduate Ed {-}
+### Séance en parallèle 15.2 – Sustaining Positive Change: PSE Graduate Ed {-}
 
 ```{block, type='secondary'}
 #### Graduate Supervision Webinar Series: Open, Online, and Transdisciplinary Faculty Development (Research-Oriented)
@@ -223,7 +223,7 @@
 *Michele Jacobsen (University of Calgary)*
 ```
 
-### Parallel session 15.3 - Wildcard: PSE Online {-}
+### Séance en parallèle 15.3 - Wildcard: PSE Online {-}
 
 ```{block, type='secondary'}
 #### From Crime Scene to the Laboratory: Travel CSI style!
@@ -231,7 +231,7 @@
 *Sanela Martic, Stephanie Ferguson, James Bailey (Trent University)*
 ```
 
-### Parallel session 15.4 – Transitions of Online Learning and Teaching – Open {-}
+### Séance en parallèle 15.4 – Transitions of Online Learning and Teaching – Open {-}
 
 
 ```{block, type='secondary'}
@@ -253,7 +253,7 @@
 ```
 
 
-## Parallel session 15.5 {-}
+## Séance en parallèle 15.5 {-}
 
 ```{block, type='secondary'}
 #### 4:30-5:00 – Sustaining Positive Change - PSE
@@ -278,7 +278,7 @@
 
 
 
-## \#tresdancing - Invited Speakers - projection du court métrage et questions-réponses avec les personnes réalisatrices et productrices  (6:00 – 6:45) {-}
+## /#tresdancing - Invited Speakers - projection du court métrage et questions-réponses avec les personnes réalisatrices et productrices  (6:00 – 6:45) {-}
 
 ```{block, type='wp'}
 #### Short Film Screening and Q&A with Filmmakers
