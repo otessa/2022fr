@@ -133,7 +133,7 @@
 ```{block, type='secondary'}
 #### Provocations and Perspectives: A Work in Progress Learning Design Framework (Practice-Oriented)
 
-*Michael Paskevicius (University of Victoria)*
+*Michael Paskevicius (University of Victoria), Michelle Harrison (Thompson Rivers University), and Irwin DeVries (Royal Roads University)*
 ```
 
 ```{block, type='secondary'}
