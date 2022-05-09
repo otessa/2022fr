@@ -42,9 +42,17 @@
 ### Séance en parallèle  16.1 {-}
 
 ```{block, type='todo'}
-#### Design-Based Research
-
+#### Design-Based Research – Leading and Studying Innovation in Education
+ 
 *Michele Jacobsen, University of Calgary*
+
+**Keywords:** design-based research, theory-practice gap, innovation
+
+#### Abstract
+
+In practice, DBR is the application of knowledge and expertise about learning to collaboratively design solutions to address significant problems of practice. Change research is a form of praxis - the space and processes by which theory and practice are enacted, embodied and realized in a reflexive manner by implementing and studying innovation in education. I focus on how and why design-based research – a collection of methodological principles and approaches to studying innovative educational interventions in complex, real-world settings – bridges the theory-practice gap in sponsoring praxis and innovation in technology-enabled education.
+
+
 ```
 
 ### Séance en parallèle 16.2 {-}
@@ -69,6 +77,12 @@
 #### Introduction to Pressbooks
 
 *Verena Roberts, Barbara Brown (University of Calgary)*
+
+**Keywords:** Pressbooks, adaptation, course design
+
+#### Abatract
+
+Are you considering using or making pressbooks – but do not know where to start? This workshop is designed for those new or considering the use of pressbooks in their courses. We will begin with an overview of the many ways in which you could adopt pressbooks, then we will jump into using and adapting pressbooks for ourselves.  This workshop is designed to explore the potential of using pressbooks in any course. This workshop will encourage all participants to develop awareness about the potential for using pressbooks in their personal learning context by providing an overview and an opportunity to learn by playing in a pressbooks sandbox. Anyone interested in learning about pressbooks is welcome to attend this workshop. 
 ```
 ## Pause (12:30 – 12:45) {-}
 
