@@ -194,6 +194,17 @@ Schön (1983) décrit la réflexion-en-action comme une sorte de conversation qu
 *Tanya Elias, University of Calgary*
 ```
 
+```{block, type='secondary'}
+#### The Power of Teaching Talks: Supporting and Sustaining a University Community Through Critical Conversations  
+
+*Sarah Dreissens, Nipissing University*
+
+**Keywords:** community, professional development, teaching talks
+
+#### Abstract
+
+Feeling isolated or disconnected has always been present for some university community members, but for many of us, those feelings were intensified as we shifted from in-person to virtual workspaces (Segal et al, 2021). In response to COVID-19, Nipissing University’s Teaching Hub, an emerging centre for teaching and learning, launched a series of Teaching Talks to not only provide virtual spaces for professional development and dialogue, but to also support and sustain a university community. These Teaching Talks were run by a small team from the Teaching Hub who brought together panelists, both internal and external, ranging from faculty members and students through to working professionals and community activists. With over 500 views across eight Teaching Talks since the beginning of the pandemic, our team has created opportunities for conversation, critical thinking and reflection, and collaboration, all within a virtual space. Nipissing University’s Teaching Talks provide a way forward and offer a new opportunity for critical conversations and positive momentum around a culture of teaching and learning excellence that, we believe, will outlive the pandemic. Moreover, the Teaching Talks catalyzed how we envisioned and re-visioned community, providing a welcomed reframing of opportunities and challenges that emerged from the pandemic.  
+```
 ### Séance en parallèle 7.2 – Addressing New Inequities/Sustaining Positive Change: PSE Online & Open {-}
 
 ```{block, type='secondary'}

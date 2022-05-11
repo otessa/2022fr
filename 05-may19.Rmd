@@ -213,12 +213,30 @@
 *Karen Roeck (Heritage Christian Online School), Nina Pak Lui (Trinity Western University)*
 ```
 
+```{block, type='secondary'}
+
+#### Building Open Education Resources with Teacher Candidates – Reflections from the Field
+
+*Natalie Currie Patterson*
+
+**Keywords:** open pedagogical practice, OER, pre-service teacher education, complexity
+
+#### Abstract
+
+This paper will share reflections on the ideation, process, and outcome of cultivating an open pedagogical practice and the creation of a collaborative Open Education Resource (OER) with students in a pre-service education course. The OER co-created by the class is the outcome of a major class assignment, the planning of a course from the Canadian and World Studies Ontario curriculum, grades 7 through 12. The creation of this OER is embedded in a broader shift in course design to open pedagogical practices and collaborative grading strategies.  
+
+The course instructor alongside student contributors reflect on the ways the enactment of open pedagogical practice, a privileging of learning processes and collaboration impacted their teaching and learning environment. Teacher candidates will share insight into their experiences with modelled open pedagogy, opportunities for critical reflection, and multi-directional collaboration. For teacher candidates these experiences encouraged contemplation on the complexities of enacting open practice and the ways these approaches might be enacted in the K-12 field while also offering insight on various challenges involved in such practice. For the instructor, the shifts in course design brought also brought benefits, opportunities, and challenges. The experience highlighted the complexity of open pedagogy in practice in post-secondary education.  
+```
 ### Séance en parallèle 15.2 – Sustaining Positive Change: PSE Graduate Ed {-}
 
 ```{block, type='secondary'}
 #### Graduate Supervision Webinar Series: Open, Online, and Transdisciplinary Faculty Development (Research-Oriented)
 
-*Michele Jacobsen (University of Calgary)*
+*Michele Jacobsen, PhD, Werklund School of Education, University of Calgary  
+Hawazen Alharbi, PhD, King Abdulaziz University, Saudi Arabia, hsalharbe@kau.edu.sa  
+Shauna Reckseidler-Zenteno, PhD, Athabasca University, shaunaz@athabascau.ca  
+Shawn Fraser, PhD, Athabasca University, shawnf@athabascau.ca  
+Sonja Johnston, PhD student, Werklund School of Education, University of Calgary, sonja.johnston@ucalgary.ca*  
 ```
 
 ### Séance en parallèle 15.3 - Wildcard: PSE Online {-}
@@ -251,7 +269,7 @@
 ```
 
 
-## Séance en parallèle 15.5 {-}
+### Séance en parallèle 15.5 {-}
 
 ```{block, type='secondary'}
 #### 4:30-5:00 – Sustaining Positive Change - PSE
