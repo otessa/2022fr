@@ -1,5 +1,8 @@
 # Lundi 16 mai 2022 
 
+```{block, type='protip'}
+#### Join us for the #OTESSA22 Morning Radio Show every morning Monday-Thursday 9:30-10:30 (Eastern) at https://voiced.ca
+```
 ### Légende {-}
 
 ```{block, type='protip'}
@@ -38,7 +41,14 @@
 ```{block, type='reflect'}
 #### Metaphors of Ed Tech
 *Martin Weller*  
-[Abstract](https://otessa.github.io/2022/keynotes-intro.html#metaphors-of-edtech)
+
+
+Au cours de cette rencontre, j'analyserai en quoi les métaphores sont à la fois une manière utile et potentiellement trompeuse de percevoir la technologie éducative. Un certain nombre de métaphores seront proposées et analysées afin de démontrer comment les métaphores peuvent façonner notre pensée et nous aider à envisager la technologie éducative sous différents angles. La pandémie de Covid a vu presque toutes les institutions éducatives s'engager dans un pivot en ligne, qui impliquait généralement des versions en ligne des pratiques existantes, telles que les conférences. Alors que nous cherchons à tirer parti de cette expérience et à offrir une expérience en ligne plus riche, il est devenu évident que le cours magistral en face à face est devenu un modèle dominant que beaucoup ont du mal à dépasser. Cet exposé examinera comment différentes métaphores peuvent nous aider à aborder la technologie éducative.
+
+
+
+##### [Session Link](https://app.forj.ai/en?t=/tradeshow/index&page=auditorium&id=1638304532451&auditorium_room_id=1647886846001){target="_blank"}
+
 ```
 
 ## Pause (12:30 - 1:00) {-}
@@ -51,6 +61,13 @@
 #### **Embracing the Middle**
 
 *Jess Mitchell*
+
+#### Abstract 
+
+Petit, moyen, grand ; court, moyen, long ; oui, non, peut-être ; noir, blanc, gris.
+
+
+##### [Session Link](https://app.forj.ai/en?t=/tradeshow/index&page=auditorium&id=1638304532451&auditorium_room_id=1647886846001){target="_blank"}
 ```
 
 ### Séance en parallèle 1.2 {-}
@@ -80,6 +97,8 @@ The acceleration of digitalization, of automation and of cyber-physical systems,
 #### Abstract 
 
 The closure of universities due to the COVID-19 pandemic in March 2020 has exacerbated many challenges. In addition to the devastating loss of revenue due to the absence of students on campus, criticisms of traditional testing, content relevance, equity, diversity and inclusion, the skills gap between what graduates offer and what employers are looking for brings new layers to the crisis. These issues must be overcome so that a diverse population of students can be better prepared for the increasingly demanding and complex job market caused by major technological disruptions as the world enters the age of AI and the 4th Industrial Revolution. More than ever, universities need to rethink the concept of learning experiences and learning spaces and provide opportunities for lifelong learning so that intellectual exchanges can take place both among students as peers and between students and extra-academic actors to bring greater relevance to what students learn through the curriculum. In this presentation, I will discuss the concept of an alternative university that rests on four pillars: micro-credentials, prior learning recognition, mentoring, and partnerships.
+
+##### [Session Link](https://app.forj.ai/en?t=/tradeshow/index&page=auditorium&id=1638304532451&auditorium_room_id=1647886846001){target="_blank"}
 ```
 ## Pause (1:45 – 2:15) {-}
 
@@ -92,6 +111,15 @@ The closure of universities due to the COVID-19 pandemic in March 2020 has exace
 **Elders’ Conversations: Perspectives on leveraging digital technology in language revival (Research-Oriented)**
 
 *Melissa Bishop*
+
+
+**Keywords:** language revival, Indigenous, elder, digital technology, computer-assisted language learning, guarded optimism, FNMI
+
+#### Abstract 
+
+Elders are held in high regard in First Nations, Metis, and Inuit (FNMI) communities. They are the intergenerational transmitters of ancestral language and Indigenous knowledge. Without language revival initiatives, ancestral languages in FNMI communities are at risk of extinction. Leveraging digital technologies while collaborating with Elders can support revival initiatives. Through semi-structured interviews and qualitative analysis, this study addresses how three Elders who use technology in their ancestral language teaching (1) describe the benefits, drawbacks, and preferences of technology; (2) reveal the accuracy with which cultural knowledge is imparted through technology; and (3) view the impact of technology on their role as traditional knowledge keepers and intergenerational language transmitters? Findings suggest that while Elders acknowledge the benefits when leveraging digital tools in language revival initiatives, they have concerns about technology’s potential negative impacts on relationality [culture, spirituality, and medicine practices], a concept I have termed guarded optimism.
+
+##### [Session Link](https://app.forj.ai/en?t=/tradeshow/index&page=auditorium&id=1638304532451&auditorium_room_id=1647886846001){target="_blank"}
 ```
 
 ```{block, type='secondary'}
@@ -99,7 +127,20 @@ The closure of universities due to the COVID-19 pandemic in March 2020 has exace
 
 **Truth and Reconciliation Through Inquiry-based Collaborative Learning (Practice-Oriented)**
 
-_Deirdre Houghton (Nechako Lakes School District & University of Victoria), Gary Soles (Nechako Lakes School District & University of Victoria), Andrew Vogelsang (Nechako Lakes School District & University of Victoria), Valerie Irvine (University of Victoria)_
+_Deirdre Houghton (Nechako Lakes School District & University of Victoria), Gary Soles (Nechako Lakes School District & University of Victoria), Andrew Vogelsang (Nechako Lakes School District & University of Victoria), Valerie Irvine (University of Victoria), Frances “Guy” Prince (Knowledge Holder, Nak’azdli Whut’en), Leona Prince (Nechako Lakes School District), Carla Martin (Nechako Lakes School District), Jean-Paul Restoule (University of Victoria), Michael Paskevicius (University of Victoria)_
+
+<!--
+[Materials](https://conference.otessa.org/index.php/conference/article/view/126)
+-->
+
+
+**Keywords**: Truth and Reconciliation, Inquiry, Secondary school, K-12, Cross-curricular, Project-based learning, Collaboration, Co-Teaching
+
+#### Abstract
+
+In this session, we will share a project conducted at [school name removed for review] in the [district name removed for review], which is in Northern British Columbia, Canada. Three highschool teachers from different disciplines (Social Studies, Digital Media, and Carpentry) launched a cross-curricular inquiry-based project, focusing on truth and reconciliation,  that connected the learners in their highschool and the broader community, including knowledge holders from the local Indigenous communities. Those engaged in the project examined questions around what truth and reconciliation meant to the learners and its significance. Resulting products included a legacy wall containing individual learning represented in motifs, design of the feather using wood from around the world, and a video documentary containing interviews from school and community stakeholders. We will screen clips of videos during our session, but invite participants to pre-screen the two videos (Documentary Parts 1 and 2), which can be accessed on our YouTube playlist, where a process video and a reflection video are also available.
+
+##### [Session Link](https://app.forj.ai/en?t=/tradeshow/index&page=auditorium&id=1638304532451&auditorium_room_id=1647886846001){target="_blank"}
 ``` 
 
 ### Séance en parallèle 2.2 – Sustaining Positive Change: PSE Ethics & PSE Scholarship {-}
@@ -110,8 +151,17 @@ _Deirdre Houghton (Nechako Lakes School District & University of Victoria), Gary
 **Surveillance in the System: Data as Critical Change in Higher Education (Research-Oriented)**
 
 _Bonnie Stewart (University of Windsor), Samatha Szcyrek (University of Windsor)_
+
+**Keywords:** data, datafication, data literacy, data ethics, higher education
+
+#### Abstract 
+
+Over recent decades, higher education infrastructures have become increasingly digitized and datafied. The COVID-19 pandemic accelerated adoption of online learning platforms, trading the walls of the classroom for digital systems. Yet the surveillance, privacy, and security issues that such systems raise are minimally understood by those who teach and learn within them. This presentation overviews a 2020 pilot survey and 2021-22 qualitative study of higher education instructors from different parts of the globe. These projects explored the ways in which instructors from various locales and academic status positions understand data and classroom tools; the presentation draws on those studies to frame concerns about datafication amplifying inequity in higher education. Its premises are twofold: first, if higher education instructors, as knowledge workers, are not knowledgeable about the contexts within which they teach and conduct scholarship, then the construct of shared governance within higher education is inevitably undermined. Secondly, if faculty and academic decision-makers are not intentional about equitable and ethical use of digital platforms within higher education, students’ privacy and data is at risk. The presentation will outline findings and frame datafication as a critical change within higher education culture that could be addressed through a sector-wide ethics approach.
+
+##### [Session Link](https://app.forj.ai/en?t=/tradeshow/index&page=auditorium&id=1638304532451&auditorium_room_id=1647886846001){target="_blank"}
 ``` 
 
+<!--
 ```{block, type='secondary'}
 ####  2:45-3:45 {-}
 
@@ -119,7 +169,7 @@ _Bonnie Stewart (University of Windsor), Samatha Szcyrek (University of Windsor)
 
 _Vivekanandan Kumar (Athabasca University), Mohamed Ally (Athabasca University), Avgoustos Tsinakos (International Hellenic University), Muhammad Helmi Norman (Universiti Kebangsaan Malaysia)_
 ```
-
+-->
 ### Séance en parallèle 2.3 – Transitions of Online Learning and Teaching: E-Texts / OER {-}
 
 ```{block, type='secondary'}
@@ -128,6 +178,14 @@ _Vivekanandan Kumar (Athabasca University), Mohamed Ally (Athabasca University),
 **Investigating the effects of computer-generated contextual landmarks on short-term recall of e-texts (Research-Oriented)**
 
 _Jon Dron, Rory McGreal, Vive Kumar, Jennifer Davies (Athabasca University)_
+
+**Keywords:** e-text, recall, learning, navigation, OER, reading, open educational resources
+
+#### Abstract 
+
+E-texts have many advantages over their paper counterparts, especially when reflowable and available as open educational resources (OERs). Unfortunately, research suggests that e-texts are, on the whole, less memorable than p-texts, in part due to their relative lack of visual navigational landmarks that help to anchor recall. The Landmarks project team is, therefore, building an application that inserts computer-generated artificial imperfections – abstract or representational landmarks - into the display of e-texts, that remain consistently associated with text passages even when documents are reflowed or reformatted. We hypothesize that it may consequently be easier to recall the associated contents. The application is designed to provide the means to present modified open texts using a range of generated landmarks and variations on them, and to test recall of the content. In this initial pilot study, results of tests for readers receiving different landmarks will be compared, with the intent of identifying promising approaches to use for future studies.
+
+##### [Session Link](https://app.forj.ai/en?t=/tradeshow/index&page=auditorium&id=1638304532451&auditorium_room_id=1647886846001){target="_blank"}
 ```
 
 ```{block, type='secondary'}
@@ -136,6 +194,16 @@ _Jon Dron, Rory McGreal, Vive Kumar, Jennifer Davies (Athabasca University)_
 **Community-Led Infrastructures for Open Access Books: A Sustainable Model and Platform (Practice-Oriented)**
 
 _Judith Fathallah (Lancaster University), Martin Eve (University of London, Tom Grady (University of London)_
+
+**Keywords:** open access, open access books, open access monographs, open access publishing, open access infrastructures
+
+#### Abstract 
+
+This talk introduces the work of the COPIM project (Community-Led Infrastructures for Open Access Books), then elaborates on our project of establishing the Open Book Collective and platform. The OBC, a charitable entity, will host an infrastructure and revenue management platform for the support, access, distribution and promotion of OA Books beyond inequitable book processing models. We then discuss a revenue model for publishers who wish to flip to an OA model without charging BPCs. This ‘Opening the Future’ model has already been successfully implemented by two publishers, the CEU Press and Liverpool University Press.
+
+We submit this proposal under the theme of sustaining positive change. The international move towards OA book publishing, in alignment with principles of cOAlition S, must be approached through models that render OA books equitable and accessible to the widest variety of international readers and authors. This necessitates thinking beyond BPC and the potential monopolisation of the OA landscape by major publishers, supporting a diversity of approaches in a networked model we call ‘scaling small’.
+
+##### [Session Link](https://app.forj.ai/en?t=/tradeshow/index&page=auditorium&id=1638304532451&auditorium_room_id=1647886846001){target="_blank"}
 ```
 
 ### Séance en parallèle 2.4 {-}
@@ -145,6 +213,14 @@ _Judith Fathallah (Lancaster University), Martin Eve (University of London, Tom 
 **Flexible approaches to learning: Bridging inclusive/exclusive spaces through open educational practice (Practice-Oriented)**
 
 _Michelle Harrison (Thompson Rivers University)_
+
+**Keywords:** open educational practice, flexibility
+
+#### Abstract 
+
+Throughout the pandemic, many educators have endeavoured to provide flexible educational approaches in response to the constantly shifting need for safe spaces and places for learning. For many the experiences during the pandemic, including a shift to remote learning and constant uncertainty, have highlighted ongoing digital inequities, and introduced new ones. With a focus on student agency and knowledge co-creation, many educators have looked to open educational practice (OEP), which often uses networked and digital technologies, as one way to create more inclusive and just learning experiences. But what does “engaging with openness” look like in practice? How do we take a critical approach to designing spaces that might help us meet the potential of OEP, considering that openness can also introduce other aspects of closure? In this presentation and conversation, I will use a spatial lens to mediate a discussion on open approaches to education that can provide more permeable access and flexibility for learners, but also critically examine how these approaches introduce tensions though overabundance, surveillance, and incursions on privacy.
+
+##### [Session Link](https://app.forj.ai/en?t=/tradeshow/index&page=auditorium&id=1638304532451&auditorium_room_id=1647886846001){target="_blank"}
 ```
 
 ```{block, type='secondary'}
@@ -152,6 +228,14 @@ _Michelle Harrison (Thompson Rivers University)_
 **Warp and Weft: Weaving and Open Dissertation (Practice-Oriented)**
 
 _Helen Dewaard (Lakehead University & University of British Columbia), Leo Havemann (University College London), Verena Roberts (University of Calgary & Thompson Rivers University)_
+
+**Keywords:** knowledge building, open thesis, stories, open scholarship, doctorate
+
+#### Abstract 
+
+This session is an exploration of stories and lived experiences with opening the PhD and EdD process, presentations, and productions. Through the metaphor of weaving on a loom, the stories from practitioners and advocates of opening the dissertation are woven together through tension and movement. The values and risks of opening the dissertation incrementally change the fabric of the resulting tapestry. The nuanced questions and decisions shuttle between the macro, meso, micro, and nano levels. Decisional points are made by candidates in terms of where, when and with whom to build relationships, join into professional partnerships, enhance communications with media production tools, and draw on the support of others to innovate and collaborate in order to build knowledge. This presentation examines the granularities within the warp and weft of weaving an open dissertation.
+
+##### [Session Link](https://app.forj.ai/en?t=/tradeshow/index&page=auditorium&id=1638304532451&auditorium_room_id=1647886846001){target="_blank"}
 ```
 
 ```{block, type='secondary'}
@@ -159,6 +243,15 @@ _Helen Dewaard (Lakehead University & University of British Columbia), Leo Havem
 **Incorporating Open Educational Pedagogies and Co-mentorship Practices in Graduate Education (Research-Oriented)** 
 
 _Cindy Ives, Beth Perry, Pamela Walsh (Athabasca University)_
+
+**Keywords:** open educational pedagogy, collaborative autoethnography, graduate students, co-mentorship
+
+#### Abstract
+
+Our collaborative autoethnographic study (CAE) explores our use of principles of open educational pedagogy (OEP) and co-mentorship to enhance graduate teaching and learning. Working within an open, online university, we are investigating the nature and extent to which we use OEP and co-mentorship, and exploring the outcomes for ourselves and our students. We seek to reduce hierarchical relationships, prioritizing student-centred practices. We aim to improve ourselves as open, flexible distance educators and to support successful student learning and research. Consistent with CAE, we are collecting self-reflective and dialogic data, and artefacts from our co-mentorship and open educational practices. As participants in this study, we are experiencing the power of CAE as a research method that moves us beyond traditional discourse leading to personal and professional growth. We anticipate that our research findings will help position our graduates and ourselves as creative thinkers, learners, and contributors in the 21st century during these times of critical change.
+
+
+##### [Session Link](https://app.forj.ai/en?t=/tradeshow/index&page=auditorium&id=1638304532451&auditorium_room_id=1647886846001){target="_blank"}
 ```
 
 ```{block, type='secondary'}
@@ -166,6 +259,14 @@ _Cindy Ives, Beth Perry, Pamela Walsh (Athabasca University)_
 **Critical reflection: How can open reflexive frameworks redefine academic practices? (Practice-Oriented)**
 
 _Helen DeWaard (Lakehead University & University of British Columbia), Shauna Burnie (Lakehead University)_
+
+**Keywords:** reflective practice, open educational practices, academia, duoethnography, blogging
+
+#### Abstract 
+
+The practice of critical reflection should be infused into higher education academic programs in order to sustain positive change in masters and doctoral programs. Through this duoethnographic (Norris & Sawyer, 2012) examination of personal experiences in opening up academia, the presenters will share insights, issues, and practices for infusing reflexive practice through the use of blogging. The presenters will share open reflective practices as evidenced throughout the processes, productions, and presentations of their masters and PhD scholarship. The presenters will showcase two different reflective frameworks academics can employ in order to structure their own self-reflective practices, including the 21st Century Educator framework from Bates (2014) and the ORID reflective model from the Institute for Cultural Affairs (2014). In light of the rapid and disruptive shifts to online platforms resulting from the COVID-19 pandemic, critical reflexive practices in open digital spaces can redefine what it means to be a reflective and connective academic.
+
+##### [Session Link](https://app.forj.ai/en?t=/tradeshow/index&page=auditorium&id=1638304532451&auditorium_room_id=1647886846001){target="_blank"}
 ```
 
 ### Séance en parallèle 2.5 {-}
@@ -176,6 +277,21 @@ _Helen DeWaard (Lakehead University & University of British Columbia), Shauna Bu
 **Open educational practice and research resources created by students, for students (Practice-Oriented)**
 
 _Marie Bartlett & Students (Thompson Rivers University)_
+
+
+**Keywords**: Undergraduate Research, Students, Open Pedagogical Practice, WordPress, Research Resources
+
+#### Abstract
+
+CURN (Canadian Undergraduate Research Network) is an emerging community supported by the offices of Research and Graduate Studies and Open Learning at Thompson Rivers University (TRU), which is located in Secwepemcúl̓ecw on the unceded land of the Secwépemc peoples, on the interior plateau of British Columbia.
+
+ For a number of years, groups of TRU students have been building a CURN website as part of their undergraduate research ambassador roles, adding to each other’s work every semester: curn.trubox.ca/. 
+
+Since the start of the initiative, the objective has been to create an open resource that would get students interested and engaged in undergraduate research.
+
+Designed as an open pedagogy project, student research ambassadors were given the autonomy to choose the format and the structure of the resource, decide which topics to include, what they wanted to learn from the project, and how to organize their groups and creative efforts. 
+
+##### [Session Link](https://app.forj.ai/en?t=/tradeshow/index&page=auditorium&id=1638304532451&auditorium_room_id=1647886846001){target="_blank"}
 ```
 
 ```{block, type='secondary'}
@@ -184,6 +300,18 @@ _Marie Bartlett & Students (Thompson Rivers University)_
 **Building digital fluency skills during the rapid transition to online and hybrid teaching through open access with the Ontario Extend program (Practice-Oriented)**
 
 _Alissa Bigelow (eCampusOntario)_
+
+
+**Keywords**: online, transitions, teaching and learning, Ontario Extend
+
+
+#### Abstract
+
+At a time of unprecedented change within the educational system due to the COVID-19 global pandemic, the Ontario Extend professional learning program provides a platform for community, collaboration, and digital fluency skill development amongst postsecondary educators across the province of Ontario. A key driver for the Ontario Extend program is to provide educators with the ability to leverage diverse educational technology tools to create a more accessible learning environment for students in online and hybrid learning environments. 
+
+The program framework builds upon “The 21st Century Educator” model (Bates, 2016), which encompasses the knowledge, skills, and attitudes identified as the foundational skills required to “thrive (and not just survive) in a digital world” (Coldwell-Nelson, 2018; Martin & Grudziecki, 2006). Educators are encouraged to engage with six online modules and reflect upon specific elements of their teaching practice. Each of the six modules promotes a learning journey focused on a combination of foundational upskilling and reskilling, with digital badges awarded upon the completion of each module. Once an educator has completed   all six modules, they are awarded the Empowered Educator micro-credential and join the growing community of Extend educators. This session will provide an overview of the program and scaling efforts to date, with time for questions.
+
+##### [Session Link](https://app.forj.ai/en?t=/tradeshow/index&page=auditorium&id=1638304532451&auditorium_room_id=1647886846001){target="_blank"}
 ```
 
 ## Pause  (3:45 – 4:00) {-}
@@ -194,6 +322,8 @@ _Alissa Bigelow (eCampusOntario)_
 #### Gurdeep Pandher of the Yukon {-}
 
 **Bhangra dance class**
+
+##### [Session Link](https://app.forj.ai/en?t=/tradeshow/index&page=auditorium&id=1638304532451&auditorium_room_id=1647886846001){target="_blank"}
 ```
 
 ## Séances en parallèle 3 (4:30 – 5:30) {-}
@@ -206,6 +336,14 @@ _Alissa Bigelow (eCampusOntario)_
 **Improving environmental sustainability by using public school systems as centers of green energy production and conservation: Approaches to offsetting the cost of increased technology use and associated pollution (Practice-Oriented)**
 
 _Scott Warren, Scott Moran, Kristen McGuffin (University of North Texas)_
+
+**Keywords:** environmental sustainability, public schools, renewable energy production, environmental and financial sustainability
+
+#### Abstract 
+
+As the earth’s climate changes, the costs to communities in terms of energy consumption and related financial expenses continue to increase. Improving overall sustainability can occur by focusing on public schools as energy generation sites and opportunities to model sustainable communities for the world.The purpose of this session is to model potential environmental and financial gains that may be expected to contribute to improved sustainability that come from using rooftops and other potentially unused public school community land. When coupled with the use of sustainable building practices such as aquaculture and permaculture, we demonstrate how this approach could generate needed energy to make them more sustainable while also helping fund the facilities to make the communities they serve more sustainable as well. Such approaches may help reduce the negative impacts resulting from rising, environmental change-fueled school expenses that require finding new sources of revenue and savings.
+
+##### [Session Link](https://app.forj.ai/en?t=/tradeshow/index&page=auditorium&id=1638304532451&auditorium_room_id=1647886846001){target="_blank"}
 ```
 
 
@@ -216,6 +354,14 @@ _Scott Warren, Scott Moran, Kristen McGuffin (University of North Texas)_
 **Sustaining Complexity: Why Higher Education Should Avoid TechnoSolutionism (Practice-Oriented)**
 
 _Jim Luke (Lansing Community College), Bonnie Stewart (University of Windsor)_
+
+**Keywords:** change, technology, complexity, technosolutionism, cynefin
+
+#### Abstract 
+
+During the pandemic, two long-separate perspectives on digital technologies and the work of higher education have become even more distinct. This presentation will frame these distinctions in terms of ‘complicated’ and ‘complex’ domains, using Snowden & Boone’s (2007) Cynefin framework. The session will demonstrate how management perspectives on higher education reflect complicated approaches to problems in Cynefin terms. We will show how, in relation to educational technology and online learning, complicated approaches obscure the complexity of learning for claims of simple, technical answers, or what Morozov (2013) calls ‘technosolutionism.’ We will suggest, on the other hand, that critical pedagogies and open educational practices align with what Cynefin calls the complex domain. Complex problems - like the human problems of pedagogy and learning - cannot be solved with the complicated approaches that technosolutionism lends itself to. Post-pandemic, with the huge incursion technological platforms - and promises - have made into higher education, choosing complicated approaches to pedagogical problems risks failing to address the core mission of teaching and learning entirely. Thus, we explore how to distinguish between complicated and complex problems, and suggest practices and pathways to allow higher education professionals to build on the pandemic’s changes in positive ways.
+
+##### [Session Link](https://app.forj.ai/en?t=/tradeshow/index&page=auditorium&id=1638304532451&auditorium_room_id=1647886846001){target="_blank"}
 ```
 
 
@@ -226,6 +372,14 @@ _Jim Luke (Lansing Community College), Bonnie Stewart (University of Windsor)_
 **Rejecting the ready-made future: Reimagining technologies from and for the classroom (Research-Oriented)**
 
 _Esteban Morales, Rachel Horst (University of British Columbia)_
+
+**Keywords:** imagination, technology, case study
+
+#### Abstract 
+
+Discussions about technology are often rooted in a combination of technological determinism, libertarianism, and free-market economics. This growing trend prioritizes a vision of an optimistic future driven by never-ending innovation. Nevertheless, this ideology is criticized as it frequently favours some future visions over others—those of entrepreneurs and investors over those of everybody else. Missing perspectives include teachers and students, whose technological environments are increasingly privatized and commercialized. Accordingly, this presentation explores the possibilities of reimagining the future of technology with students and teachers. To achieve this, we present two case studies. The first case study explores the imagined future of social media and violence with Colombian undergraduate students, highlighting the possibilities to reach transformative learning through imagination. The second case study explores a futures literacies workshop in which teacher candidates critique the technological futures embedded within a selection of cultural and artistic texts. Overall, this presentation emphasizes the importance of opening discussions of the future of technology to those involved in educational settings.
+
+##### [Session Link](https://app.forj.ai/en?t=/tradeshow/index&page=auditorium&id=1638304532451&auditorium_room_id=1647886846001){target="_blank"}
 ```
 
 
@@ -236,6 +390,16 @@ _Esteban Morales, Rachel Horst (University of British Columbia)_
 **Open Educational Practices (OEP): Critical Policy Analysis in the Canadian Post-Secondary Education Context (Research-Oriented)**
 
 _Mara Bordignon (University of Western Ontario)_
+
+**Keywords:** open educational practices, post-secondary education, critical research, policy analysis
+
+#### Abstract 
+
+Open educational practices (OEP) represent exciting possibilities for social justice solutions to traditionally oppressive neoliberal publishing systems and colonial practices. OEP is multidimensional encapsulating both content, being open - data, educational resources, science, source code, and systems, and processes such as open - access, scholarship, learning, teaching, and pedagogy. OEP represents a shift towards equitable models in rights, governance, infrastructure, and funding, but is controversial in attempting to dismantle corporatized power structures. Critical OEP research shows that open solutions may not address some of the structural inequities, paradoxically perpetuating market-based approaches.
+
+Progress in OEP creation, adoption, and use in Canadian post-secondary education (PSE) has occurred at a rapid rate. This paper will provide a problem overview, with relevance to the Canadian OEP field and policy landscape. The lack of policy is troubling so it will be argued that understandings of OEP have not been critically analyzed in national, provincial, and institutional policy. Looking at global discourse documents guiding policy development should also be scrutinized. Post-structuralism is critical framework that enables questioning of the validity of existing political and corporate power structures, along with critical approaches to policy analysis that can interrogate the situatedness of OEP in current prevailing political ideologies.
+
+##### [Session Link](https://app.forj.ai/en?t=/tradeshow/index&page=auditorium&id=1638304532451&auditorium_room_id=1647886846001){target="_blank"}
 ```
 
 ### Séance en parallèle 3.5 – Transitions of Online Learning and Teaching – Online & Society {-}
@@ -245,6 +409,14 @@ _Mara Bordignon (University of Western Ontario)_
 **Online or Remote Learning and Mental Health (Research-Oriented)**
 
 _Stephanie Moore (University of New Mexico), Michael Barbour (Touro University California), George Veletsianos (Royal Roads University)_
+
+**Keywords**: online learning, remote learning, mental health
+
+#### Abstract
+
+While there has been a great deal of debate over the impact of online and remote learning on mental health and well-being, there has been no systematic syntheses or reviews of the research on this particular issue. In this session, we will present a review of research on mental health / well-being and online or remote learning. Our preliminary analyses suggest that little scholarship existed prior to 2020 and that most of these studies have been conducted during the COVID-19 pandemic. We report three findings: (a) it’s very difficult, if not impossible, to control for pandemic effects in the data, (b) studies present a very mixed picture, with variability around how mental health and well-being are measured and how / whether any causal inferences are made in relation to online and remote learning, and (c) results across these studies are extremely mixed. Based on this study, we suggest that researchers, policymakers, practitioners, and administrators exercise extreme caution around making generalizable assertions with respect to the impacts of online/remote learning and mental health.
+
+##### [Session Link](https://app.forj.ai/en?t=/tradeshow/index&page=auditorium&id=1638304532451&auditorium_room_id=1647886846001){target="_blank"}
 ```
 
 ## Pause (5:30 - 6:00) {-}
@@ -253,20 +425,51 @@ _Stephanie Moore (University of New Mexico), Michael Barbour (Touro University C
 
 ### Séance en parallèle 4.1 {-}
 
+```{block, type='wp'}
+#### The Liberated Learner: How to Learn with Style
+
+*Terry Greene (Trent University), Giulia Forsythe (Brock University)*
+
+<!--
+[Materials](https://conference.otessa.org/index.php/conference/article/view/106)
+
+-->
+
+**Keywords**: education, post-secondary, online learning, study skills, collaboration, learning technology, open education, OER
+
+#### Abstract
+
+The Liberated Learner, funded by the eCampusOntario Virtual Learning Strategy, is an inter-institutional collaboration that brings together student co-designers and elearning professionals. This open resource consists of four modules that mirror the Ontario Extend for Educators modules (Lopes & Porter, 2018), but are customised to the learner context. These modules are Learner (learning strategies), Technologist (digital fluency skills), Collaborator (communication, group work, community member), & Navigator (curating, fact checking, other scholarly skills). The goal is to provide learners a similar opportunity to gain confidence and independence in their post-secondary experience online.
+
+Recognizing that most issues post-secondary students face are complex and ill-structured (Cormier, 2021), the design and development of the Liberated Learner open modules were primarily student-led. During a week-long design sprint, 120 students generated 99 wicked problems. This collection of personal stories document students’ real life post-secondary challenges. These stories then informed the content of the 4 modules as they were developed together with student co-designers from each institution. They also provided a pathway into the Liberated Leaner modular support at multiple levels of experience (beginner, intermediate, advanced). Each module also consists of a student created Beats to Study to intro to help learners get into the learning groove.
+
+##### [Session Link](https://app.forj.ai/en?t=/tradeshow/index&page=auditorium&id=1638304532451&auditorium_room_id=1647886846001){target="_blank"}
+```
+
+<!--
 ```{block, type='reflect'}
 #### "Land-use Metaphor in Scholarly Communication: A Brief Inventory and Inspection" (La métaphore de l'utilisation du sol dans la communication savante : bref inventaire et examen) {-}
 _AJ Boston_
 
 Les praticiens des domaines centrés sur l'information utilisent régulièrement des métaphores dans la littérature professionnelle et dans l'usage quotidien. Nombre d'entre elles sont basées sur l'utilisation des terres ou sur une compréhension générale des sciences naturelles, et se rapportent parfois (mais pas toujours) à un concept métaphorique plus large d'écologie de l'information ou d'écosystème de l'information. Le discours dans des domaines comme la communication savante ne fait pas exception. Ce que je recommande dans cette présentation est que nous commencions à faire l'inventaire de nos métaphores terrestres dans les communications savantes. Ensuite, par une inspection délibérée de nos concepts métaphoriques, nous pourrons vérifier si les présomptions que chacun d'entre eux implique correspondent à nos valeurs et ne nous amènent pas à tirer des conclusions fausses, fallacieuses ou prématurées. En reconnaissant l'utilité et l'effet des métaphores, nous devrions chercher à remplacer les anciennes lorsqu'elles cessent de porter des fruits sages.
 ```
-
+-->
 ### Séance en parallèle 4.2 {-}
 
 ```{block, type='reflect'}
 #### “Critical Change in Online Education - What We Can Learn (And Not Learn) From COVID as a Context” Changement critique en formation en ligne - Ce que nous pouvons apprendre (et ne pas apprendre) du contexte de COVID {-}
 _Matt Bower_
+
+#### Abstract 
+
+La pandémie de COVID-19 a entraîné une transformation rapide de l'éducation dans le monde entier, catapultant la technologie aux yeux de certains de son rôle de méchant de l'éducation à celui de héros. Alors que l'éducation internationale revient à un certain degré de normalité, que pouvons-nous vraiment apprendre de l'expérience COVID-19 ? Cette présentation utilise la théorie de l'apprentissage médiatisé par la technologie et le cadre de l'évaluation globale et de l'utilisation de la technologie dans l'éducation pour identifier ce que nous pouvons et ne pouvons pas apprendre, en partant du principe que la pandémie COVID-19 a été, et ne pourra jamais être, qu'un contexte éducatif. L'identification des attributs du contexte de la COVID-19 et de la manière dont ces attributs ont façonné l'éducation peut alors fournir des idées qui peuvent à leur tour être transférées à d'autres périodes, lieux et personnes. Le rôle accru des parents dans l'éducation des enfants est pris comme exemple, avec des données révélant comment la conception de l'apprentissage en ligne devrait être modifiée pour tenir compte des connaissances, des responsabilités, des perspectives et des préférences des parents. Les implications pour la conception et l'étude de l'apprentissage en ligne sont discutées.
+
+##### [Session Link](https://app.forj.ai/en?t=/tradeshow/index&page=auditorium&id=1638304532451&auditorium_room_id=1647886846001){target="_blank"}
 ```
 
 ## Réseautage et discussions (6:45 – 7:00) {-}
 
 ...or until the end of your conversation!
+
+
+##### [Session Link](https://app.forj.ai/en?t=/tradeshow/index&page=auditorium&id=1638304532451&auditorium_room_id=1647886846001){target="_blank"} {-}

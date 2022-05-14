@@ -1,4 +1,9 @@
 # Mercredi, 18 mai, 2022 
+
+```{block, type='protip'}
+#### Join us for the #OTESSA22 Morning Radio Show every morning Monday-Thursday 9:30-10:30 (Eastern) at https://voiced.ca
+```
+
 ### Légende {-}
 
 ```{block, type='protip'}
@@ -38,6 +43,14 @@
 ```{block, type='reflect'}
 #### Outside-In: Openness as Subversion
 *Maha Bali, American University in Cairo*
+
+#### Abstract 
+
+Nous parlons souvent de la façon dont l'éducation ouverte élargit l'accès, soutient le partage des connaissances et améliore potentiellement la qualité de l'éducation. Nous critiquons également l'éducation ouverte pour avoir parfois reproduit des inégalités malgré sa promesse de promouvoir la justice sociale.  
+Mais qu'en est-il de la manière dont l'"ouverture" élimine/détruit les barrières en nous ? De quelle manière l'ouverture nous donne-t-elle du pouvoir de l'extérieur vers l'intérieur? Quand l'ouverture influence-t-elle le changement critique et quand peut-elle échouer à le faire?  
+Au cours de cette session interactive, nous explorerons certaines des choses que l'ouverture rend possibles et qui ne sont souvent pas possibles entre les murs des institutions, et qui peuvent finir par remettre en question et subvertir l'injustice.
+
+##### [Session Link](https://app.forj.ai/en?t=/tradeshow/index&page=auditorium&id=1638304532451&auditorium_room_id=1647886846001){target="_blank"}
 ```
 
 
@@ -92,6 +105,14 @@ Cette présentation se concentrera sur la façon dont vous pouvez utiliser Wikim
 **Flipped Learning in Grade 7 and 9 Mathematics (Research-Oriented)**
 
 *Barb Brown, Nadia Delanoy, Mark Webster (University of Calgary)*
+
+**Keywords:** mathematics, student engagement, flipped learning, K-12
+
+#### Abstract 
+
+This design-based study focused on supporting ELL students in grade 7 and 9 math classes by implementing a flipped learning model. This study explored the perceptions of teachers and students about the benefits and challenges of a technology-enhanced pedagogy such as flipped learning. We conducted a small-scale from January to June 2021 with two junior high math classes in a high ELL populated school, at a time when classes in Alberta were shifting between in-person and online learning frequently due to COVID-19. Through a design-based approach, we engaged teachers in reflective conversations and journaling to support ideation of practice, surveyed students surrounding their pre-learning experiences and flipped learning engagement and analyzed data analytics from the web platform used to integrate the flipped learning (i.e., EdPuzzle). The TPACK framework was used for data analysis to explore the relationship between: (1) technology, (2) teaching pedagogy, and (3) content knowledge. The results from this study demonstrated the efficacy of the procedures, instruments and value in extending the study to involve more classes. Research in flipped learning will help inform teachers and schools in any teaching scenario whether in person, when teaching online, in blended learning environments, and when employing emergency remote learning.
+
+##### [Session Link](https://app.forj.ai/en?t=/tradeshow/index&page=auditorium&id=1638304532451&auditorium_room_id=1647886846001){target="_blank"}
 ```
 
 ```{block, type='secondary'}
@@ -100,6 +121,14 @@ Cette présentation se concentrera sur la façon dont vous pouvez utiliser Wikim
 **Using Teacher Presence to Engage Online Learners (Practice-Oriented)**
 
 *Leanne Huston,* *Rochelle Smith, Rhyanon Logan-Goyette (Langley School District & University of Victoria)*
+
+**Keywords**: engagement, asynchronous online learning, blended learning, hybrid learning, social constructivism, community of inquiry, teacher presence
+
+#### Abstract
+
+Consistently, teachers and researchers have questioned how to engage students who are working in asynchronous online environments. Within our context, we noticed a similar trend: student disengagement in asynchronous activities. The purpose of this presentation is to support teachers in evolving online learning environments as it is not a simple matter of digitizing existing content and placing it online. Pedagogy for online learning includes deliberate planning and implementation of teacher presence, one key component for a successful transition. We have created a resource which outlines strategies to increase teacher presence in online learning environments. Our hope is that educators new to teaching online will be able to engage students asynchronously using these strategies. 
+
+##### [Session Link](https://app.forj.ai/en?t=/tradeshow/index&page=auditorium&id=1638304532451&auditorium_room_id=1647886846001){target="_blank"}
 ```
 
 ```{block, type='secondary'}
@@ -108,6 +137,14 @@ Cette présentation se concentrera sur la façon dont vous pouvez utiliser Wikim
 **Implementation of Education Technology in Canada: A Comparison with Korea, Finland and the EU (Research-Oriented)**
 
 *Keith Rispin (West Vancouver School District & University of Victoria), Valerie Irvine (University of Victoria)*
+
+**Keywords:** technology adoption, technology implementation, educational change, learner equity, government planning, access to education
+
+#### Abstract
+
+In this session, we look at how education technology in Canada is distributed to K-12 students and ask whether or not it can be done in a more effective, equitable, and cost-efficient manner. It is recognized that inequity in education already exists across the country, which has been tolerated pre-pandemic, but these inequities have been exacerbated as a result of the pandemic (Stewart, 2020). Our geographical expanse, combined with the decentralized manner in which education in Canada is delivered, creates significant challenges. Education is also a provincial mandate as per the constitution (Government of Canada, 2021). In this session, we will review federal strategies for technology planning in different countries around the world (e.g., Korea, Finland, the European Union, etc.). After providing an environmental scan of these national strategic plans worldwide, we will provide recommendations for national leadership and policy development.
+
+##### [Session Link](https://app.forj.ai/en?t=/tradeshow/index&page=auditorium&id=1638304532451&auditorium_room_id=1647886846001){target="_blank"}
 ```
 
 
@@ -118,6 +155,14 @@ Cette présentation se concentrera sur la façon dont vous pouvez utiliser Wikim
 **Taking Experiential Learning Online During COVID-19 (Research-Oriented)**
 
 *Theodora Kapoyannis, Astrid Kendrick, Patricia Danyluk (University of Calgary)*
+
+**Keywords:** online learning, experiential learning, preservice education, COVID-19
+
+#### Abstract 
+
+This presentation will share findings from a from a mixed- methods study examining Bachelor of Education students’ experiences with the shift of the second field experience component of their program to a fully online course due to COVID-19. To minimize disruption, four hundred thirty- five preservice teachers pivoted to this fully online field experience course when they were made aware that they would not be completing their one -month practicum in schools. To ensure preservice teachers were able to progress in their program without disruption, the presenters designed a unique online course to replace the traditional in-school practicum. This presentation will explore the key findings of an online survey completed by the preservice teachers who made the shift to an online environment as well as examination of course documents and discussions with instructors during weekly community of practice meetings. Analysis of the data indicated that through the innovation of the newly created online practicum course, preservice teachers developed an enhanced appreciation for online learning. However, in the absence of kindergarten to grade 12 students, the online practicum was unable to provide some of the more practical aspects of an in-school practicum. 
+
+##### [Session Link](https://app.forj.ai/en?t=/tradeshow/index&page=auditorium&id=1638304532451&auditorium_room_id=1647886846001){target="_blank"}
 ```
 
 ```{block, type='secondary'}
@@ -126,6 +171,14 @@ Cette présentation se concentrera sur la façon dont vous pouvez utiliser Wikim
 **What we do today will change what happens tomorrow – Exploring university teaching during a pandemic to derive recommendations for post-pandemic times (Research-Oriented)**
 
 *Joerdis Weilandt, Sandra Dixon, Richelle Marynowski, Lorraine Beaudin, Rumi Graham, Stavroula Malla, Angeliki Pantazi (University of Lethbridge)*
+
+**Keywords:** online teaching, emergency online teaching, equity, resilience, pedagogy of care, online educator roles, trauma-informed teaching
+
+#### Abstract 
+
+Our faculty research is motivated by a desire to inform future teaching practices and learning support, and thus we’ve been asking ourselves:  *How, after the rupture of the pandemic, after our exploration of the immediate impact of teaching in such uncertain, challenging, and changing times, could we engage in practices, pedagogy and policies that help address the gaps and barriers that were revealed? How, after the pandemic, do we go back to “normal”? Will we go back to normal or should we rather capture the moment of disruption in ways that navigate for positive change in education and do something different, do something closer to equitable, resilient, and responsive teaching and learning?*
+
+##### [Session Link](https://app.forj.ai/en?t=/tradeshow/index&page=auditorium&id=1638304532451&auditorium_room_id=1647886846001){target="_blank"}
 ```
 
 ### Séance en parallèle 10.3 – Addressing the New Inequities: PSE {-}
@@ -136,6 +189,14 @@ Cette présentation se concentrera sur la façon dont vous pouvez utiliser Wikim
 **Co-designing OER with Learners: A Replacement to Traditional College Level Assessments (Practice-Oriented)**
 
 *Kimberlee Carter, Maria Camila Redondo Morant (Conestoga College)*
+
+**Keywords**: Open, OER, Open Educational Resources, Co-Construction with Learners, Co-design with Learners
+
+#### Abstract
+
+Academic integrity issues in higher education have been reported as increasing as the pandemic and need to learn remotely continues. The use of homework sites like Chegg, that provide learners with answers to tests and assignments increased significantly through 2019 and 2020 (Walsh et al., 2021). Open advocates have been espousing the benefits of open educational resource assignments co-constructed with learners and published in the open prior to the pandemic. These have largely been writing assignments taking the form of blogs with a focus on teaching practices. An example of this phenomenon is the Open Learner Patchbook where learners write blog posts to share in the open (Open Education Global, 2019). A faculty involved in two projects that co-designed Open Education Resources (OER) with learners was curious to know what processes learned could be applied to co-designing OER assignments in their own teaching practice as an alternative to traditional assessments where answers can be found on homework sites. Easton et al. (2019) propose that original assignments encourage learners to complete their own work. This presentation focuses on what was learned in the co-design process with learners and what can be applied to teaching practices in college diploma and certificate courses.
+
+##### [Session Link](https://app.forj.ai/en?t=/tradeshow/index&page=auditorium&id=1638304532451&auditorium_room_id=1647886846001){target="_blank"}
 ```
 
 
@@ -144,6 +205,14 @@ Cette présentation se concentrera sur la façon dont vous pouvez utiliser Wikim
 **A Critical Examination of Learner-Educator Co-Creation Within a Course (Practice-Oriented)**
 
 *Laura Killam (Queens University), Jess Mitchell (Ontario College of Art and Design University)*
+
+**Keywords**: Co-creation, Open Pedagogy, Co-design
+
+#### Abstract
+
+Co-creation is an open practice where learners participate in decision-making about aspects of course design, which in our context has included designing assessments and/or determining grades. Co-creation may also include other aspects of course design such as content curation and course planning. Engaging a whole class of learners in co-creation may liberate learners to think critically and develop their evaluative judgment because agency, reflection, and authenticity are embedded in learner-educator interactions. These cognitive skills are essential for graduates to challenge oppression and inequity in their own careers, which has a cascading impact on society. Involving students in decision making also improves learner motivation and engagement in learning. We have witnessed tremendous growth among students through co-creation but have also faced barriers to and criticism of its use. For example, challenges include fostering trusting relationships in large classes, promoting inclusion of diverse voices, and balancing workload. In this discussion, we invite multidisciplinary co-creators to explore strategies for lasting change. We hope to discuss co-creation benefits, challenges, and potential solutions to these challenges. Even though co-creation is a unique experience for each group, ongoing discussion of how to deal with potential barriers may increase our collective readiness to empower future learners.
+
+##### [Session Link](https://app.forj.ai/en?t=/tradeshow/index&page=auditorium&id=1638304532451&auditorium_room_id=1647886846001){target="_blank"}
 ```
 
 ### Séance en parallèle 10.4 {-}
@@ -154,6 +223,14 @@ Cette présentation se concentrera sur la façon dont vous pouvez utiliser Wikim
 **The use of design-based research to design and evaluate an online microlearning intervention aiming to interrupt COVID-19 vaccine misinformation (Research-Oriented)**
 
 *George Veletsianos (Royal Roads University), Shandell Houlden (Royal Roads University), Jaigris Hodson (Royal Roads University), Darren Reid (University College London), Christiani Thompson (University of Saskatchewan)*
+
+**Keywords:** design-based research, learning intervention, COVID-19 misinformation, learning design, iterative design
+
+#### Abstract 
+
+In this presentation, we report on a design-based research effort to develop educational interventions intended to interrupt the flow of COVID-19 vaccine misinformation. Funded by a grant from the Canadian Institutes for Health Research in February 2020, one aspect of this two-year research project aimed at designing, developing, and evaluating COVID-19 microlearning interventions. By showcasing two iterations of our learning designs, we hope to inform other researchers and practitioners on how we used design-based research to address a societal problem of concern. Specifically, during our session we will (a) describe the principles that we developed to guide the development of the first iteration, (b) present our evaluation of the first iteration, and (c) explain how this evaluation informed the design and development of the second iteration of our learning design.
+
+##### [Session Link](https://app.forj.ai/en?t=/tradeshow/index&page=auditorium&id=1638304532451&auditorium_room_id=1647886846001){target="_blank"}
 ```
 
 ```{block, type='secondary'}
@@ -162,6 +239,14 @@ Cette présentation se concentrera sur la façon dont vous pouvez utiliser Wikim
 **Méthodes d'évaluation et technologies : vers des activités authentiques, dans un processus itératif en soutien aux apprentissages (Practice-Oriented)**
 
 *Géraldine Heilporn (Université Laval), Audrey Raynault (Université Laval), Alice Mascarenhas (Université de Sherbrooke), Constance Denis (Université de Sherbrooke)*
+
+**Keywords**: enseignement supérieur, évaluation, authenticité, activités d'apprentissage, soutien aux apprentissages, français
+
+#### Abstract
+
+Dans cette communication, nous présenterons diverses façons permettant de diversifier les méthodes d'évaluation avec les technologies, ce qui a pour effet de renforcer l'authenticité et le développement des compétences d'apprentissage et de littératie du 21e siècle. Les auteurs expliqueront également comment le fait de proposer plusieurs méthodes aux étudiants pour une même évaluation peut contribuer à répondre à leurs différents besoins et préférences sans augmenter la charge de travail des enseignants. En outre, les auteurs discuteront de la manière dont la diversification des méthodes d'évaluation grâce aux technologies entraîne souvent une transformation des modalités d'évaluation vers des processus continus ou itératifs comprenant des rétroactions multiples de la part des personnes enseignantes, en soutien aux apprentissages des étudiants.
+
+##### [Session Link](https://app.forj.ai/en?t=/tradeshow/index&page=auditorium&id=1638304532451&auditorium_room_id=1647886846001){target="_blank"}
 ```
 
 ```{block, type='secondary'}
@@ -170,6 +255,18 @@ Cette présentation se concentrera sur la façon dont vous pouvez utiliser Wikim
 **Quels nouveaux modèles d’affaires pour supporter les communautés de pratique en éducation? (Practice-Oriented)**
 
 *Robert Grégoire, Jacques Cool, Olivier Alfieri (Réseau d'enseignement francophone à distance)*
+
+**Keywords**: Français
+
+#### Abstract
+
+With the advent of the so-called 21st century skills which involve information and communication technology, the educational sphere has entered a significant turmoil period. Like so many other domains in which established practices have been upended by Internet-distributed innovative platforms, the traditional actors in education are presented with a multiplicity of potential solutions while their own viability is often questioned.
+
+Like established teaching institutions, public and private educational organizations face this new reality, particularly in the distance learning domain where the COVID-19 pandemic has exponentially accelerated those transformations. Our not-for-profit distance learning organization, francophone and pan-canadian in nature, has therefore launched a review of its business model seeking to explore four main topics: the organization and benefits ot communities of practice, emerging accreditation alternatives, the continuums of the freemium - premium model, and the intangible benefits of membership.
+
+Four online panels hosted by two industry experts and their guests will explore the main issues around those themes. Interviews with organizations similar in nature will document various membership models and fee structure. This presentation will summarize the tendancies and reflective thinking after three of our online panel series.
+
+##### [Session Link](https://app.forj.ai/en?t=/tradeshow/index&page=auditorium&id=1638304532451&auditorium_room_id=1647886846001){target="_blank"}
 ```
 
 ### Séance en parallèle 10.5 {-}
@@ -180,6 +277,18 @@ Cette présentation se concentrera sur la façon dont vous pouvez utiliser Wikim
 **Orlando: Broadening the Conversation on Women’s Writing Through A Scholarly Podcast (Practice-Oriented)**
 
 *Christie Hurrell, Karen Bourrier, Kathryn Holland, Jessica J Khuu (University of Calgary)*
+
+**Keywords**: scholarly podcast, women's writing
+
+#### Abstract
+
+Orlando: A Podcast on Women’s Writing focuses on the history of women’s writing from medieval times to the present, with a particular interest in the material conditions that enable women’s writing. Taking cues from the bespoke semantic markup of the digital textbase for which it is named, Orlando: A History of Women’s Writing from the Beginnings to the Present, the podcast stimulates discussion about the conditions of possibility for women’s writing and the goals of feminist literary history. 
+
+Building on the work of McMenemy (2018), Copeland and MacGregor (2020) and others, both the form and the content of the podcast allow the Orlando team to expand, open, and challenge traditional conceptions of scholarly knowledge, and how this knowledge is communicated. By adopting conventions such as peer review and digital archiving, the podcast asserts itself as a legitimate form of scholarship and as a potential Open Educational Resource; at the same time, its conversational and accessible style challenges norms of publishing, teaching, and learning. 
+
+In this presentation, the Orlando team will share lessons learned from this technology-enabled, open project and how they see it contributing to a more equitable, diverse and democratic discussion of women writers and women’s writing, broadly construed.
+
+##### [Session Link](https://app.forj.ai/en?t=/tradeshow/index&page=auditorium&id=1638304532451&auditorium_room_id=1647886846001){target="_blank"}
 ```
 
 ```{block, type='secondary'}
@@ -188,6 +297,14 @@ Cette présentation se concentrera sur la façon dont vous pouvez utiliser Wikim
 **A(nother) Guide for Resisting EdTech: The Case Against (or For?) Course Hero (Practice-Oriented)**
 
 *Brenna Clarke Gray (Thompson Rivers University)*
+
+**Keywords**: educational technology, critical digital pedagogy, open processes, modelling processes
+
+#### Abstract
+
+Using Sean Michael Morris and Jesse Stommel’s landmark essay “A Guide for Resisting EdTech: The Case Against Turnitin.” as its foil, this presentation asks participants to apply the same kinds of critiques applied effectively to Turnitin in that piece to Course Hero as we evaluate its claims against the benchmarks of ethical educational technologies. This experiment in collective meaning-making provides a model for critiquing tools that have been carefully marketed but not well-studied by academics, offering a “way in” to these discussions that is rooted in the practical and factual, and not so profoundly shaped by personalities of influence.
+
+##### [Session Link](https://app.forj.ai/en?t=/tradeshow/index&page=auditorium&id=1638304532451&auditorium_room_id=1647886846001){target="_blank"}
 ```
 
 ## Pause 3:45 – 4:00 {-}
@@ -198,6 +315,8 @@ Cette présentation se concentrera sur la façon dont vous pouvez utiliser Wikim
 #### Kendra Coupland
 
 **Mindfulness Session**
+
+##### [Session Link](https://app.forj.ai/en?t=/tradeshow/index&page=auditorium&id=1638304532451&auditorium_room_id=1647886846001){target="_blank"}
 ```
 
 ## Séances en parallèle 11 (4:30 – 5:30) {-}
@@ -209,15 +328,39 @@ Cette présentation se concentrera sur la façon dont vous pouvez utiliser Wikim
 ```{block, type='secondary'}
 #### Multi-Section Open Course Design: Design and Implications for Faculty, Sessional Instructors, and Learners (Practice-Oriented)
 
-*Valerie Irvine, Michael Paskevicius, Colin Madland, Rich McCue, Verena Roberts (University of Victoria)*
+
+*Valerie Irvine, Michael Paskevicius, [Colin Madland](https://orcid.org/0000-0002-1761-1903), [Rich McCue](https://orcid.org/0000-0003-3503-5935), [Verena Roberts](https://orcid.org/0000-0003-3336-7805) (University of Victoria)*
+
+<!--
+[Materials](https://conference.otessa.org/index.php/conference/article/view/148)
+
+-->
+
+**Keywords**: open education, co-teaching, course design, instructional design, open educational resources, OER, intellectual property
+
+#### Abstract
+
+As open course designs are being implemented in regular post-secondary credit courses (beyond the massive open online course), new issues and processes need to be considered that are fundamentally different from courses offered within the traditional learning management system. In this session, we will review our approach to multi-section open course design and share our experiences working through emergent issues, such as content placement, intellectual property and attribution, etc. We will provide insights and recommendations for institutional leadership and administration, faculty area advisors, technical support staff, and sessional instructors.
+
+
+##### [Session Link](https://app.forj.ai/en?t=/tradeshow/index&page=auditorium&id=1638304532451&auditorium_room_id=1647886846001){target="_blank"}
 ```
 
-```{block, type='secondary'}
-#### Parallel Session 11.2 – Transitions of Online Learning and Teaching: K12 Online
+#### Parallel Session 11.2 – Transitions of Online Learning and Teaching: K12 Online {-}
 
-**Nonverbal Communication (NVC) and teacher presence in collaborative online learning in primary school (Research-Oriented)**
+```{block, type='secondary'}
+#### Nonverbal Communication (NVC) and teacher presence in collaborative online learning in primary school (Research-Oriented)
 
 *Ayşegül Liman Kaban (Bahcesehir University)*
+
+**Keywords:** online learning, nonverbal communication, teaching presence, cognitive presence, interaction
+
+#### Abstract 
+
+Communication process requires a powerful combination of verbal and nonverbal processes that is one of the abilities that every teacher needs to master. In communication, the estimation of sixty-five to seventy percent of the message is received by nonverbal and only thirty to thirty-five percent by verbal communication. This research seeks to analyze the effect of nonverbal communication by primary teachers on the motivation and presence of students in a collaborative online learning environment. The information was gathered by questionnaires and interviews from both instructors and learners. Qualitative research methods were used in this study. The results showed that Nonverbal Communication can be an essential source of inspiration and attention for the learning process of students and a medium to attract their attention. Relying on the research outcomes that show the important role of Nonverbal Communication (NVC) in the teaching and learning process teachers by using the appropriate NVC types, eventually, play a critical role during online collaborative teaching which can affect students’ motivation and higher collaborative learning participation. To accurately convey learning content to students, teachers will have to improve and expand positive interactions.
+
+##### [Session Link](https://app.forj.ai/en?t=/tradeshow/index&page=auditorium&id=1638304532451&auditorium_room_id=1647886846001){target="_blank"}
+
 ```
 
 ```{block, type='secondary'}
@@ -229,6 +372,17 @@ Cette présentation se concentrera sur la façon dont vous pouvez utiliser Wikim
 #### Creating a Socially Inclusive Learning Environment Through Mobile Technologies for Students with Autism Spectrum Disorders (Research-Oriented)
 
 *Rahim Pira (University of Calgary)*
+
+**Keywords:** mobile technologies, social inclusion, enclusive education, students with autism
+
+#### Abstract 
+
+Autism Spectrum Disorder (ASD) is the most commonly diagnosed neurodevelopment disorder in Canada, and children with autism have difficulties with communicating and interacting socially with their peers, educators, and parents. One of the latest interventions is the use of mobile technologies in assisting these children in developing their social, communication, language, and other educational skills required for their academic success. However, social inclusion of these students in the classroom is still challenging. Hence, there is a need to determine effective ways of integrating mobile technologies in the classroom to promote the social inclusion of students with ASD.
+
+In this case study research, educators, other education professionals, and parents participated in surveys and one-on-one interviews to provide insights about their experiences in meeting students’ diverse needs via mobile technologies. The findings of the study indicated various aspects that are important in promoting the social inclusion of students with ASD via mobile technologies: the importance of balance between mobile technologies and personal interaction; availability of various resources and supports such as research and development, funding, and training; the importance of establishing goals when addressing the needs of students via mobile technologies; and the collaboration among different stakeholders when implementing these technologies.
+
+
+##### [Session Link](https://app.forj.ai/en?t=/tradeshow/index&page=auditorium&id=1638304532451&auditorium_room_id=1647886846001){target="_blank"}
 ```
 
 ### Séance en parallèle 11.3 – Transitions of Online Learning and Teaching – PSE Assessment {-}
@@ -243,6 +397,8 @@ Cette présentation se concentrera sur la façon dont vous pouvez utiliser Wikim
 #### Abstract
 
 Feeling isolated or disconnected has always been present for some university community members, but for many of us, those feelings were intensified as we shifted from in-person to virtual workspaces (Segal et al, 2021). In response to COVID-19, Nipissing University’s Teaching Hub, an emerging centre for teaching and learning, launched a series of Teaching Talks to not only provide virtual spaces for professional development and dialogue, but to also support and sustain a university community. These Teaching Talks were run by a small team from the Teaching Hub who brought together panelists, both internal and external, ranging from faculty members and students through to working professionals and community activists. With over 500 views across eight Teaching Talks since the beginning of the pandemic, our team has created opportunities for conversation, critical thinking and reflection, and collaboration, all within a virtual space. Nipissing University’s Teaching Talks provide a way forward and offer a new opportunity for critical conversations and positive momentum around a culture of teaching and learning excellence that, we believe, will outlive the pandemic. Moreover, the Teaching Talks catalyzed how we envisioned and re-visioned community, providing a welcomed reframing of opportunities and challenges that emerged from the pandemic.  
+
+##### [Session Link](https://app.forj.ai/en?t=/tradeshow/index&page=auditorium&id=1638304532451&auditorium_room_id=1647886846001){target="_blank"}
 ```
 <!--
 ```{block, type='secondary'}
@@ -257,6 +413,18 @@ Feeling isolated or disconnected has always been present for some university com
 #### Applying Trauma-informed Design to Online and Face-to-Face Teaching and Learning (Research-Oriented)
 
 *Suzanne Reinhardt (Simon Fraser University)*
+
+**Keywords**: online teaching and learning, trauma-informed practice, trauma-informed, care-centered pedagogy
+
+<!--
+[Materials](https://conference.otessa.org/index.php/conference/article/view/51)
+
+-->
+#### Abstract
+
+Schools and educational systems have as their express purpose to provide support for students throughout their learning, but they also have the power to harm. It goes without saying that no student should be harmed in the pursuit of their education. A growing area of research has begun to look at how trauma and retraumatization affect learning in tertiary education in a face-to-face modality. Fewer studies have explored trauma, and its effects, in online classes. This presentation describes a study that uses a constructivist grounded theory approach to examine how college instructors think about and design trauma-informed practices in both their online and face-to-face classes. Using dimensional analysis, the core dimension that emerged from the data was Creating a Learning Environment of Care. A model for the process of Creating a Learning Environment of Care is provided along with a model for Creating a Learning environment of Care online. Theoretical propositions and practical applications are provided based on the data from this research.
+
+##### [Session Link](https://app.forj.ai/en?t=/tradeshow/index&page=auditorium&id=1638304532451&auditorium_room_id=1647886846001){target="_blank"}
 ```
 
 ### Séance en parallèle 11.5 – Transitions of Online Learning and Teaching - PSE {-}
@@ -265,6 +433,14 @@ Feeling isolated or disconnected has always been present for some university com
 #### The SAMR Model as a Framework for Scaffolding Online Chat (Research-Oriented)
 
 *Janine Aldous Arantes*
+
+**Keywords:** SAMR, technology-enhanced learning, WhatsApp, online learning community
+
+#### Abstract 
+
+With its increasing reach, accessibility, and frequency of use, WhatsApp can shape the way educators and students share content and communicate in higher education. The purpose of this paper is to report on an Online Learning Community (OLC) using WhatsApp that explored the ‘Implications and Impacts' component of the Australian Digital Technologies Curriculum with seven pre-service teachers (PST). Through analysis of online chats and thematic analysis, the paper demonstrates the potential use of Puentedura’s (2014) Substitution, Augmentation, Modification and Redefinition (SAMR) model in both online learning communities and as a research method via WhatsApp. This paper reports on an example of the findings of the Substitution prompt, to support the discussion and demonstration. Unique contributions to the discussion, include the interpretive and critical approaches discussed in the paper, in terms of research methods and a guided example of using the SAMR model in a research context. The paper may be of value to both researchers who are interested in a scaffolded means to engage with participants through an online learning community, as well as teachers using technology in educational contexts.
+
+##### [Session Link](https://app.forj.ai/en?t=/tradeshow/index&page=auditorium&id=1638304532451&auditorium_room_id=1647886846001){target="_blank"}
 ```
 
 ## Pause (5:30 – 6:00) {-}
@@ -285,6 +461,8 @@ Feeling isolated or disconnected has always been present for some university com
 
 Pendant près de 30 ans, l'apprentissage en ligne a constitué une part croissante, cependant mineure, de l'enseignement supérieur. La Covid-19 et le développement de la vidéo synchrone ont changé la donne. L'apprentissage en ligne et en particulier l'apprentissage mixte vont prendre de plus en plus d'importance, tant pour des raisons économiques que pédagogiques. Mais nous devons tirer les leçons du passé pour garantir la qualité de notre utilisation future des technologies numériques. Cette présentation abordera (a) ce que nous avons appris sur la réussite de la conception de l'apprentissage en ligne (b) comment l'enseignement et l'apprentissage doivent changer pour répondre aux besoins des apprenants du 21ème siècle et (c) le rôle critique que les technologies numériques joueront dans cette transition.
 
+##### [Session Link](https://app.forj.ai/en?t=/tradeshow/index&page=auditorium&id=1638304532451&auditorium_room_id=1647886846001){target="_blank"}
+
 ```
 
 ### Séance en parallèle 12.2 {-}
@@ -298,6 +476,8 @@ Pendant près de 30 ans, l'apprentissage en ligne a constitué une part croissan
 #### Abstract 
 
 La représentation autochtone dans le milieu universitaire a des répercussions qui s'étendent au-delà des établissements d'enseignement, et doit être synonyme de mauvaise/non-représentation en ce qui concerne la population autochtone. Les composantes visuelles dans les domaines académiques qui sont censées refléter l'histoire, le présent et l'avenir des Autochtones seront exprimées d'un point de vue anishinaabe. En outre, l'accent sera mis sur l'importance de la narration personnelle et collective et sur la vérité.
+
+##### [Session Link](https://app.forj.ai/en?t=/tradeshow/index&page=auditorium&id=1638304532451&auditorium_room_id=1647886846001){target="_blank"}
 ```
 
 
@@ -305,3 +485,6 @@ La représentation autochtone dans le milieu universitaire a des répercussions 
 ## Discussions/Réseautage (ateliers) (6:45 – 7:00) {-}
 
 ...or till end of convo
+
+
+##### [Session Link](https://app.forj.ai/en?t=/tradeshow/index&page=auditorium&id=1638304532451&auditorium_room_id=1647886846001){target="_blank"} {-}

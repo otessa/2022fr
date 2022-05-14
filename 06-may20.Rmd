@@ -61,6 +61,12 @@ In practice, DBR is the application of knowledge and expertise about learning to
 #### Open Education – Title Forthcoming
 
 *Leo Havemann, University College London*
+
+#### Abstract 
+
+The UNESCO 2019 OER Recommendation includes a key area of focus for member states, ‘Developing supportive policy for OER’. At the same time, much of the work of open education takes place ‘on the ground’, within institutions which may or may not themselves have developed supportive policies. This workshop relates to a doctoral study about the relationship between open education and policy in higher education institutions around the world. Context and rationale underlying the study will be discussed but for most of the workshop participants will be encouraged to share their experiences and views.
+
+##### [Session Link](https://app.forj.ai/en?t=/tradeshow/index&page=auditorium&id=1638304532451&auditorium_room_id=1647886846001){target="_blank"}
 ```
 
 ### Séance en parallèle 16.3 {-}
@@ -69,6 +75,14 @@ In practice, DBR is the application of knowledge and expertise about learning to
 #### Decolonisation of learning spaces: It’s not about knowing more but knowing better
 
 *Marguerite Koole (University of Saskatchewan), John Traxler (UNESCO, Wolverhampton University), Shri Footring (Independent Researcher)*
+
+**Keywords:** decolonization, research methods, card sorts, personal construct theory, digital learning spaces
+
+#### Abstract 
+
+Working alongside members of communities who are remote and/or marginalized from the dominant socio-economic powers, the long-term goal of the Decolonisation of Digital Learning Spaces project is to empower communities in choosing, adopting, developing, and/or appropriating culturally appropriate and sustainable digital learning technologies. Before we can co-envision useful options, however, we must first know what questions to ask and how to ask. It is necessary, therefore, to find appropriate, efficient, and innovative approaches to better understand community needs and values. This paper describes the preliminary planning of the research project in creating an international network of community members, activists, and researchers, and in identifying and testing methods for eliciting needs, values, and ways of understanding the world. Selected methods must allow the researchers to step outside their own pre-conceived understandings to avoid dominating or imposing meaning upon the participants’ understandings. In this presentation, we describe 1) the goals and concerns that were the impetus for the project, 2) the nascent network, 3) potential knowledge elicitation methods, and 4) the repeated single-criterion card sort method as the first method that will be piloted.
+
+##### [Session Link](https://app.forj.ai/en?t=/tradeshow/index&page=auditorium&id=1638304532451&auditorium_room_id=1647886846001){target="_blank"}
 ```
 
 ### Séance en parallèle 16.4 {-}
@@ -83,6 +97,8 @@ In practice, DBR is the application of knowledge and expertise about learning to
 #### Abstract
 
 Are you considering using or making pressbooks – but do not know where to start? This workshop is designed for those new or considering the use of pressbooks in their courses. We will begin with an overview of the many ways in which you could adopt pressbooks, then we will jump into using and adapting pressbooks for ourselves.  This workshop is designed to explore the potential of using pressbooks in any course. This workshop will encourage all participants to develop awareness about the potential for using pressbooks in their personal learning context by providing an overview and an opportunity to learn by playing in a pressbooks sandbox. Anyone interested in learning about pressbooks is welcome to attend this workshop. 
+
+##### [Session Link](https://app.forj.ai/en?t=/tradeshow/index&page=auditorium&id=1638304532451&auditorium_room_id=1647886846001){target="_blank"}
 ```
 ## Pause (12:30 – 12:45) {-}
 
@@ -96,24 +112,47 @@ Are you considering using or making pressbooks – but do not know where to star
 ```{block, type='todo'}
 #### Analyzing and Visualizing Survey Questions Using Open-Source Software
 
-*Okan Bulut, University of Alberta*
+
+*[Okan Bulut](https://orcid.org/0000-0001-5853-1267), University of Alberta*
+
+<!--
+[Materials](https://conference.otessa.org/index.php/conference/article/view/108)
+
+-->
+**Keywords**: survey, statistics, data visualization, open-source software, psychometrics
+
+#### Abstract
+
+In social sciences, surveys are widely used by researchers to collect information from or about people to describe, compare, or explain their knowledge, feelings, values, and behaviours. Before using survey data to draw inferences, researchers need to evaluate the quality of survey data through statistical analysis and visualizations. This workshop aims to provide a step-by-step guideline on how to analyze and visualize survey questions using open-source software programs. The workshop will begin with a brief summary of statistical techniques and data visualization tools used for analyzing survey data. Then, participants will be provided with hands-on training on how to use open-source software programs (e.g., JASP and jamovi) to visualize and analyze survey data. The target audience for this session includes graduate students, researchers interested in analyzing survey data, and practitioners working with data from surveys, questionnaires, and psychological scales. 
+
+##### [Session Link](https://app.forj.ai/en?t=/tradeshow/index&page=auditorium&id=1638304532451&auditorium_room_id=1647886846001){target="_blank"}
 ```
 
 ### Séance en parallèle 17.2  {-}
 
-
+<!--
 ```{block, type='todo'}
 #### 2:15-3:15
 **Stories of Learning & Teaching Online Together: Digital Literacy Basic Skills with Indigenous Students in Remote Communities**
 
 *Suzanne Jolly*
 ```
+-->
+
 ```{block, type='todo'}
 #### 3:15-4:15
 
 **OER in the Plague Years – Lessons and a Hands-on Workshop**
 
 *Joshua Halpern, Yasin Dahi, LibreTexts*
+
+**Keywords**: OER, Textbooks, Remixing
+
+#### Abstract
+
+This workshop will describe how one large OER project encountered and met the challenge of the plague years, growing its community, offerings and technology. Participants get a first, hands-on introduction to the system and learn how to start working with it. In the past two years community members have met the challenge of switching to distance learning using wiki based libraries, remixing, editing and creating custom courses. Collaborative text creation exploded. Key improvements were made in ancillary technologies including homework. A common platform allowed rapid introduction of new features. Ease of use by everyone, everywhere became the basic accessibility issue. That applies to making it as easy as possible for faculty to create and for students to reach and use materials that serve their training and needs. It was especially important to provide multiple channels for learner access. Books are available online, via printed books, ebooks, embeddable into LMSs and can be mailed on an SD card as well housed in as a Raspberry Pi with a hotspot. It has been an intense and interesting two years.
+
+##### [Session Link](https://app.forj.ai/en?t=/tradeshow/index&page=auditorium&id=1638304532451&auditorium_room_id=1647886846001){target="_blank"}
 ```
 
 ### Séance en parallèle 17.3 {-}
@@ -125,6 +164,15 @@ Are you considering using or making pressbooks – but do not know where to star
 **An Innovative Approach to Academic Publishing: Open Books**
 
 *Suzan Koseoglu (University of Greenwich) & Royce Kimmons (Bringham Young University)*
+
+
+**Keywords**: Open educational practice, Open scholarship, Open books, Academic publishing
+
+#### Abstract
+
+In this interactive and creative workshop, participants will explore open books, an innovative approach to academic book publishing. Open books are open not only in terms of their open access licenses, but also in terms of an openness to finding different ways of engaging in academic work.
+
+##### [Session Link](https://app.forj.ai/en?t=/tradeshow/index&page=auditorium&id=1638304532451&auditorium_room_id=1647886846001){target="_blank"}
 ```
 
 ```{block, type='todo'}
@@ -132,7 +180,20 @@ Are you considering using or making pressbooks – but do not know where to star
 
 **Share Access! Using Bookdown to Remove Barriers and Open Up Learning**
 
-*Kelly Marjanovic (Trinity Western University)*
+
+*Kelly Marjanovic, Barish Golland, Colin Madland (Trinity Western University)*
+
+**Keywords:** elearning, bookdown, accessibility, GitHub, course design, R
+
+#### Abstract 
+
+*Access denied! You do not have permission to view this file!*  Sound familiar? Imagine how our learners must feel as they take all the necessary steps to begin a course, only to encounter barrier after barrier. Low Wi-Fi causing network disruptions, logging in to multiple sites to view resources, trying to locate a specific unit topic, and having screen display issues. 
+
+In this session we will present our use of Bookdown, an open-source R package that helped us remove some of the barriers for learners and instructors. We will share how we moved some of our courses to Bookdown after hearing our Nigerian students had limited access to Moodle. We will explore the many advantages of using Bookdown, such as accessing course content outside of our LMS, providing a collaborative infrastructure for design and maintenance (GitHub), displaying content as a searchable book, and providing accessible versions (ePub/PDF). We will explore other advantages, as well as some challenges we have come across.  
+
+The second half of this workshop will allow participants to present their own course challenges. Using Liberating Structures, participants will draw from the expertise of colleagues and consider recommendations to address barriers for learning.
+
+##### [Session Link](https://app.forj.ai/en?t=/tradeshow/index&page=auditorium&id=1638304532451&auditorium_room_id=1647886846001){target="_blank"}
 ```
 
 
@@ -153,6 +214,14 @@ Are you considering using or making pressbooks – but do not know where to star
 #### Using 360 Spaces to Engage Learners with Virtual Puzzle Escape Rooms
 
 *Lillian Chumbley (Trent University), Jane Tyerman (University of Ottawa)*
+
+**Keywords**: VIPER, Escape Room, 360
+
+#### Abstract
+
+This presentation will demonstrate the process for developing 360 Virtual Interactive Puzzle Escape Rooms (VIPER) for use in education. VIPERs can provide opportunities for learners to engage in experiential learning in a scalable and more cost effective than traditional methods. Unlike specialized escape room programs, VIPERs provide a 360 space and allow for anyone online to access the completed game and for development files, maps and resources to be easily shared. The presenters will take participants through the process for mapping games, creating or find assets and developing a simple 360 space through a collaborative process. The workshop will also cover principles of VIPERs for educational use and intersections with Game Theory.
+
+##### [Session Link](https://app.forj.ai/en?t=/tradeshow/index&page=auditorium&id=1638304532451&auditorium_room_id=1647886846001){target="_blank"}
 ```
 
 ### Séance en parallèle 18.2 {-}
@@ -160,7 +229,16 @@ Are you considering using or making pressbooks – but do not know where to star
 ```{block, type='todo'}
 #### CRICKET: An OER for Educational Developers and Instructional Designers
 
-*Brenda Smith, Marie Martlett, Brenna Clarke Gray, Carolyn Ives (Thompson Rivers University)*
+*Brenda Smith, Marie Bartlett, Carolyn Ives (Thompson Rivers University)*
+
+
+**Keywords**: OER, educational development, curriculum development, open education, open educational practices
+
+#### Abstract
+
+In May 2019, Thompson Rivers University (TRU) offered its first version of a week-long course (re)design workshop. Recognizing we had been primarily using resources from other institutions, we opted to create our own resources via a one-day facilitated writing sprint. The project grew from being conceptualized as a few stand-alone documents to a large online open educational resource and space for educational developers, instructional designers, and teaching faculty to form a community for open practices. Moving beyond offering resources simply for course design, we decided to create an OER that encompasses three main areas of curriculum planning and design: composition, mapping, and alignment of learning outcomes at the course, program, and institutional levels; choice and alignment of instructional strategies and learning activities; and alignment of outcomes assessment at all levels. This workshop will share the CRICKET (or Course Resource Kit) OER, and session participants will interact with the site through a targeted worksheet and discussion to explore its various features, offer feedback, and share ideas. It will serve to bridge the field of educational development and curriculum development with OER while demonstrating how a range of faculty development professionals can collaborate to create meaningful resources for their campus and beyond.
+
+##### [Session Link](https://app.forj.ai/en?t=/tradeshow/index&page=auditorium&id=1638304532451&auditorium_room_id=1647886846001){target="_blank"}
 ```
 
 ### Séance en parallèle 18.3 {-}
@@ -169,10 +247,24 @@ Are you considering using or making pressbooks – but do not know where to star
 #### The eLearning Design Charrette: A H5P Workshop
 
 *JR Dingwall, University of Saskatchewan*
+
+#### Abstract 
+
+Creating engaging interactive online activities used to require either expensive eLearning authoring tools, comprehensive web development knowledge and skills, or both. However, this is no longer the case. Participants in the eLearning Design Charrette are invited to complete small challenges using a free and open-source authoring tool, H5P. Originating from the Architectural Faculty of the Ecole des Beaux-Arts in the 19th century (Roggama, 2014), design charrettes have long been successfully applied to complex, complicated, and controversial design problems. A design charrette is “a time-limited, multiparty design event organised to generate a collaborative produced plan for a sustainable community” (Condon, 2008). In the context of this workshop, the characteristics of design charrettes - knowledge creation and sharing, unconscious intuition, creativity, and working in the flow - will be applied to create sustainable learning asset examples for the wider OTESSA community.
+
+This workshop begins with an overview of design charrettes for eLearning, after which participants attempt to complete provided challenges individually or in groups. Then, facilitated by an experienced instructional designer and H5P enthusiast, participants will share and critique completed challenges. All levels of experience with H5P are welcome in this encouraging environment where everyone can share their interest, questions, and expertise.
+
+Condon, P. M. (2012). Design charrettes for sustainable communities. Island Press. Roggema, R. (Ed.). (2014). The design charrette: ways to envision sustainable futures. Springer Science & Business Media.
+
+##### [Session Link](https://app.forj.ai/en?t=/tradeshow/index&page=auditorium&id=1638304532451&auditorium_room_id=1647886846001){target="_blank"}
 ```
 
 ## Commentaires de clôture (5:30-5:45) {-}
 
 
+##### [Session Link](https://app.forj.ai/en?t=/tradeshow/index&page=auditorium&id=1638304532451&auditorium_room_id=1647886846001){target="_blank"} {-}
+
 ## Discussions/Réseautage (ateliers) (5:45 - ♾️) {-}
 
+
+##### [Session Link](https://app.forj.ai/en?t=/tradeshow/index&page=auditorium&id=1638304532451&auditorium_room_id=1647886846001){target="_blank"} {-}

@@ -1,4 +1,9 @@
 # Mardi, 17 mai, 2022 
+
+```{block, type='protip'}
+#### Join us for the #OTESSA22 Morning Radio Show every morning Monday-Thursday 9:30-10:30 (Eastern) at https://voiced.ca
+```
+
 ### Légende {-}
 
 ```{block, type='protip'}
@@ -28,8 +33,6 @@
 ```
 --- 
 
-
-
 ## Ouverture du bureau d’accueil (10:30 - 12:30) {-}
 
 
@@ -38,6 +41,14 @@
 ```{block, type='reflect'}
 #### "Hide and Seek: On Kids, Power, and Resistance in Education" ” (Jouer à la cachette : Enfants, pouvoir et résistance en éducation)
 *Sherri Spelic, American International School Vienna*
+
+**Keywords:** Pedagogy, student voice, power, resistance
+
+#### Abstract 
+
+Je veux explorer ce qui se passe lorsque les apprentis qui nous sont confiés résistent à notre offre d'aide, notre expertise et notre enseignement. Comment comprendre que les élèves appliquent des compétences de refus en classe? Plutôt que de fournir des réponses, je m'appuierai sur les déclarations des élèves concernant la possibilité et la signification de dire "non" à l'école et je les utiliserai pour sonder notre compréhension et notre appréciation du pouvoir dans les mains et les voix des élèves. Nous poserons également la question suivante : dans quelle mesure nos pédagogies laissent-elles un espace pour la négociation et le partage du pouvoir ? Et où cela se manifeste-t-il dans la pratique?
+
+##### [Session Link](https://app.forj.ai/en?t=/tradeshow/index&page=auditorium&id=1638304532451&auditorium_room_id=1647886846001){target="_blank"}
 ```
 
 ## Pause (12:30 - 1:00) {-}
@@ -51,6 +62,12 @@
 
 #### "Critical approaches to researching and teaching online" (Approches critiques de la recherche et de l'enseignement en ligne)
 *Beyhan Farhadi, York University*
+
+#### Abstract 
+
+Dans cette présentation, j'explore l'espace entre la recherche et l'enseignement en ligne dans les classes de la maternelle à la 12e année par une approche critique qui met en lumière les luttes collectives pour la justice sociale en temps de crise. Plus précisément, j'explore l'interdépendance des logiques de scolarisation en personne et en ligne en m'appuyant sur mes recherches dans les écoles secondaires de l'Ontario ainsi que sur mon expérience d'enseignement en ligne depuis plus de dix ans. Alors que nous tentons de jeter un pont entre la théorie et la pratique, comment pouvons-nous tenir compte de la variété des contextes dans lesquels l'éducation en ligne émerge, en tant que réponse au sous-financement de l'éducation publique, en tant qu'imaginaire collectif qui façonne la politique éducative. Qu'est-ce que cela signifie de réimaginer l'éducation en ligne tout en réimaginant les institutions et les politiques qui structurent la scolarité ? Au cours de mon intervention, j'encourage le public à réfléchir ensemble à l'éducation, à la communauté et à la démocratie, afin de remettre en question la neutralité des valeurs de la technologie, qui n'est pas séparée de notre contexte social et culturel mais en dépend.
+
+##### [Session Link](https://app.forj.ai/en?t=/tradeshow/index&page=auditorium&id=1638304532451&auditorium_room_id=1647886846001){target="_blank"}
 ```
 ### Séance en parallèle 5.2 {-}
 ```{block, type='wp'}
@@ -63,6 +80,8 @@
 #### Abstract 
 
 Schön (1983) décrit la réflexion-en-action comme une sorte de conversation que les concepteurs engagent tout au long du processus de conception et avec la situation. Whitbeck (1996) définit l'éthique non pas comme une évaluation ou un jugement visant à déterminer le bien ou le mal, mais comme un processus de conception, d'élaboration de plans d'action possibles en réponse à des problèmes moraux. Dans cette session, ces deux principes - la réflexion et la conception - forment la base de l'élaboration de nos réponses aux besoins mis en lumière par la pandémie et la rhétorique autour de la "nouvelle normalité". Cette session comprendra un temps de réflexion sur les visions souhaitables des "nouvelles normales" et une discussion sur les thèmes de nos visions. Nous explorerons ensuite ensemble l'idée de Whitbeck de "l'éthique en tant que conception" et la façon dont elle peut être utilisée pour mettre en œuvre une vision d'une nouvelle normalité à travers nos processus de conception et les produits ou environnements conçus que nous créons. Notre exploration du design comme moyen de mettre en œuvre une nouvelle normalité comprendra une "exposition d'inspiration de design" avec du temps pour faire le tour des idées et ensuite l'exploration de comment et où une vision d'une "nouvelle normalité" peut être intégrée à la fois dans la conception et la planification de l'enseignement et dans la conception des systèmes éducatifs.
+
+##### [Session Link](https://app.forj.ai/en?t=/tradeshow/index&page=auditorium&id=1638304532451&auditorium_room_id=1647886846001){target="_blank"}
 ```
 ## Pause (1:45 – 2:15) {-}
 
@@ -71,6 +90,7 @@ Schön (1983) décrit la réflexion-en-action comme une sorte de conversation qu
 
 
 ### Séance en parallèle 6.1 – Sustaining Positive Change - K12 & PSE {-}
+
 ```{block, type='secondary'}
 #### 2:15-2:45
 
@@ -78,6 +98,15 @@ Schön (1983) décrit la réflexion-en-action comme une sorte de conversation qu
 **Project MIXITÉ: Towards a Numér-ACTIF process of the intervention plan promoting the active participation of the student, his parents, and interprofessional collaborative practices (Practice-Oriented)**
 
 *Audrey Raynault*
+
+**Keywords:** IEP, collaborative practice, student agency
+
+#### Abstract 
+
+Research agrees on the fact that the student who actively participates in the process of his plan of intervention (IP) is positively linked to the commitment of the parents in the latter, to the desired learning results, to an increase in the number of high school diplomas in addition to encouraging interprofessional collaboration. Unfortunately, research highlights that practitioners make little use of their collaborative practices and insufficiently promote student agency during the IEP process. The MIXITÉ collaborative research project adopts a collaborative partnership approach in which adults collaborate and maximize their agency and that of the student in the Digital-ACTIVE process of their IP. A collaborative methodology taking place at a distance allowed students, their parents and teachers, the management and the psychoeducator of a school, a patient-partner, social workers and managers of a CIUSSS to co-create two strategies to be implemented. attempt to improve collaborative practices focused on student agency in their IP. This communication presents 1) the process of the IP Digital-ACTIVE to be tested and 2) the planning of intersectoral meetings in order to better understand the roles of each and create cohesion between the actors.
+
+##### [Session Link](https://app.forj.ai/en?t=/tradeshow/index&page=auditorium&id=1638304532451&auditorium_room_id=1647886846001){target="_blank"}
+
 ```
 <!--
 ```{block, type='secondary'}
@@ -94,6 +123,15 @@ Schön (1983) décrit la réflexion-en-action comme une sorte de conversation qu
 **Global viewpoints on Open Educational Resources for Blended Learning (Research-Oriented)**
 
 *Connie Blomgren (Athabasca University)*
+
+**Keywords:** open educational resources, OER, MOOCs, teacher perceptions, natural language analysis
+
+#### Abstract 
+
+The purpose of this exploratory research is to examine the perspectives of educators who have participated in the Blended Learning Practice MOOC with regards to their understanding of Open Educational Resources (OER). OER form part of the United Nation's Sustainable Development Goal number 4 ( i.e. Education for all) and UNESCO has been supporting OER since 2002. Yet, the understanding and uptake of OER has not reached saturation at either higher education or K-12. This research project captured a global OER perspective by educators and examined the impressions of MOOC participants with regards to OER as part of blended learning and teaching. This study includes participants from many countries including the Global South, which positions this study uniquely. These areas of the world may deeply benefit from OER and openness in education yet are seldom represented within studies. Researchers used natural language process automation analysis through Amazon Web Services and Ronin. Matters and concerns  regarding cloud computing for educational research also informs this presentation using Lewin's force field analysis of the potential change.  
+
+##### [Session Link](https://app.forj.ai/en?t=/tradeshow/index&page=auditorium&id=1638304532451&auditorium_room_id=1647886846001){target="_blank"}
+
 ```
 ### Séance en parallèle 6.2  {-}
 
@@ -101,7 +139,15 @@ Schön (1983) décrit la réflexion-en-action comme une sorte de conversation qu
 #### 2:15-2:45 - Transitions of Online Learning and Teaching – PSE
 **Favoriser l’alignement pédagogique lors d’une migration en formation à distance: Une Démarche SoTL (Practice-Oriented)**
 
-*Marie-Michelle Gouin, Constance Denis, Nathalie Lefebvrem Stéphanie Lanctôt, Marilou Belisle (Université de Sherbrooke)*
+*Marie-Michelle Gouin, [Constance Denis](https://orcid.org/0000-0001-7808-2307), [Nathalie Lefebvre](https://orcid.org/0000-0002-2063-2932), Stéphanie Lanctôt, [Marilou Belisle](https://orcid.org/0000-0003-0457-9139) (Université de Sherbrooke)*
+
+**Keywords**: Formation et usages du numérique, Apprentissage par projet, Démarche SoTL, Apprentissage expérientiel
+
+#### Abstract
+
+Pour résoudre des enjeux dénotés dans l'un des cours d’intégration d’un programme universitaire offert en formation continue (ex. absentéisme, démotivation, désengagement et faible taux de réussite) , une démarche Scholarship of Teaching and Learning (SoTL) a été menée. Cette dernière comporte six phases soit : l’analyse, l’appropriation, la conception, l’implantation, l’évaluation et la diffusion. Étant donné la diversité et les besoins des cohortes estudiantines, une migration en formation à distance basée sur une approche inspirée de la pédagogie inversée a été initiée pour l'ensemble des cours du programme, en parallèle au présent projet. L’analyse spécifique au cours a mis en lumière l’alignement pédagogique comme étant à l’origine des enjeux susmentionnés. L’approche expérientielle et l’apprentissage par problème ont été retenus et le cours a été entièrement revu pour en maximiser l’alignement pédagogique. Le cours a été recentré autour de la planification d’une intervention en entreprise. L’implantation du nouveau projet d’apprentissage s’est faite en deux temps (2020 et 2021), mais la phase d’évaluation a été reportée au printemps 2022. Les résultats seront connus au moment de la présentation.
+
+##### [Session Link](https://app.forj.ai/en?t=/tradeshow/index&page=auditorium&id=1638304532451&auditorium_room_id=1647886846001){target="_blank"}
 ```
 
 ```{block, type='secondary'}
@@ -110,6 +156,14 @@ Schön (1983) décrit la réflexion-en-action comme une sorte de conversation qu
 **Sustaining Positive Change in the Teaching Scholars’ Online Community of Practice (Research-Oriented)**
 
 *Andrew Mardjetko, Michele Jacobsen, Beth Archer-Kuhn, Cari Din, Lorelli Nowell, Heather Jamniczky (University of Calgary)*
+
+**Keywords:** community of practice, online learning, educational leadership, SOTL
+
+#### Abstract 
+
+We examine and reflect on sustaining positive change and innovation in Scholarship of Teaching and Learning (SOTL) research and practice through collective engagement in an Online Community of Practice (OCoP). Academic faculty, educational developers and educational leaders from adult education, educational technology, kinesiology, nursing, medicine, and social work are bound by shared commitments to educational leadership, SOTL, mentorship, and sustaining positive change in learner focused practices in higher education. Our interdisciplinary OCoP is supported and extended through institutionally sponsored research, expert support, and a robust technological infrastructure to amplify online educational leadership of teaching and learning within and across diverse disciplines. Members collaborate and learn online with colleagues who lead diverse change initiatives, connect and communicate using a range of online technologies, access shared expertise and curated resources, and collectively provide awareness within and beyond our OCoP. In this presentation, we share how and why members are engaged 1) in navigating changes in modality for individual SOTL projects, 2) as educational leaders and mentors in leading innovation with each other, and 3) in sustaining positive change across campus as educational leaders of learning and teaching in higher education.
+
+##### [Session Link](https://app.forj.ai/en?t=/tradeshow/index&page=auditorium&id=1638304532451&auditorium_room_id=1647886846001){target="_blank"}
 ```
 
 ### Séance en parallèle 6.3 – Transitions of Online Learning and Teaching – PSE {-}
@@ -119,6 +173,16 @@ Schön (1983) décrit la réflexion-en-action comme une sorte de conversation qu
 
 **Design Strategy Plus Pandemic Serendipity: Technology-Enhanced Entrepreneurship Education using Open Learning and Micro-credentials (Practice-Oriented)**
 *Sonja Johnston, Michele Jacobsen (University of Calgary)*
+
+**Keywords:** open learning, entrepreneurship education, micro-credentials, work-integrated learning, pedagogy
+
+#### Abstract 
+
+In a recent pilot for a redesign of an undergraduate entrepreneurship course, factors for consideration included: materials and resource costs, ability for work-integrated learning, and responding to the contemporary needs of the workplace outside of the postsecondary institution. The utilization of an industry leader’s open learning platform and the implementation of micro-credential certificates supported student experience to bridge theory to experience and work-integrated learning. The use of multiple credentials (in addition to course grading) provided additional dimensions of learning and experience.
+
+This redesign was developed through 2019 and launched just prior to the COVID-19 pandemic in the winter semester of 2020. The intentional strategy of the course design was to build competency through theory and content, develop application with micro-credential certificates, and then to utilize work-integrated learning by creating an ecommerce website to service an existing business or start-up plan. Serendipitously, as businesses and the ecommerce platform were forced to quickly adjust in response to the impacts of the pandemic, students were able to learn and design in real circumstances and applications. Critical questions are being raised concerning equitable access to technology and the reciprocity of gains in the open learning platform between students, institutions, and profitable businesses.
+
+##### [Session Link](https://app.forj.ai/en?t=/tradeshow/index&page=auditorium&id=1638304532451&auditorium_room_id=1647886846001){target="_blank"}
 ```
 
 ```{block, type='secondary'}
@@ -127,6 +191,16 @@ Schön (1983) décrit la réflexion-en-action comme une sorte de conversation qu
 **Adaptive Learning Uptake in Ontario’s Post-secondary System: Factors Supporting Motivation, Implementation, and Readiness (Practice-Oriented)**
 
 *Don Eldridge, Megan Houghton (eCampusOntario)*
+
+
+**Keywords**: Adaptive Learning, motivation, innovation, organizational readiness
+
+#### Abstract
+
+Adaptive learning (AL) leverages the power of technology to continuously modify instructional content based on the behaviours and needs of learners resulting in a personalized learning experience. Adoption of AL in higher education remains low despite evidence of efficacy.  Looking specifically at the Ontario higher education context, the researchers used a mixed methods research approach to conduct an environmental scan examining the current uses of AL across the post-secondary sector and challenges to adopting AL and other innovations more broadly.  The study used a framework based upon previous work by Mirata et al. (2020) and Scaccia et al. (2015) to examine motivation, organizational capacity, and innovation specific capacity of educators and institutions as antecedents for innovations such as adaptive learning.  Findings suggest that while educators see AL as holding promise to support learner outcomes, they also see it as complex, resource intensive, and an undertaking that marks a significant departure from traditional teaching methods.  Developing a provincial training and support system for AL might serve to improve motivation, refine prioritization, and bolster confidence for adaptive learning.  The lessons learned and the recommendations made through this study will serve well others considering educational innovations in other contexts.
+
+
+##### [Session Link](https://app.forj.ai/en?t=/tradeshow/index&page=auditorium&id=1638304532451&auditorium_room_id=1647886846001){target="_blank"}
 ```
 
 ### Séance en parallèle  6.4 {-}
@@ -136,6 +210,14 @@ Schön (1983) décrit la réflexion-en-action comme une sorte de conversation qu
 **Teaching, learning, and assessment activities used in additional language courses in blended contexts in Quebec’s higher education (Research-Oriented)**
 
 *Paula Andrea Arancibia Erazo (Université de Sherbrooke)*
+
+**Keywords:** blended learning, additional language teaching, second language, foreign language, activities, assessment, teaching and learning
+
+#### Abstract 
+
+Knowing and additional language (AL) is an essential skill to master in the 21st century since it allows individuals to interact with people from different countries and cultures (Shih, 2010). In Canada and Quebec, due to the high immigration rates (Ministère de l’Immigration de la Francisation et de l’intégration, 2020) AL courses are necessary for immigrants to learn either English or French. Moreover, after the COVID-19 pandemic, delivery methods such as online and blended learning have become prevalent since they allow to assure the continuity of learning. Consequently, the aim of this study is to describe the teaching, learning and assessment activities used by instructors in blended courses to promote AL skills development in Quebec’s higher education. To do this, we adopt a qualitative methodology and the use of secondary data including semi-structured interviews and course documentation. Data analysis methods include a thematic and documentary analysis. The sample is constituted by 3 additional language instructors (N=3). Finally, the results will consist of effective activities that promote the development of AL skills in blended courses in higher education. They are expected to be of interest for practitioners in the field and to contribute to fill a gap in the literature.
+
+##### [Session Link](https://app.forj.ai/en?t=/tradeshow/index&page=auditorium&id=1638304532451&auditorium_room_id=1647886846001){target="_blank"}
 ```
 
 ```{block, type='secondary'}
@@ -143,12 +225,36 @@ Schön (1983) décrit la réflexion-en-action comme une sorte de conversation qu
 **Students Feel More Dignified”: Alternative Grading and Self-Assessment in Online Courses (Research-Oriented)**
 
 *Sharon Lauricella (Ontario Tech University)*
+
+**Keywords:** alternative grading, peer assessment, self assessment, ungrading
+
+#### Abstract 
+
+Judging, marking, and ranking students is a common practice in higher education, though the pervasive dependence upon grades to dictate a student’s success or failure has come under increased scrutiny.  While “ungrading” and alternative grading practices are endorsed by progressive educators, there are few systematic, empirical studies of student responses to nontraditional grading.  This study analyzed student reports of the benefits, challenges, and suggested improvements for “ungrading” using peer and self assessment in two fourth-year undergraduate courses (n=87).  Student responses were overwhelmingly positive; notable positive effects of ungrading include increased motivation, decreased stress, and improved connection with peers.  Challenges included being too self-critical and needing the guidance of a rubric for a gauge of where students stand in the course.  Implications of this study include suggestions for freedom from the restriction, stress, and competition associated with grades, and the potential to move toward a postsecondary experience characterized by authenticity and and intrinsic motivation.
+
+##### [Session Link](https://app.forj.ai/en?t=/tradeshow/index&page=auditorium&id=1638304532451&auditorium_room_id=1647886846001){target="_blank"}
 ```
 
 ```{block, type='secondary'}
 **Student Motivation in Online Learning Based on Self Determination Theory: A Literature Review (Research-Oriented)**
 
 *Behnoosh Khoramrooz, Valerie Irvine, Joan Martin (University of Victoria)*
+
+*Behnoosh Khoramrooz, Valerie Irvine, [Joan Martin](https://orcid.org/0000-0003-4972-0001), Mariel Miller (University of Victoria)*
+
+<!--
+[Materials](https://conference.otessa.org/index.php/conference/article/view/136)
+
+-->
+
+
+**Keywords**: online learning, motivation, self-determination theory, online teaching, student attribution, e-learning, autonomy, competence, relatedness
+
+#### Abstract
+
+Prior to the COVID-19, online learning has been gradually increasing in education (Allen & Seaman, 2010); the pandemic, however, interrupted that trajectory. Seemingly overnight, educational institutions were demanded to change in-person instruction to online (Rahman et al., 2021). One of the biggest problems in online learning has been a high rate of student dropout (Chen & Jang, 2010), experiencing pandemic waves caused an even more decrease in student motivation (Thompson et al., 2021). Student motivation predicts their engagement and successful completion of a course (Ucar & Kumtepe, 2021). Without supporting students’ motivation, decreasing dropout rate and enhancing persistence will not happen (Ng, 2019). Self-determination theory (SDT) is a powerful theory focused on enhancing motivation by satisfying three basic human needs: autonomy, competence and relatedness (Ryan & Deci, 2017). In this session, we review online learning studies that use an SDT framework to address three questions: First, have all three components of SDT been researched equally? Second, how have these components been measured in different studies? Third, are there changes in research since the onset of the pandemic; in particular, is relatedness being addressed more frequently? Finally, we provide recommendations for future research and practices at both teaching and system levels.
+
+##### [Session Link](https://app.forj.ai/en?t=/tradeshow/index&page=auditorium&id=1638304532451&auditorium_room_id=1647886846001){target="_blank"}
 ```
 
 ```{block, type='secondary'}
@@ -156,6 +262,18 @@ Schön (1983) décrit la réflexion-en-action comme une sorte de conversation qu
 **Assessment and Digital Technology in Higher Education: A Review of the Literature (Research-Oriented)**
 
 *Colin Madland (University of Victoria)*
+
+**Keywords:** assessment, technology, higher education, approaches to assessment
+
+<!--
+[Materials](https://conference.otessa.org/index.php/conference/article/view/138)
+
+-->
+#### Abstract
+
+Assessment is a core component of teaching and learning in higher education and has been impacted in various ways by the growth of technology in society and education. Assessment is a process of inferring ability (knowledge or skills) based on evidence provided through the completion of various types of performance tasks. Technology has impacted assessment practices in higher education in multiple ways, including large scale admissions and certification exams, classroom assessment practices such as monitoring remote learners as they write exams, and also enabling instructors to more closely align their assessment practices with common outcomes of 21st century higher education including collaboration, problem solving, creativity, and divergent thinking. This review of the literature explores how technology has impacted assessment practices in higher education in light of the model of Pellegrino et al.'s  assessment triangle and DeLuca et al.'s approaches to classroom assessment with the objective of synthesizing current literature to inform ethical assessment policy and practice in technologically mediated higher education.
+
+##### [Session Link](https://app.forj.ai/en?t=/tradeshow/index&page=auditorium&id=1638304532451&auditorium_room_id=1647886846001){target="_blank"}
 ```
 ### Séance en parallèle 6.5 - WildCard – PSE Open {-}
 
@@ -165,9 +283,38 @@ Schön (1983) décrit la réflexion-en-action comme une sorte de conversation qu
 **Open Educational Resources as a Tool for Immersive EDI Professional Development (Research-Oriented)**
 
 *Sara Humphreys, Loren Gaudet (University of Victoria)*
+**Keywords**: EDI, anti-racism, decolonization, academic writing, OER
+
+#### Abstract
+
+Currently approaches to professional development comprise workshops, teaching observations, videos, websites and other resources instructors access outside of class time. However, training in EDI and decolonialization requires immersion, sustained engagement, and connection to new pedagogical practices. This presentation offers an evidence-based case study outlining how we developed and connected instructors to Open Education Resources (OER) constructed based on local Coast Salish knowledges, anti-racism pedagogy, and wise practices in inclusivity.
+
+The case study in question involved the creation of Why Write, an anti-racist and decolonial writing textbook for first-year students at the University of Victoria. This OER was created by an interdisciplinary team of librarians, anti-racism and inclusivity researchers, writing centre leaders, and academic writing specialists all informed by Indigenization and decolonization experts. In this presentation, we argue that anti-racist and decolonial OER such as ours offers immersive EDI professional development in two key ways: through process and through content (Bali, Cronin, and Jhangiani 2020).[1]
+
+ 
+
+[1] Bali, M., Cronin, C., & Jhangiani, R. S. (2020). Framing Open Educational Practices from a Social Justice Perspective. Journal of Interactive Media in Education, 2020(1), 10. DOI: http://doi.org/10.5334/jime.565
+
+##### [Session Link](https://app.forj.ai/en?t=/tradeshow/index&page=auditorium&id=1638304532451&auditorium_room_id=1647886846001){target="_blank"}
+
 
 ```
 
+```{block, type='secondary'}
+#### Making in-roads toward multi-access learning and teaching (Practice-Oriented)
+
+*Mariel Miller, Valerie Irvine, Hayley Hewson (University of Victoria)*
+
+**Keywords:** 
+
+#### Abstract 
+
+In response to the COVID-19 global pandemic, the University of Victoria implemented two multi-access classrooms enabling face-to-face and online learners to attend and participate in classes concurrently. While multi-access learning can support more flexible, accessible, and equitable learning, it requires faculty to substantially reconsider and redesign their teaching. As such, a significant barrier to the adoption of high-quality multi-access learning is the time and effort required of faculty, particularly for those already fatigued by the massive pivots to emergency online teaching brought about by the pandemic. In this session, we will draw on our experiences as educators to describe three practical ways faculty can approach and gain confidence in multi-access learning: (a) multi-access as a contingency, (b) multi-access as a limited event, where multi-access learning is provided for certain or select classes rather than the full course; (c) team-teaching with an experienced multi-access instructor, and (d) multi-access courses designed in three layers with instructional hours divided into whole group, decentralized synchronous learning pods for peer discussion, and asynchronous engagement (e.g., with resource materials, annotation, blogging, and backchannel chat). For each, we will discuss benefits and limitations and key considerations for preserving the integrity of the learning experience.
+
+##### [Session Link](https://app.forj.ai/en?t=/tradeshow/index&page=auditorium&id=1638304532451&auditorium_room_id=1647886846001){target="_blank"}
+
+```
+<!--
 ```{block, type='secondary'}
 #### 2:45-3:45
 
@@ -175,7 +322,7 @@ Schön (1983) décrit la réflexion-en-action comme une sorte de conversation qu
 
 *Leigh-Anne Perryman (The Open University UK)*
 ```
-
+-->
 ## Pause (3:45 – 4:00) {-}
 
 ## Évènement social : Jon Dron, Athabasca University (4:00 – 4:30) {-}
@@ -183,6 +330,9 @@ Schön (1983) décrit la réflexion-en-action comme une sorte de conversation qu
 ```{block, type='gh'}
 #### Jon Dron, Athabasca University
 **Special Musical Guest**
+
+
+##### [Session Link](https://app.forj.ai/en?t=/tradeshow/index&page=auditorium&id=1638304532451&auditorium_room_id=1647886846001){target="_blank"}
 ```
 
 ## Séances en parallèles 7 (4:30 – 5:30) {-}
@@ -190,16 +340,46 @@ Schön (1983) décrit la réflexion-en-action comme une sorte de conversation qu
 
 ### Séance en parallèle 7.1 – Addressing the New Inequities: Online Ed {-}
 
+
+```{block, type='secondary'}
+#### Integration of Technology with UDL and RTI in Inclusive Classrooms (Research-Oriented)
+
+*Diane Montgomery (University of Prince Edward Island)*
+
+**Keywords:** inclusion, UDL, RTI, screening, interventions, assessments, technology
+
+#### Abstract 
+
+The transition to inclusive classrooms in Ontario meant classroom environments had to adapt to the needs of students instead of students being expected to adapt to a standardized curriculum (Parekh, 2018). Although challenges existed in the implementation of this student centered approach, some teachers addressed these obstacles through the use of technology, Universal Design for Learning (UDL) and the Response to Intervention (RTI) frameworks.
+
+This paper combined two studies which included both teachers’ and students’ perspectives of inclusive classrooms. The primary study examined the instructional practices of eight elementary school teachers who experienced successful transitions to inclusion in bricks and mortar and virtual classrooms. The second study explored the experiences of students with and without disabilities who participated in virtual learning during the COVID-19 pandemic.
+
+Through online interviews and classroom observations, the teachers demonstrated how technology could increase student engagement, differentiate instruction, and provide students with alternative instruction and assessment methods. However, inconsistencies were revealed in screening approaches to identify the needs of students and monitor students’ progress. The students engaged in multiple options of learning with some experiences more positive than others.
+
+The paper concludes with a summary of technology-based inclusive practices shared by teachers and students.
+
+##### [Session Link](https://app.forj.ai/en?t=/tradeshow/index&page=auditorium&id=1638304532451&auditorium_room_id=1647886846001){target="_blank"}
+```
+<!--
 ```{block, type='secondary'}
 **Naamaktuq? A question of balancing professional learning needs of educators and online learning in Nunavut (Research-Oriented)**
 
 *Lizzie Iblauk, Kathy Snow, Diane Montgomery (University of Prince Edward Island)*
 ```
+-->
 
 ```{block, type='secondary'}
 **Parity of Participation and the Digital Divide (Practice-Oriented)**
 
 *Tanya Elias, University of Calgary*
+
+**Keywords:** learning design, low bandwidth technology, small-scale technology
+
+#### Abstract 
+
+Fraser’s defines “parity of participation” as a holistic social arrangement that enables full participation, involving processes of redistribution, recognition and representation. These ideas stand in stark contrast to many of the current and historical patterns of disparity of participation within distance education that increasingly involve complex “learning solutions” that rely heavily on the use of video conferencing, streaming video and LMSs that limit participation in a variety of ways. This approach appears to be based on two underlying assumptions: first, students have consistent access to stable, high-bandwidth internet connection; and second, sharing student data and use in machine learning/ artificial intelligence is benign. Despite these assumptions, there is ample evidence that both internet access and the effects of data tracking are not evenly distributed. Northern, rural, Indigenous and poor communities consistently lack access to stable internet; data tracking and machine learning/ AI tend to cause the most harm to historically disadvantaged groups, particularly people of colour. This session considers how we got to a place where learning design is almost completely dependent on highly inequitable technological platforms and how older, small-scale and low bandwidth approaches to learning design might assist in resetting out trajectory towards parity of participation.
+
+##### [Session Link](https://app.forj.ai/en?t=/tradeshow/index&page=auditorium&id=1638304532451&auditorium_room_id=1647886846001){target="_blank"}
 ```
 
 ### Séance en parallèle 7.2 – Addressing New Inequities/Sustaining Positive Change: PSE Online & Open {-}
@@ -208,13 +388,39 @@ Schön (1983) décrit la réflexion-en-action comme une sorte de conversation qu
 **From Study Abroad to Virtual Study Abroad: Decolonizing and Opening the Academy (Practice-Oriented)**
 
 *Kristine Dreaver-Charles (University of Saskatchewan), Michael Cottrell (University of Saskatchewan)*
+
+**Keywords:** open textbooks, open education resources, OER, equitable access, catalysts of open
+
+#### Abstract 
+
+This contribution is situated at the University of Saskatchewan, where Open Education Resources have been supported since 2014-2015. During the pandemic we began the work of translating The Lymphatic System of the Dog, by Dr. Hermann Baum into English. Originally published in 1918, Dr Baum’s book has been transitioned into Pressbooks, with the addition of ancillary resources. Balancing the legacy of Dr. Baum’s research with our own innovations in assessment and design engages new generations of learners and practitioners. The benefits for faculty and graduate students in designing and publishing openly must also be acknowledged. Locally designed and produced open education resources created with and by our university community is of significance to the academy. The use of open textbooks in university classes establishes a discourse and refinement of knowledge ensuring quality resources are designed and shared.
+
+##### [Session Link](https://app.forj.ai/en?t=/tradeshow/index&page=auditorium&id=1638304532451&auditorium_room_id=1647886846001){target="_blank"}
 ```
 
 ```{block, type='secondary'}
 
 **Digital platforms and algorithmic erasure: What are the implications? (Practice-Oriented)**
 
-*Colin Madland (University of Victoria)*
+
+*[Colin Madland](https://orcid.org/0000-0002-1761-1903) (University of Victoria), [Maxwell Ofosuhene](https://orcid.org/0000-0001-9019-3261) (Trinity Western University), and Jennifer Adkins (Trinity Western University)*
+
+<!--
+[Materials](https://conference.otessa.org/index.php/conference/article/view/137)
+
+-->
+
+**Keywords**: racial discrimination, algorithmic bias, software, technology, erasure
+
+#### Abstract
+
+People of colour have experienced challenges with appearing properly in pictures since the beginning of photography. Typically, they show up as being very underexposed, looking like they are in a shadow, especially when in the same frame as people with pale skin. This problem has persisted despite significant advances in camera film and, subsequently, in digital sensor technologies in modern cameras.
+
+Considering that most digital tools are built on a foundation of yesterday’s analog tools, this challenge has persisted in multiple forms in modern digital contexts. For example, on Twitter and on Zoom where we encountered this challenge in September 2020 during faculty meetings on Zoom. Our zoom erasure experience and subsequent Twitter crop experience raised questions for our investigation: why do people of colour experience erasure on zoom and other digital platforms? Is this problem new? What are the outcomes of our experience? How could the problem be fixed? Therefore, the purpose of this presentation is to raise awareness through sharing our experience and to educate educational technologists and instructors to support people of colour.
+
+
+
+##### [Session Link](https://app.forj.ai/en?t=/tradeshow/index&page=auditorium&id=1638304532451&auditorium_room_id=1647886846001){target="_blank"}
 ```
 
 ### Séance en parallèle 7.3 – Sustaining Positive Change: PSE {-}
@@ -224,12 +430,32 @@ Schön (1983) décrit la réflexion-en-action comme une sorte de conversation qu
 **Humanizing with Humility: The Challenge of Creating Caring, Compassionate, and Critical Educational Spaces in Higher Education (Practice-Oriented)**
 
 *Sarah Driessens (Nipissing University), Michelann Parr (Nipissing University)*
+
+**Keywords:** humanizing learning, pedagogy of care, reflective practice
+
+#### Abstract 
+
+Leading with care and compassion, critically reflecting on our teaching practices, and  collaboration has always been central to our pedagogical practices. It is no wonder that we were both immediately drawn to participate in the #OnHumanLearn project, an initiative designed to humanize learning in higher education. The more we learned/unlearned/relearned to take our professional practice one step further, the more we noticed the divide between our engaged and disengaged learners growing. We also started to notice our own sense of powerlessness intensify alongside feelings of fatigue and frustration for our inability to reach the disengaged. We wondered what we could be doing differently to reach them. 
+
+As we reflect on the process, we humbly accept that leading with care also means caring for ourselves, and that any initiative working to humanize higher learning ought to firmly embed and embody co-learning as a relational and reciprocal approach. In this session, we seek to broaden Figure 1 (see below) by paying attention to inequities that became more apparent or were created as we sought to humanize education, the opportunities we have found, and our developing awareness of what is needed to sustain change. 
+
+##### [Session Link](https://app.forj.ai/en?t=/tradeshow/index&page=auditorium&id=1638304532451&auditorium_room_id=1647886846001){target="_blank"}
 ```
 
 ```{block, type='secondary'}
 **The Role of Technology in Fostering Communication and Collaboration in Post Secondary Face to Face Classrooms (Research-Oriented)**
 
 *Melanie Opmeer (University of Calgary)*
+
+
+**Keywords**: Technology-enhanced learning environments, Communication, Collaborative Learning, Boundary Object, Social Interdependence Theory, Connectivism, Higher education
+
+#### Abstract
+
+The purpose of this qualitative case study is to examine how technology-enhanced learning environments (TELE’s) can foster communication and collaboration in higher education face to face classrooms. A conceptual framework that includes Social Interdependence Theory, the theory of Connectivism and the conception of technology as a boundary object will be used to guide the conduct of this study. The primary research question is: (a) How does educational technology foster communication and collaboration in face to face post-secondary classrooms? Secondary questions in this study are: (b) What is the nature of the collaborative experience for participants engaging with technology? (c) How do instructors and students view technology as a part of fostering communications? This research will serve to increase understanding about incorporating various technologies into post secondary classrooms for knowledge building, encouraging a departure from a traditional lecture format in that context and recognizing the importance of all stakeholders in the education process.
+
+
+##### [Session Link](https://app.forj.ai/en?t=/tradeshow/index&page=auditorium&id=1638304532451&auditorium_room_id=1647886846001){target="_blank"}
 ```
 
 ### Séance en parallèle 7.4 – Transitions of Online Learning and Teaching – PSE Online {-}
@@ -238,6 +464,16 @@ Schön (1983) décrit la réflexion-en-action comme une sorte de conversation qu
 **Turning to uncertainty for online learning (Practice-Oriented)**
 
 *David Cormier, University of Windsor*
+
+**Keywords:** ill-structured problems, wicked problems, rhizomatic learning
+
+#### Abstract 
+
+Online teaching has increasingly come under fire since the start of the pandemic, both questioning it as a means of effective learning and bemoaning it as a frustrating way to teach. With a huge influx of inexperienced online teachers, forced to teach online for the first time, the need for effective frameworks for faculty development are more important than ever. Teacher’s are concerned with a lack of student engagement and are worried that students are turning to the Internet for answers rather than doing the work. But what if we’re asking the wrong question? Literally. What if the way that we are asking questions is the problem? Existing language on problem setting can be seen as falling into two general categories: Well-structured problems, where the question, the process of solving the problem and the answer are known to the instructor; Ill-structured problems, where one, two or all three of those are not knowable.
+
+By looking at the some classic representations of problem setting through the lens of constructivism, this work suggests a framework that will allow us to discuss the intersection of question styles in online learning and, maybe, preparing students to live in an uncertain world.
+
+##### [Session Link](https://app.forj.ai/en?t=/tradeshow/index&page=auditorium&id=1638304532451&auditorium_room_id=1647886846001){target="_blank"}
 ```
 
 ### Séance en parallèle 7.5 – Transitions of Online Learning and Teaching: PSE {-}
@@ -246,7 +482,19 @@ Schön (1983) décrit la réflexion-en-action comme une sorte de conversation qu
 
 **Feedback Generation through Artificial Intelligence (Research-Oriented)**
 
-*Okan Bulut, Tarid Wongvorachan (University of Alberta)*
+*[Okan Bulut](https://orcid.org/0000-0001-5853-1267), [Tarid Wongvorachan](https://orcid.org/0000-0002-9622-3780) (University of Alberta)*
+
+**Keywords**: feedback, artificial intelligence, learning analytics, educational data mining, assessment
+
+<!--
+[Materials](https://conference.otessa.org/index.php/conference/article/view/125)
+
+-->
+#### Abstract
+
+Feedback is an important part in educational assessment that improves student learning. As education changes with the advancement of technology, educational assessment has also adapted accordingly to the advent of Artificial Intelligence (AI). Despite the increasing use of online assessments during the last decade, a limited number of studies have discussed the process of feedback generation as implemented through AI. To address this gap, we propose a conceptual paper to organize and discuss the application of AI in the feedback generation and delivery processes. Among different branches of AI, Natural Language Processing (NLP), Educational Data Mining (EDM), and Learning Analytics (LA) play the most important roles in the feedback generation process. The process begins with the analysis of students’ data from educational assessments to build a predictive machine learning model with additional features such as students’ interaction with course material using EDM methods to predict students’ learning outcomes. Written feedback can be generated from a model with NLP-based algorithms before being delivered along with non-verbal feedback via a LA dashboard or a digital score report. This paper could contribute to the understanding of the feedback generation process to serve as a venue for the future development of digital feedback.
+
+##### [Session Link](https://app.forj.ai/en?t=/tradeshow/index&page=auditorium&id=1638304532451&auditorium_room_id=1647886846001){target="_blank"}
 ```
 
 ```{block, type='secondary'}
@@ -255,6 +503,18 @@ Schön (1983) décrit la réflexion-en-action comme une sorte de conversation qu
 
 
 *Brad Wuetherick (University of British Columbia), Cherie Woolmer (Mount Royal University), Isabelle Barrette-Ng (University of Windsor), Patrick Maher (Nipissing University), Jill McSweeney-Flaherty (Dalhousie University), Laura Chittle (University of Windsor), Brett McCollum (Mount Royal University), Kaitlin Sibbald (Dalhousie University), Lori Tran (Mount Royal University), Heather Carroll (Nipissing University), Brittany McBride (Nipissing University), Charlotte Foster (Nipissing University), Kyle Scholz (University of Waterloo), Alise de Bie Das (McMaster University), Christopher Ostrowdun (University of Calgary)*
+
+**Keywords:** equity, institutional policy, equitable elarning environment, online learning environment, pandemic, COVID-19
+
+#### Abstract 
+
+The COVID-19 pandemic caused a rupture in how post-secondary institutions supported learning. The complexity of shifting to online modes of delivery has been shown to have impacted almost all aspects of learning and teaching. However, there is less evidence in emerging literature that explores the extent to which institutions considered and attended to equity and inclusion within a pandemic context.
+
+This paper will present data from a multi-institutional study that examines the impact of the pandemic on providing equitable learning environments online. Data were collected from four Canadian institutions, differing in size and geographic location. Phase 1 and 2 of our study focused on analysis of institutional policy and communications to students at the beginning of the pandemic, interviews with faculty, and surveys of students. Phase 3 of our data (in progress) focuses on interviews with senior administrators.
+
+These data reveal the fragmented and isolated conversations that occurred about equitable learning environments and the impact on delivery and engagement. Our interim analysis highlights the need for greater alignment between institutional policy and guidance on how to enact equity in the online environment, and for more robust mechanisms for systematically capturing and responding to the experience of students from equity-seeking groups.
+
+##### [Session Link](https://app.forj.ai/en?t=/tradeshow/index&page=auditorium&id=1638304532451&auditorium_room_id=1647886846001){target="_blank"}
 ```
 
 ## Pause (5:30 – 6:00) {-}
@@ -290,3 +550,6 @@ Trevor parlera de son travail de soutien aux écoles dans la mise en place de l'
 ## Discussions/Réseautage (ateliers) (6:45 – 7:00) {-}
 
 ...or until the end of your conversation!
+
+
+##### [Session Link](https://app.forj.ai/en?t=/tradeshow/index&page=auditorium&id=1638304532451&auditorium_room_id=1647886846001){target="_blank"} {-}

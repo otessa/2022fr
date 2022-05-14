@@ -26,12 +26,35 @@ Welcome to our searchable program. We will continue to update this site througho
 
 ![](assets/media/image2.jpeg)
 
-Tous les participants à OTESSA peuvent assister à la [série de causeries Voir grand](https://www.federationhss.ca/fr/congres/congres-2022/programme/programmation-ouverte) de cette année ainsi qu’aux [autres évènements ouverts](https://www.federationhss.ca/fr/congres/congres-2022/calendrier-des-evenements-ouverts) dans le calendrier. Ces évènements ont lieu chaque jour de la conférence. 
+Tous les participants à OTESSA peuvent assister à la [série de causeries Voir grand](https://www.federationhss.ca/fr/congres/congres-2022/programme/programmation-ouverte){target="_blank"} de cette année ainsi qu’aux [autres évènements ouverts](https://www.federationhss.ca/fr/congres/congres-2022/calendrier-des-evenements-ouverts){target="_blank"} dans le calendrier. Ces évènements ont lieu chaque jour de la conférence. 
 
-Tous les participants inscrits à la conference OTESSA peuvent aussi assister sans frais aux séances des associations suivantes :  la [Société Canadienne pour l’Étude de l’Éducation (SCÉÉ)](https://csse-scee.ca/fr), la [Société Canadienne pour l’Étude de l’Enseignement Supérieur (SCEES)](https://csshe-scees.ca/francais/), la [Association Canadienne des Revues Savantes (ACRS)](https://www.calj-acrs.ca/fr) et l’[Association Canadienne pour l’Étude de l’Éducation des Adultes (ACÉÉA)](https://www.casae-aceea.ca/) puisque nous avons conclu des ententes de réciprocité. Notez toutefois que les présentateurs doivent s’inscrire à chaque conférence où ils présentent une communication. 
+Tous les participants inscrits à la conference OTESSA peuvent aussi assister sans frais aux séances des associations suivantes :  la [Société Canadienne pour l’Étude de l’Éducation (SCÉÉ)](https://csse-scee.ca/fr){target="_blank"}, la [Société Canadienne pour l’Étude de l’Enseignement Supérieur (SCEES)](https://csshe-scees.ca/francais/){target="_blank"}, la [Association Canadienne des Revues Savantes (ACRS)](https://www.calj-acrs.ca/fr){target="_blank"} et l’[Association Canadienne pour l’Étude de l’Éducation des Adultes (ACÉÉA)](https://www.casae-aceea.ca/){target="_blank"} puisque nous avons conclu des ententes de réciprocité. Notez toutefois que les présentateurs doivent s’inscrire à chaque conférence où ils présentent une communication. 
  
 
 Please note that presenters must register in each conference in which they are presenting. 
+
+
+## Sponsors {-}
+
+### Advocates {-}
+
+[![eCampus Ontario](assets/media/ecampuso.jpg)](https://www.ecampusontario.ca/){target="_blank"}  
+
+
+### Partners {-}
+
+[![Campus Manitoba](assets/media/CampusMB.jpg)](https://www.campusmanitoba.ca/){target="_blank"}  
+
+### Friends {-}
+
+[![BCcampus](assets/media/bccampus.jpg)](https://bccampus.ca){target="_blank"}  
+<br>  
+
+[![UVic Education](assets/media/uvic-ed.jpg)](https://uvic.ca/education){target="_blank"}  
+<br>
+
+[![UVic Office of the President](assets/media/Uvic-pres.jpg)](https://uvic.ca/president){target="_blank"}  
+[![Trent Online](assets/media/TrentOnline.jpg)](https://trentu.ca/online){target="_blank"}  
 
 ## Interaction Tips {-}
 
@@ -58,3 +81,7 @@ Each time we build the page, we will generate an up-to-date ePub document for do
 ### Information {-}
 
 Tips for navigating the program with your keyboard.
+
+### Session Links {-}
+
+In each session in the program, you will see a 'Session Link'. This link will take you to the Congress platform, where you will need to sign in and navigate to the specific day and session within that interface.
