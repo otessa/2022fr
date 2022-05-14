@@ -221,11 +221,6 @@ Cette présentation se concentrera sur la façon dont vous pouvez utiliser Wikim
 ```
 
 ```{block, type='secondary'}
-#### Integration of Technology with UDL and RTI in Inclusive Classrooms (Research-Oriented)
-
-*Diane Montgomery (University of Prince Edward Island)*
-
-```{block, type='secondary'}
 #### Creating a Socially Inclusive Learning Environment Through Mobile Technologies for Students with Autism Spectrum Disorders (Research-Oriented)
 
 *Rahim Pira (University of Calgary)*
@@ -238,11 +233,11 @@ Cette présentation se concentrera sur la façon dont vous pouvez utiliser Wikim
 
 *Sarah Driessens, Nipissing University*
 
-**Keywords:** community, professional development, teaching talks
+**Mots-clés:** communauté, développement professionnel, enseignement
 
 #### Abstract
 
-Feeling isolated or disconnected has always been present for some university community members, but for many of us, those feelings were intensified as we shifted from in-person to virtual workspaces (Segal et al, 2021). In response to COVID-19, Nipissing University’s Teaching Hub, an emerging centre for teaching and learning, launched a series of Teaching Talks to not only provide virtual spaces for professional development and dialogue, but to also support and sustain a university community. These Teaching Talks were run by a small team from the Teaching Hub who brought together panelists, both internal and external, ranging from faculty members and students through to working professionals and community activists. With over 500 views across eight Teaching Talks since the beginning of the pandemic, our team has created opportunities for conversation, critical thinking and reflection, and collaboration, all within a virtual space. Nipissing University’s Teaching Talks provide a way forward and offer a new opportunity for critical conversations and positive momentum around a culture of teaching and learning excellence that, we believe, will outlive the pandemic. Moreover, the Teaching Talks catalyzed how we envisioned and re-visioned community, providing a welcomed reframing of opportunities and challenges that emerged from the pandemic.  
+Certains membres de la communauté universitaire se sont toujours sentis isolés ou déconnectés, mais pour beaucoup d'entre nous, ces sentiments se sont intensifiés lorsque nous sommes passés d'espaces de travail en présentiel à des espaces virtuels (Segal et al, 2021). En réponse à la COVID-19, le Teaching Hub de l'Université Nipissing, un nouveau centre d'enseignement et d'apprentissage, a lancé une série de conférences sur l'enseignement afin de fournir des espaces virtuels pour le développement professionnel et le dialogue, mais aussi pour soutenir et maintenir une communauté universitaire. Ces conférences ont été dirigées par une petite équipe du Teaching Hub qui a réuni des panélistes internes et externes, allant des membres de la faculté et des étudiants aux professionnels et aux activistes communautaires. Avec plus de 500 vues sur huit causeries pédagogiques depuis le début de la pandémie, notre équipe a créé des opportunités de conversation, de pensée critique, de réflexion et de collaboration, le tout dans un espace virtuel. Les causeries sur l'enseignement de l'Université Nipissing constituent un moyen d'aller de l'avant et offrent une nouvelle occasion de tenir des conversations critiques et de créer une dynamique positive autour d'une culture d'excellence en matière d'enseignement et d'apprentissage qui, selon nous, survivra à la pandémie. De plus, les causeries sur l'enseignement ont catalysé la façon dont nous avons envisagé et revu la communauté, ce qui nous a permis de recadrer les opportunités et les défis qui ont émergé de la pandémie.  
 ```
 <!--
 ```{block, type='secondary'}
@@ -259,13 +254,6 @@ Feeling isolated or disconnected has always been present for some university com
 *Suzanne Reinhardt (Simon Fraser University)*
 ```
 
-### Séance en parallèle 11.5 – Transitions of Online Learning and Teaching - PSE {-}
-
-```{block, type='secondary'}
-#### The SAMR Model as a Framework for Scaffolding Online Chat (Research-Oriented)
-
-*Janine Aldous Arantes*
-```
 
 ## Pause (5:30 – 6:00) {-}
 
@@ -279,9 +267,9 @@ Feeling isolated or disconnected has always been present for some university com
 #### "Online Learning and the Disruption of Teaching and Learning" ” (Apprentissage en ligne et bouleversements en enseignement et apprentissage)
 *Tony Bates*, Chang School of Continuing Education (Ryerson University) and Contact North*
 
-**Keywords**: Covid-19, online learning, future skills, digital learning, best practices
+**Mots-clés**: Covid-19, apprentissage en ligne, compétences du futur, apprentissage numérique, bonnes practiques
 
-#### Abstract
+#### Résumé
 
 Pendant près de 30 ans, l'apprentissage en ligne a constitué une part croissante, cependant mineure, de l'enseignement supérieur. La Covid-19 et le développement de la vidéo synchrone ont changé la donne. L'apprentissage en ligne et en particulier l'apprentissage mixte vont prendre de plus en plus d'importance, tant pour des raisons économiques que pédagogiques. Mais nous devons tirer les leçons du passé pour garantir la qualité de notre utilisation future des technologies numériques. Cette présentation abordera (a) ce que nous avons appris sur la réussite de la conception de l'apprentissage en ligne (b) comment l'enseignement et l'apprentissage doivent changer pour répondre aux besoins des apprenants du 21ème siècle et (c) le rôle critique que les technologies numériques joueront dans cette transition.
 
@@ -293,7 +281,7 @@ Pendant près de 30 ans, l'apprentissage en ligne a constitué une part croissan
 #### "Indigenous Representation in the Academy and Beyond" (Représentation des autochtones dans les milieux académiques et au-delà)
 *Lyn Trudeau, Brock University*
 
-**Keywords:** representation visual reconciliation Anishinaabe storytelling 
+**Mots-clés :** représentation visuelle, réconciliation, Anishinaabe, récit narratif
 
 #### Abstract 
 
@@ -302,6 +290,6 @@ La représentation autochtone dans le milieu universitaire a des répercussions 
 
 
 
-## Discussions/Réseautage (ateliers) (6:45 – 7:00) {-}
+## Discussions/ Groupes de réseautage (6:45 – 7:00) {-}
 
-...or till end of convo
+...ou jusqu'à la fin de vos conversations
