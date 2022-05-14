@@ -1,7 +1,7 @@
 --- 
 title: "Programme de la Conférence 2022 "
 author: "Ouverture et Technologies en Éducation, dans la Société et pour l’avancement des Savoirs"
-date: "dernière mise à jour `r Sys.Date()`"
+date: "dernière mise à jour `r format(Sys.time(), '%A, %b %d, %H:%M %p, %Z')`"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
 documentclass: book
