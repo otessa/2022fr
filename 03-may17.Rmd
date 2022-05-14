@@ -81,7 +81,7 @@ Schön (1983) décrit la réflexion-en-action comme une sorte de conversation qu
 ```
 <!--
 ```{block, type='secondary'}
-#### 2:15-2:45
+#### 2:45-3:45
 **Cloud computing in school: Teachers’ feelings of comfort integrating Google Suite for Education in school contexts (Research-Oriented)**
 
 *Vi Ly*
@@ -289,4 +289,4 @@ Trevor parlera de son travail de soutien aux écoles dans la mise en place de l'
 ```
 ## Discussions/Réseautage (ateliers) (6:45 – 7:00) {-}
 
-...or until the end of your conversation!
+...ou jusqu'à la fin de vos conversations!
