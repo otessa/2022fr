@@ -146,7 +146,13 @@ The respective findings suggest applicability in other contexts. This session ai
 
 ### Séance en parallèle 14.2 – Sustaining Positive Change: K12 Online {-}
 
+```{block, type='secondary'}
+#### 2:15-2:45
 
+**Making in-roads toward multi-access learning and teaching (Practice-Oriented)**
+
+*Mariel Miller, Valerie Irvine, Hayley Hewson (University of Victoria)*
+```
 
 ```{block, type='secondary'}
 #### 2:45-3:45
@@ -334,18 +340,15 @@ The authors will discuss the process of building WordPress sites as ePortfolio t
 
 #### Building Open Education Resources with Teacher Candidates – Reflections from the Field (Practice-oriented)
 
-
 *Natalie Currie Patterson, Emma Facca, Victoria Crocco, Brock University*
 
-**Keywords:** open pedagogy, OER, teacher education, ungrading, collaborative grading, open educational resources
+**Mots-clés:** pédagogie ouverte, REL, formation des enseignants, non-notation, notation collaborative, resources éducatives libres
 
-#### Abstract
+#### Résumé
 
-This paper will share reflections on the ideation, process, and outcome of cultivating an open pedagogical practice and the creation of a collaborative Open Education Resource (OER) with students in a pre-service education course. The OER co-created by the class is the outcome of a major class assignment, the planning of a course from the Canadian and World Studies Ontario curriculum, grades 7 through 12. The creation of this OER is embedded in a broader shift in course design to open pedagogical practices and collaborative grading strategies.  
+Cet article partagera des réflexions sur l'idéation, le processus et le résultat de la culture d'une pratique pédagogique ouverte et la création d'une ressource éducative ouverte (REL) collaborative avec des étudiants dans un cours de formation initiale. La REL co-créée par la classe est le résultat d'un important travail de classe, la planification d'un cours du curriculum des études canadiennes et mondiales de l'Ontario, de la 7e à la 12e année. La création de cette REL s'inscrit dans une évolution plus large de la conception du cours vers des pratiques pédagogiques ouvertes et des stratégies de notation collaborative.  
 
-The course instructor alongside student contributors reflect on the ways the enactment of open pedagogical practice, a privileging of learning processes and collaboration impacted their teaching and learning environment. Teacher candidates will share insight into their experiences with modelled open pedagogy, opportunities for critical reflection, and multi-directional collaboration. For teacher candidates these experiences encouraged contemplation on the complexities of enacting open practice and the ways these approaches might be enacted in the K-12 field while also offering insight on various challenges involved in such practice. For the instructor, the shifts in course design brought also brought benefits, opportunities, and challenges. The experience highlighted the complexity of open pedagogy in practice in post-secondary education.  
-
-##### [Session Link](https://app.forj.ai/en?t=/tradeshow/index&page=auditorium&id=1638304532451&auditorium_room_id=1647886846001){target="_blank"}
+L'enseignant du cours et les étudiants qui y contribuent réfléchissent à la manière dont la mise en œuvre d'une pratique pédagogique ouverte, le fait de privilégier les processus d'apprentissage et la collaboration ont eu un impact sur leur environnement d'enseignement et d'apprentissage. Les étudiants partageront leurs expériences avec la pédagogie ouverte modélisée, les opportunités de réflexion critique et la collaboration multidirectionnelle. Pour les candidats enseignants, ces expériences ont encouragé la réflexion sur les complexités de la mise en œuvre d'une pratique ouverte et sur les façons dont ces approches pourraient être mises en œuvre dans le domaine de la maternelle à la 12e année, tout en offrant également un aperçu des divers défis liés à une telle pratique. Pour l'enseignant, les changements dans la conception du cours ont également apporté des avantages, des opportunités et des défis. L'expérience a mis en évidence la complexité de la pédagogie ouverte en pratique dans l'enseignement postsecondaire.  
 ```
 
 ```{block, type='secondary'}

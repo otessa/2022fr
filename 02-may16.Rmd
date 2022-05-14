@@ -39,7 +39,7 @@
 ## Mot d'ouverture de la conférence et conférence principale (11:00 - 12:30) {-}
 
 ```{block, type='reflect'}
-#### Metaphors of Ed Tech
+#### Metaphors of Ed Tech (Métaphores d'EdTech)
 *Martin Weller*  
 
 
@@ -58,7 +58,7 @@ Au cours de cette rencontre, j'analyserai en quoi les métaphores sont à la foi
 ### Séance en parallèle 1.1 {-}
 
 ```{block, type='wp'}
-#### **Embracing the Middle**
+#### **Embracing the Middle** (Accueillir la diversité)
 
 *Jess Mitchell*
 
@@ -72,33 +72,17 @@ Petit, moyen, grand ; court, moyen, long ; oui, non, peut-être ; noir, blanc, g
 
 ### Séance en parallèle 1.2 {-}
 
-```{block, type='wp'}
-#### **One for All, All for One, to Support and Enable Our Learning  Societies** 
-
-*Nadia Naffi*
-
-***Reprogrammé pour 2023***
-<!--
-**Keywords:** Sustainable educational transformation, Learning society, Learning ecosystem, Higher education, Society 5.0
-
-#### Abstract 
-
-The acceleration of digitalization, of automation and of cyber-physical systems, the web3.0, the gig economy, the climate change crisis, the demographic changes, the investment in green and renewable technologies and the extended lifespans, to name only few disruptive events, are reshaping the social and work-related skills we need and the way we acquire them. When COVID-19 hit, we were reminded that we were all interconnected and that educational transformation will never happen if the stakeholders remain in their own bubbles. The pandemic accentuated the urgency to rethink the role of higher education within the learning ecosystem to answer the needs of today and tomorrow’s learners, namely those who are left behind by the systems. In this presentation I’m calling for action to break silos and incite, strengthen, and sustain partnerships between all actors to support and enable our learning societies and to ensure, together, the sustainable change we need, especially if we decide to realize the vision of Society 5.0, a people-centric society with a sustainable, inclusive socio-economic system. 
--->
-```
 
 ```{block, type='wp'}
-#### **Four Pillars to (re)Think Universities** 
+#### **Four Pillars to (re)Think Universities** (Quatre pilliers pour (re)penser les universités)
 
 *Ann-Louise Davidson*
 
-**Keywords:** AI, re-thinking universities, micro-credentials, prior learning recognition, mentoring, partnerships
+**Mots-clés:** IA, transformation des universités, micro-crédits, reconnaissance des acquis, mentorat, partenariats
 
-#### Abstract 
+#### Résumé
 
-The closure of universities due to the COVID-19 pandemic in March 2020 has exacerbated many challenges. In addition to the devastating loss of revenue due to the absence of students on campus, criticisms of traditional testing, content relevance, equity, diversity and inclusion, the skills gap between what graduates offer and what employers are looking for brings new layers to the crisis. These issues must be overcome so that a diverse population of students can be better prepared for the increasingly demanding and complex job market caused by major technological disruptions as the world enters the age of AI and the 4th Industrial Revolution. More than ever, universities need to rethink the concept of learning experiences and learning spaces and provide opportunities for lifelong learning so that intellectual exchanges can take place both among students as peers and between students and extra-academic actors to bring greater relevance to what students learn through the curriculum. In this presentation, I will discuss the concept of an alternative university that rests on four pillars: micro-credentials, prior learning recognition, mentoring, and partnerships.
-
-##### [Session Link](https://app.forj.ai/en?t=/tradeshow/index&page=auditorium&id=1638304532451&auditorium_room_id=1647886846001){target="_blank"}
+En mars 2020, la fermeture des universités en raison de la pandémie de COVID-19 a exacerbé de nombreux défis. Outre la perte dévastatrice de revenus due à l'absence d'étudiants sur le campus, les critiques concernant les évaluations traditionnelles, la pertinence du contenu, l'équité, la diversité et l'inclusion, l'écart de compétences entre ce que les diplômés offrent et ce que les employeurs recherchent apportent de nouvelles couches à la crise. Ces problèmes doivent être surmontés afin qu'une population diversifiée d'étudiants puisse être mieux préparée à un marché du travail de plus en plus exigeant et complexe, causé par des perturbations technologiques majeures alors que le monde entre dans l'ère de l'IA et de la 4e révolution industrielle. Plus que jamais, les universités doivent repenser le concept d'expériences et d'espaces d'apprentissage et offrir des possibilités d'apprentissage tout au long de la vie afin que des échanges intellectuels puissent avoir lieu à la fois entre les étudiants en tant que pairs et entre les étudiants et les acteurs extra-académiques pour apporter une plus grande pertinence à ce que les étudiants apprennent par le biais du programme d'études. Dans cette présentation, j'aborderai le concept d'une université alternative qui repose sur quatre piliers : les micro-crédits, la reconnaissance des acquis, le mentorat et les partenariats.
 ```
 ## Pause (1:45 – 2:15) {-}
 
@@ -448,10 +432,9 @@ Recognizing that most issues post-secondary students face are complex and ill-st
 
 <!--
 ```{block, type='reflect'}
-#### "Land-use Metaphor in Scholarly Communication: A Brief Inventory and Inspection" (La métaphore de l'utilisation du sol dans la communication savante : bref inventaire et examen) {-}
-_AJ Boston_
+#### "The Liberated Learner: How to Learn with Style" (L'apprenant libéré : Comment apprendre avec style) {-}
+_Terry Green (Trent University), Giulia Forsythe (Brock University)_
 
-Les praticiens des domaines centrés sur l'information utilisent régulièrement des métaphores dans la littérature professionnelle et dans l'usage quotidien. Nombre d'entre elles sont basées sur l'utilisation des terres ou sur une compréhension générale des sciences naturelles, et se rapportent parfois (mais pas toujours) à un concept métaphorique plus large d'écologie de l'information ou d'écosystème de l'information. Le discours dans des domaines comme la communication savante ne fait pas exception. Ce que je recommande dans cette présentation est que nous commencions à faire l'inventaire de nos métaphores terrestres dans les communications savantes. Ensuite, par une inspection délibérée de nos concepts métaphoriques, nous pourrons vérifier si les présomptions que chacun d'entre eux implique correspondent à nos valeurs et ne nous amènent pas à tirer des conclusions fausses, fallacieuses ou prématurées. En reconnaissant l'utilité et l'effet des métaphores, nous devrions chercher à remplacer les anciennes lorsqu'elles cessent de porter des fruits sages.
 ```
 -->
 ### Séance en parallèle 4.2 {-}
@@ -469,7 +452,8 @@ La pandémie de COVID-19 a entraîné une transformation rapide de l'éducation 
 
 ## Réseautage et discussions (6:45 – 7:00) {-}
 
-...or until the end of your conversation!
 
+...ou jusqu'à la fin de vos conversations!
 
 ##### [Session Link](https://app.forj.ai/en?t=/tradeshow/index&page=auditorium&id=1638304532451&auditorium_room_id=1647886846001){target="_blank"} {-}
+
