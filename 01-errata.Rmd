@@ -1,4 +1,4 @@
-# Errors and Updates {-}
+# Changes and Updates {-}
 
 ```{block, type='feedback'}
 
@@ -10,4 +10,15 @@ Session 1.2
 
 ***Rescheduled for 2023***
 
+```
+
+```{block, type='feedback'}
+
+#### Land-use Metaphor in Scholarly Communication: A Brief Inventory and Inspection {-}
+
+Session 4.1
+
+_AJ Boston_
+
+***Rescheduled for 2023***
 ```

@@ -47,14 +47,8 @@ Please note that presenters must register in each conference in which they are p
 
 ### Friends {-}
 
-[![BCcampus](assets/media/bccampus.jpg)](https://bccampus.ca){target="_blank"}  
-<br>  
+[![Friends of OTESSA](assets/media/friends.png)](https://otessa.org/fr/sponsors){target="_blank"}
 
-[![UVic Education](assets/media/uvic-ed.jpg)](https://uvic.ca/education){target="_blank"}  
-<br>
-
-[![UVic Office of the President](assets/media/Uvic-pres.jpg)](https://uvic.ca/president){target="_blank"}  
-[![Trent Online](assets/media/TrentOnline.jpg)](https://trentu.ca/online){target="_blank"}  
 
 ## Interaction Tips {-}
 
@@ -64,7 +58,7 @@ The toolbar at the top of the program allows you to customize your view of the p
 
 ### Table of Contents {-}
 
-Click the 'hamburger menu' to toggle open or close the table of contents.
+Click the menu to toggle open or close the table of contents.
 
 ### Search  {-}
 
