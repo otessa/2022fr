@@ -95,7 +95,7 @@ Schön (1983) décrit la réflexion-en-action comme une sorte de conversation qu
 #### 2:15-2:45
 
 
-**Project MIXITÉ: Towards a Numér-ACTIF process of the intervention plan promoting the active participation of the student, his parents, and interprofessional collaborative practices (Practice-Oriented)**
+#### **Project MIXITÉ: Towards a Numér-ACTIF process of the intervention plan promoting the active participation of the student, his parents, and interprofessional collaborative practices (Practice-Oriented)**
 
 *Audrey Raynault*
 
@@ -120,7 +120,7 @@ Research agrees on the fact that the student who actively participates in the pr
 ```{block, type='secondary'}
 #### 2:45-3:45
 
-**Global viewpoints on Open Educational Resources for Blended Learning (Research-Oriented)**
+#### **Global viewpoints on Open Educational Resources for Blended Learning (Research-Oriented)**
 
 *Connie Blomgren (Athabasca University)*
 
@@ -171,7 +171,7 @@ We examine and reflect on sustaining positive change and innovation in Scholarsh
 ```{block, type='secondary'}
 #### 2:15-2:45
 
-**Design Strategy Plus Pandemic Serendipity: Technology-Enhanced Entrepreneurship Education using Open Learning and Micro-credentials (Practice-Oriented)**
+#### **Design Strategy Plus Pandemic Serendipity: Technology-Enhanced Entrepreneurship Education using Open Learning and Micro-credentials (Practice-Oriented)**
 *Sonja Johnston, Michele Jacobsen (University of Calgary)*
 
 **Keywords:** open learning, entrepreneurship education, micro-credentials, work-integrated learning, pedagogy
@@ -188,7 +188,7 @@ This redesign was developed through 2019 and launched just prior to the COVID-19
 ```{block, type='secondary'}
 #### 2:45-3:45
 
-**Adaptive Learning Uptake in Ontario’s Post-secondary System: Factors Supporting Motivation, Implementation, and Readiness (Practice-Oriented)**
+#### **Adaptive Learning Uptake in Ontario’s Post-secondary System: Factors Supporting Motivation, Implementation, and Readiness (Practice-Oriented)**
 
 *Don Eldridge, Megan Houghton (eCampusOntario)*
 
@@ -207,7 +207,7 @@ Adaptive learning (AL) leverages the power of technology to continuously modify 
 
 ```{block, type='secondary'}
 
-**Teaching, learning, and assessment activities used in additional language courses in blended contexts in Quebec’s higher education (Research-Oriented)**
+#### **Teaching, learning, and assessment activities used in additional language courses in blended contexts in Quebec’s higher education (Research-Oriented)**
 
 *Paula Andrea Arancibia Erazo (Université de Sherbrooke)*
 
@@ -222,7 +222,7 @@ Knowing and additional language (AL) is an essential skill to master in the 21st
 
 ```{block, type='secondary'}
 
-**Students Feel More Dignified”: Alternative Grading and Self-Assessment in Online Courses (Research-Oriented)**
+#### **Students Feel More Dignified”: Alternative Grading and Self-Assessment in Online Courses (Research-Oriented)**
 
 *Sharon Lauricella (Ontario Tech University)*
 
@@ -236,7 +236,8 @@ Judging, marking, and ranking students is a common practice in higher education,
 ```
 
 ```{block, type='secondary'}
-**Student Motivation in Online Learning Based on Self Determination Theory: A Literature Review (Research-Oriented)**
+
+#### **Student Motivation in Online Learning Based on Self Determination Theory: A Literature Review (Research-Oriented)**
 
 *Behnoosh Khoramrooz, Valerie Irvine, Joan Martin (University of Victoria)*
 
@@ -259,7 +260,7 @@ Prior to the COVID-19, online learning has been gradually increasing in educatio
 
 ```{block, type='secondary'}
 
-**Assessment and Digital Technology in Higher Education: A Review of the Literature (Research-Oriented)**
+#### **Assessment and Digital Technology in Higher Education: A Review of the Literature (Research-Oriented)**
 
 *Colin Madland (University of Victoria)*
 
@@ -280,7 +281,7 @@ Assessment is a core component of teaching and learning in higher education and 
 ```{block, type='secondary'}
 #### 2:15-2:45
 
-**Open Educational Resources as a Tool for Immersive EDI Professional Development (Research-Oriented)**
+#### **Open Educational Resources as a Tool for Immersive EDI Professional Development (Research-Oriented)**
 
 *Sara Humphreys, Loren Gaudet (University of Victoria)*
 **Keywords**: EDI, anti-racism, decolonization, academic writing, OER
@@ -300,20 +301,6 @@ The case study in question involved the creation of Why Write, an anti-racist an
 
 ```
 
-```{block, type='secondary'}
-#### Making in-roads toward multi-access learning and teaching (Practice-Oriented)
-
-*Mariel Miller, Valerie Irvine, Hayley Hewson (University of Victoria)*
-
-**Keywords:** 
-
-#### Abstract 
-
-In response to the COVID-19 global pandemic, the University of Victoria implemented two multi-access classrooms enabling face-to-face and online learners to attend and participate in classes concurrently. While multi-access learning can support more flexible, accessible, and equitable learning, it requires faculty to substantially reconsider and redesign their teaching. As such, a significant barrier to the adoption of high-quality multi-access learning is the time and effort required of faculty, particularly for those already fatigued by the massive pivots to emergency online teaching brought about by the pandemic. In this session, we will draw on our experiences as educators to describe three practical ways faculty can approach and gain confidence in multi-access learning: (a) multi-access as a contingency, (b) multi-access as a limited event, where multi-access learning is provided for certain or select classes rather than the full course; (c) team-teaching with an experienced multi-access instructor, and (d) multi-access courses designed in three layers with instructional hours divided into whole group, decentralized synchronous learning pods for peer discussion, and asynchronous engagement (e.g., with resource materials, annotation, blogging, and backchannel chat). For each, we will discuss benefits and limitations and key considerations for preserving the integrity of the learning experience.
-
-##### [Session Link](https://app.forj.ai/en?t=/tradeshow/index&page=auditorium&id=1638304532451&auditorium_room_id=1647886846001){target="_blank"}
-
-```
 <!--
 ```{block, type='secondary'}
 #### 2:45-3:45
@@ -369,7 +356,7 @@ The paper concludes with a summary of technology-based inclusive practices share
 -->
 
 ```{block, type='secondary'}
-**Parity of Participation and the Digital Divide (Practice-Oriented)**
+#### **Parity of Participation and the Digital Divide (Practice-Oriented)**
 
 *Tanya Elias, University of Calgary*
 
@@ -385,7 +372,8 @@ Fraser’s defines “parity of participation” as a holistic social arrangemen
 ### Séance en parallèle 7.2 – Addressing New Inequities/Sustaining Positive Change: PSE Online & Open {-}
 
 ```{block, type='secondary'}
-**From Study Abroad to Virtual Study Abroad: Decolonizing and Opening the Academy (Practice-Oriented)**
+
+#### **From Study Abroad to Virtual Study Abroad: Decolonizing and Opening the Academy (Practice-Oriented)**
 
 *Kristine Dreaver-Charles (University of Saskatchewan), Michael Cottrell (University of Saskatchewan)*
 
@@ -400,7 +388,7 @@ This contribution is situated at the University of Saskatchewan, where Open Educ
 
 ```{block, type='secondary'}
 
-**Digital platforms and algorithmic erasure: What are the implications? (Practice-Oriented)**
+#### **Digital platforms and algorithmic erasure: What are the implications? (Practice-Oriented)**
 
 
 *[Colin Madland](https://orcid.org/0000-0002-1761-1903) (University of Victoria), [Maxwell Ofosuhene](https://orcid.org/0000-0001-9019-3261) (Trinity Western University), and Jennifer Adkins (Trinity Western University)*
@@ -427,7 +415,7 @@ Considering that most digital tools are built on a foundation of yesterday’s a
 
 ```{block, type='secondary'}
 
-**Humanizing with Humility: The Challenge of Creating Caring, Compassionate, and Critical Educational Spaces in Higher Education (Practice-Oriented)**
+#### **Humanizing with Humility: The Challenge of Creating Caring, Compassionate, and Critical Educational Spaces in Higher Education (Practice-Oriented)**
 
 *Sarah Driessens (Nipissing University), Michelann Parr (Nipissing University)*
 
@@ -443,7 +431,8 @@ As we reflect on the process, we humbly accept that leading with care also means
 ```
 
 ```{block, type='secondary'}
-**The Role of Technology in Fostering Communication and Collaboration in Post Secondary Face to Face Classrooms (Research-Oriented)**
+
+#### **The Role of Technology in Fostering Communication and Collaboration in Post Secondary Face to Face Classrooms (Research-Oriented)**
 
 *Melanie Opmeer (University of Calgary)*
 
@@ -461,7 +450,7 @@ The purpose of this qualitative case study is to examine how technology-enhanced
 ### Séance en parallèle 7.4 – Transitions of Online Learning and Teaching – PSE Online {-}
 
 ```{block, type='secondary'}
-**Turning to uncertainty for online learning (Practice-Oriented)**
+#### **Turning to uncertainty for online learning (Practice-Oriented)**
 
 *David Cormier, University of Windsor*
 
@@ -480,7 +469,7 @@ By looking at the some classic representations of problem setting through the le
 
 ```{block, type='secondary'}
 
-**Feedback Generation through Artificial Intelligence (Research-Oriented)**
+#### **Feedback Generation through Artificial Intelligence (Research-Oriented)**
 
 *[Okan Bulut](https://orcid.org/0000-0001-5853-1267), [Tarid Wongvorachan](https://orcid.org/0000-0002-9622-3780) (University of Alberta)*
 
@@ -499,7 +488,7 @@ Feedback is an important part in educational assessment that improves student le
 
 ```{block, type='secondary'}
 
-**Perspectives and experiences of equity in the online domain during the pandemic: A multi-institutional study of Canadian Institutions (Research-Oriented)**
+#### **Perspectives and experiences of equity in the online domain during the pandemic: A multi-institutional study of Canadian Institutions (Research-Oriented)**
 
 
 *Brad Wuetherick (University of British Columbia), Cherie Woolmer (Mount Royal University), Isabelle Barrette-Ng (University of Windsor), Patrick Maher (Nipissing University), Jill McSweeney-Flaherty (Dalhousie University), Laura Chittle (University of Windsor), Brett McCollum (Mount Royal University), Kaitlin Sibbald (Dalhousie University), Lori Tran (Mount Royal University), Heather Carroll (Nipissing University), Brittany McBride (Nipissing University), Charlotte Foster (Nipissing University), Kyle Scholz (University of Waterloo), Alise de Bie Das (McMaster University), Christopher Ostrowdun (University of Calgary)*

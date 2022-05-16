@@ -7,9 +7,10 @@ bookdown::gitbook:
       collapse: section
       scroll_highlight: true
       before: |
-        <li><a href="https://otessa.org/2022/program" target="blank">English Program</a></li>
+        <li><a href="https://otessa.org/otessa22-fr/program" target="blank">En Français</a></li>
+        <li><a href="https://app.forj.ai/en?t=/tradeshow/index&page=auditorium&id=1638304532451&auditorium_room_id=1647886846001" target="blank">Congress Login</a></li>
       after: |
-        <li><a href="https://bookdown.org" target="blank">Published with bookdown</a></li>
-    edit: https://github.com/otessa/2022/edit/master/%s
+        <li><a href="https://app.forj.ai/en?t=/tradeshow/index&page=auditorium&id=1638304532451&auditorium_room_id=1647886187226" target="blank">Other Congress Events</a></li>
+        <li><a href="https://bookdown.org" target="blank">Published with bookdown</a></li>  
     download: ["epub"]
 bookdown::epub_book: default

@@ -42,6 +42,7 @@
 
 ```{block, type='reflect'}
 #### Outside-In: Openness as Subversion
+
 *Maha Bali, American University in Cairo*
 
 #### Abstract 
@@ -102,7 +103,7 @@ Cette présentation se concentrera sur la façon dont vous pouvez utiliser Wikim
 ```{block, type='secondary'}
 #### 2:15-2:45 – K12
 
-**Flipped Learning in Grade 7 and 9 Mathematics (Research-Oriented)**
+#### **Flipped Learning in Grade 7 and 9 Mathematics (Research-Oriented)**
 
 *Barb Brown, Nadia Delanoy, Mark Webster (University of Calgary)*
 
@@ -118,7 +119,7 @@ This design-based study focused on supporting ELL students in grade 7 and 9 math
 ```{block, type='secondary'}
 #### 2:45-3:15 – K12
 
-**Using Teacher Presence to Engage Online Learners (Practice-Oriented)**
+#### **Using Teacher Presence to Engage Online Learners (Practice-Oriented)**
 
 *Leanne Huston,* *Rochelle Smith, Rhyanon Logan-Goyette (Langley School District & University of Victoria)*
 
@@ -134,7 +135,7 @@ Consistently, teachers and researchers have questioned how to engage students wh
 ```{block, type='secondary'}
 #### 3:15-3:45 – K12, PSE, Society
 
-**Implementation of Education Technology in Canada: A Comparison with Korea, Finland and the EU (Research-Oriented)**
+#### **Implementation of Education Technology in Canada: A Comparison with Korea, Finland and the EU (Research-Oriented)**
 
 *Keith Rispin (West Vancouver School District & University of Victoria), Valerie Irvine (University of Victoria)*
 
@@ -152,7 +153,8 @@ In this session, we look at how education technology in Canada is distributed to
 
 ```{block, type='secondary'}
 #### 2:15-2:45
-**Taking Experiential Learning Online During COVID-19 (Research-Oriented)**
+
+#### **Taking Experiential Learning Online During COVID-19 (Research-Oriented)**
 
 *Theodora Kapoyannis, Astrid Kendrick, Patricia Danyluk (University of Calgary)*
 
@@ -168,7 +170,7 @@ This presentation will share findings from a from a mixed- methods study examin
 ```{block, type='secondary'}
 #### 2:45-3:45
 
-**What we do today will change what happens tomorrow – Exploring university teaching during a pandemic to derive recommendations for post-pandemic times (Research-Oriented)**
+#### **What we do today will change what happens tomorrow – Exploring university teaching during a pandemic to derive recommendations for post-pandemic times (Research-Oriented)**
 
 *Joerdis Weilandt, Sandra Dixon, Richelle Marynowski, Lorraine Beaudin, Rumi Graham, Stavroula Malla, Angeliki Pantazi (University of Lethbridge)*
 
@@ -186,7 +188,7 @@ Our faculty research is motivated by a desire to inform future teaching practice
 ```{block, type='secondary'}
 #### 2:15-2:45
 
-**Co-designing OER with Learners: A Replacement to Traditional College Level Assessments (Practice-Oriented)**
+#### **Co-designing OER with Learners: A Replacement to Traditional College Level Assessments (Practice-Oriented)**
 
 *Kimberlee Carter, Maria Camila Redondo Morant (Conestoga College)*
 
@@ -201,8 +203,9 @@ Academic integrity issues in higher education have been reported as increasing a
 
 
 ```{block, type='secondary'}
-#### 2:45-3:45
-**A Critical Examination of Learner-Educator Co-Creation Within a Course (Practice-Oriented)**
+#### 2:45-3:45 
+
+#### **A Critical Examination of Learner-Educator Co-Creation Within a Course (Practice-Oriented)**
 
 *Laura Killam (Queens University), Jess Mitchell (Ontario College of Art and Design University)*
 
@@ -220,7 +223,7 @@ Co-creation is an open practice where learners participate in decision-making ab
 ```{block, type='secondary'}
 #### 2:15-2:45 – Wildcard: Microlearning/Society
 
-**The use of design-based research to design and evaluate an online microlearning intervention aiming to interrupt COVID-19 vaccine misinformation (Research-Oriented)**
+#### **The use of design-based research to design and evaluate an online microlearning intervention aiming to interrupt COVID-19 vaccine misinformation (Research-Oriented)**
 
 *George Veletsianos (Royal Roads University), Shandell Houlden (Royal Roads University), Jaigris Hodson (Royal Roads University), Darren Reid (University College London), Christiani Thompson (University of Saskatchewan)*
 
@@ -236,7 +239,7 @@ In this presentation, we report on a design-based research effort to develop edu
 ```{block, type='secondary'}
 #### 2:45-3:15– Transitions of Online Learning and Teaching: PSE
 
-**Méthodes d'évaluation et technologies : vers des activités authentiques, dans un processus itératif en soutien aux apprentissages (Practice-Oriented)**
+#### **Méthodes d'évaluation et technologies : vers des activités authentiques, dans un processus itératif en soutien aux apprentissages (Practice-Oriented)**
 
 *Géraldine Heilporn (Université Laval), Audrey Raynault (Université Laval), Alice Mascarenhas (Université de Sherbrooke), Constance Denis (Université de Sherbrooke)*
 
@@ -250,9 +253,9 @@ Dans cette communication, nous présenterons diverses façons permettant de dive
 ```
 
 ```{block, type='secondary'}
-#### 2:45-3:15 – Transitions of Online Learning and Teaching: PSE
+#### 3:15-3:45 – Transitions of Online Learning and Teaching: PSE
 
-**Quels nouveaux modèles d’affaires pour supporter les communautés de pratique en éducation? (Practice-Oriented)**
+#### **Quels nouveaux modèles d’affaires pour supporter les communautés de pratique en éducation? (Practice-Oriented)**
 
 *Robert Grégoire, Jacques Cool, Olivier Alfieri (Réseau d'enseignement francophone à distance)*
 
@@ -274,7 +277,7 @@ Four online panels hosted by two industry experts and their guests will explore 
 ```{block, type='secondary'}
 #### 2:15-2:45 – Sustaining Positive Change – PSE Online
 
-**Orlando: Broadening the Conversation on Women’s Writing Through A Scholarly Podcast (Practice-Oriented)**
+#### **Orlando: Broadening the Conversation on Women’s Writing Through A Scholarly Podcast (Practice-Oriented)**
 
 *Christie Hurrell, Karen Bourrier, Kathryn Holland, Jessica J Khuu (University of Calgary)*
 
@@ -294,7 +297,7 @@ In this presentation, the Orlando team will share lessons learned from this tech
 ```{block, type='secondary'}
 #### 2:45-3:45 – Addressing the New Inequities
 
-**A(nother) Guide for Resisting EdTech: The Case Against (or For?) Course Hero (Practice-Oriented)**
+#### **A(nother) Guide for Resisting EdTech: The Case Against (or For?) Course Hero (Practice-Oriented)**
 
 *Brenna Clarke Gray (Thompson Rivers University)*
 
@@ -348,20 +351,6 @@ As open course designs are being implemented in regular post-secondary credit co
 
 #### Parallel Session 11.2 – Transitions of Online Learning and Teaching: K12 Online {-}
 
-```{block, type='secondary'}
-#### Nonverbal Communication (NVC) and teacher presence in collaborative online learning in primary school (Research-Oriented)
-
-*Ayşegül Liman Kaban (Bahcesehir University)*
-
-**Keywords:** online learning, nonverbal communication, teaching presence, cognitive presence, interaction
-
-#### Abstract 
-
-Communication process requires a powerful combination of verbal and nonverbal processes that is one of the abilities that every teacher needs to master. In communication, the estimation of sixty-five to seventy percent of the message is received by nonverbal and only thirty to thirty-five percent by verbal communication. This research seeks to analyze the effect of nonverbal communication by primary teachers on the motivation and presence of students in a collaborative online learning environment. The information was gathered by questionnaires and interviews from both instructors and learners. Qualitative research methods were used in this study. The results showed that Nonverbal Communication can be an essential source of inspiration and attention for the learning process of students and a medium to attract their attention. Relying on the research outcomes that show the important role of Nonverbal Communication (NVC) in the teaching and learning process teachers by using the appropriate NVC types, eventually, play a critical role during online collaborative teaching which can affect students’ motivation and higher collaborative learning participation. To accurately convey learning content to students, teachers will have to improve and expand positive interactions.
-
-##### [Session Link](https://app.forj.ai/en?t=/tradeshow/index&page=auditorium&id=1638304532451&auditorium_room_id=1647886846001){target="_blank"}
-
-```
 
 ```{block, type='secondary'}
 #### Creating a Socially Inclusive Learning Environment Through Mobile Technologies for Students with Autism Spectrum Disorders (Research-Oriented)
@@ -379,6 +368,22 @@ In this case study research, educators, other education professionals, and paren
 
 ##### [Session Link](https://app.forj.ai/en?t=/tradeshow/index&page=auditorium&id=1638304532451&auditorium_room_id=1647886846001){target="_blank"}
 ```
+
+```{block, type='secondary'}
+#### Nonverbal Communication (NVC) and teacher presence in collaborative online learning in primary school (Research-Oriented)
+
+*Ayşegül Liman Kaban (Bahcesehir University)*
+
+**Keywords:** online learning, nonverbal communication, teaching presence, cognitive presence, interaction
+
+#### Abstract 
+
+Communication process requires a powerful combination of verbal and nonverbal processes that is one of the abilities that every teacher needs to master. In communication, the estimation of sixty-five to seventy percent of the message is received by nonverbal and only thirty to thirty-five percent by verbal communication. This research seeks to analyze the effect of nonverbal communication by primary teachers on the motivation and presence of students in a collaborative online learning environment. The information was gathered by questionnaires and interviews from both instructors and learners. Qualitative research methods were used in this study. The results showed that Nonverbal Communication can be an essential source of inspiration and attention for the learning process of students and a medium to attract their attention. Relying on the research outcomes that show the important role of Nonverbal Communication (NVC) in the teaching and learning process teachers by using the appropriate NVC types, eventually, play a critical role during online collaborative teaching which can affect students’ motivation and higher collaborative learning participation. To accurately convey learning content to students, teachers will have to improve and expand positive interactions.
+
+##### [Session Link](https://app.forj.ai/en?t=/tradeshow/index&page=auditorium&id=1638304532451&auditorium_room_id=1647886846001){target="_blank"}
+
+```
+
 
 ### Séance en parallèle 11.3 – Transitions of Online Learning and Teaching – PSE Assessment {-}
 
@@ -420,21 +425,6 @@ Schools and educational systems have as their express purpose to provide support
 ##### [Session Link](https://app.forj.ai/en?t=/tradeshow/index&page=auditorium&id=1638304532451&auditorium_room_id=1647886846001){target="_blank"}
 ```
 
-### Séance en parallèle 11.5 – Transitions of Online Learning and Teaching - PSE {-}
-
-```{block, type='secondary'}
-#### The SAMR Model as a Framework for Scaffolding Online Chat (Research-Oriented)
-
-*Janine Aldous Arantes*
-
-**Keywords:** SAMR, technology-enhanced learning, WhatsApp, online learning community
-
-#### Abstract 
-
-With its increasing reach, accessibility, and frequency of use, WhatsApp can shape the way educators and students share content and communicate in higher education. The purpose of this paper is to report on an Online Learning Community (OLC) using WhatsApp that explored the ‘Implications and Impacts' component of the Australian Digital Technologies Curriculum with seven pre-service teachers (PST). Through analysis of online chats and thematic analysis, the paper demonstrates the potential use of Puentedura’s (2014) Substitution, Augmentation, Modification and Redefinition (SAMR) model in both online learning communities and as a research method via WhatsApp. This paper reports on an example of the findings of the Substitution prompt, to support the discussion and demonstration. Unique contributions to the discussion, include the interpretive and critical approaches discussed in the paper, in terms of research methods and a guided example of using the SAMR model in a research context. The paper may be of value to both researchers who are interested in a scaffolded means to engage with participants through an online learning community, as well as teachers using technology in educational contexts.
-
-##### [Session Link](https://app.forj.ai/en?t=/tradeshow/index&page=auditorium&id=1638304532451&auditorium_room_id=1647886846001){target="_blank"}
-```
 
 ## Pause (5:30 – 6:00) {-}
 

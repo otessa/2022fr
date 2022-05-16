@@ -1,4 +1,4 @@
-# Navigation and Presenter Information {-}
+# Navigation Information {-}
 
 ## Navigating Forj {-}
 Forj is the Congress virtual platform, where you will find links to all Zoom sessions. Panelists and speakers and attendees will need to sign in to the platform and navigate to their event.
@@ -68,12 +68,3 @@ Find your date, and then select **Attend Webcast** or **More info**
 ![More Info option](assets/media/nav/image3.png)
 
 
-## Presenter Information {-}
-
-Come event day presenters and moderators will be let into the green room of the session **15 minutes in advance** of the start time. We will have a designated event technician who will be the host of the session and we can ensure the appropriate folks are made cohosts for screen sharing or other purposes.  
-
-The session will have a waiting room activated and attendees won’t be admitted until the session start time.
-
-Forj support is available, and they are extremely helpful. It is important to note that no links will be sent to presenters, and that it is helpful and important that presenters look at the platform before the start of their session. Presenters will get access shortly.
-
-Thanks!

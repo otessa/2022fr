@@ -92,7 +92,7 @@ En mars 2020, la fermeture des universités en raison de la pandémie de COVID-1
 
 ```{block, type='secondary'}
 #### 2:15-2:45 
-**Elders’ Conversations: Perspectives on leveraging digital technology in language revival (Research-Oriented)**
+#### **Elders’ Conversations: Perspectives on leveraging digital technology in language revival (Research-Oriented)**
 
 *Melissa Bishop*
 
@@ -109,7 +109,7 @@ Elders are held in high regard in First Nations, Metis, and Inuit (FNMI) communi
 ```{block, type='secondary'}
 #### 2:45-3:45 {-}
 
-**Truth and Reconciliation Through Inquiry-based Collaborative Learning (Practice-Oriented)**
+#### **Truth and Reconciliation Through Inquiry-based Collaborative Learning (Practice-Oriented)**
 
 _Deirdre Houghton (Nechako Lakes School District & University of Victoria), Gary Soles (Nechako Lakes School District & University of Victoria), Andrew Vogelsang (Nechako Lakes School District & University of Victoria), Valerie Irvine (University of Victoria), Frances “Guy” Prince (Knowledge Holder, Nak’azdli Whut’en), Leona Prince (Nechako Lakes School District), Carla Martin (Nechako Lakes School District), Jean-Paul Restoule (University of Victoria), Michael Paskevicius (University of Victoria)_
 
@@ -132,7 +132,7 @@ In this session, we will share a project conducted at [school name removed for r
 ```{block, type='secondary'}
 #### 2:15-2:45 {-}
 
-**Surveillance in the System: Data as Critical Change in Higher Education (Research-Oriented)**
+#### **Surveillance in the System: Data as Critical Change in Higher Education (Research-Oriented)**
 
 _Bonnie Stewart (University of Windsor), Samatha Szcyrek (University of Windsor)_
 
@@ -159,7 +159,7 @@ _Vivekanandan Kumar (Athabasca University), Mohamed Ally (Athabasca University),
 ```{block, type='secondary'}
 #### 2:15-2:45 {-}
 
-**Investigating the effects of computer-generated contextual landmarks on short-term recall of e-texts (Research-Oriented)**
+#### **Investigating the effects of computer-generated contextual landmarks on short-term recall of e-texts (Research-Oriented)**
 
 _Jon Dron, Rory McGreal, Vive Kumar, Jennifer Davies (Athabasca University)_
 
@@ -175,7 +175,7 @@ E-texts have many advantages over their paper counterparts, especially when refl
 ```{block, type='secondary'}
 #### 2:45-3:45 {-}
 
-**Community-Led Infrastructures for Open Access Books: A Sustainable Model and Platform (Practice-Oriented)**
+#### **Community-Led Infrastructures for Open Access Books: A Sustainable Model and Platform (Practice-Oriented)**
 
 _Judith Fathallah (Lancaster University), Martin Eve (University of London, Tom Grady (University of London)_
 
@@ -194,7 +194,7 @@ We submit this proposal under the theme of sustaining positive change. The inter
 
 ```{block, type='secondary'}
 
-**Flexible approaches to learning: Bridging inclusive/exclusive spaces through open educational practice (Practice-Oriented)**
+#### **Flexible approaches to learning: Bridging inclusive/exclusive spaces through open educational practice (Practice-Oriented)**
 
 _Michelle Harrison (Thompson Rivers University)_
 
@@ -209,7 +209,7 @@ Throughout the pandemic, many educators have endeavoured to provide flexible edu
 
 ```{block, type='secondary'}
 
-**Warp and Weft: Weaving and Open Dissertation (Practice-Oriented)**
+#### **Warp and Weft: Weaving and Open Dissertation (Practice-Oriented)**
 
 _Helen Dewaard (Lakehead University & University of British Columbia), Leo Havemann (University College London), Verena Roberts (University of Calgary & Thompson Rivers University)_
 
@@ -224,7 +224,7 @@ This session is an exploration of stories and lived experiences with opening the
 
 ```{block, type='secondary'}
 
-**Incorporating Open Educational Pedagogies and Co-mentorship Practices in Graduate Education (Research-Oriented)** 
+#### **Incorporating Open Educational Pedagogies and Co-mentorship Practices in Graduate Education (Research-Oriented)** 
 
 _Cindy Ives, Beth Perry, Pamela Walsh (Athabasca University)_
 
@@ -240,7 +240,7 @@ Our collaborative autoethnographic study (CAE) explores our use of principles of
 
 ```{block, type='secondary'}
 
-**Critical reflection: How can open reflexive frameworks redefine academic practices? (Practice-Oriented)**
+#### **Critical reflection: How can open reflexive frameworks redefine academic practices? (Practice-Oriented)**
 
 _Helen DeWaard (Lakehead University & University of British Columbia), Shauna Burnie (Lakehead University)_
 
@@ -258,7 +258,7 @@ The practice of critical reflection should be infused into higher education acad
 ```{block, type='secondary'}
 #### 2:15-2:45 – Sustaining Positive Change – PSE Open {-}
 
-**Open educational practice and research resources created by students, for students (Practice-Oriented)**
+#### **Open educational practice and research resources created by students, for students (Practice-Oriented)**
 
 _Marie Bartlett & Students (Thompson Rivers University)_
 
@@ -269,7 +269,7 @@ _Marie Bartlett & Students (Thompson Rivers University)_
 
 CURN (Canadian Undergraduate Research Network) is an emerging community supported by the offices of Research and Graduate Studies and Open Learning at Thompson Rivers University (TRU), which is located in Secwepemcúl̓ecw on the unceded land of the Secwépemc peoples, on the interior plateau of British Columbia.
 
- For a number of years, groups of TRU students have been building a CURN website as part of their undergraduate research ambassador roles, adding to each other’s work every semester: curn.trubox.ca/. 
+For a number of years, groups of TRU students have been building a CURN website as part of their undergraduate research ambassador roles, adding to each other’s work every semester: curn.trubox.ca/. 
 
 Since the start of the initiative, the objective has been to create an open resource that would get students interested and engaged in undergraduate research.
 
@@ -281,7 +281,7 @@ Designed as an open pedagogy project, student research ambassadors were given th
 ```{block, type='secondary'}
 #### 2:45-3:45: – Transitions of Online Learning and Teaching – PSE Online {-}
 
-**Building digital fluency skills during the rapid transition to online and hybrid teaching through open access with the Ontario Extend program (Practice-Oriented)**
+#### **Building digital fluency skills during the rapid transition to online and hybrid teaching through open access with the Ontario Extend program (Practice-Oriented)**
 
 _Alissa Bigelow (eCampusOntario)_
 
@@ -317,7 +317,7 @@ The program framework builds upon “The 21st Century Educator” model (Bates, 
 
 ```{block, type='secondary'}
 
-**Improving environmental sustainability by using public school systems as centers of green energy production and conservation: Approaches to offsetting the cost of increased technology use and associated pollution (Practice-Oriented)**
+#### **Improving environmental sustainability by using public school systems as centers of green energy production and conservation: Approaches to offsetting the cost of increased technology use and associated pollution (Practice-Oriented)**
 
 _Scott Warren, Scott Moran, Kristen McGuffin (University of North Texas)_
 
@@ -335,7 +335,7 @@ As the earth’s climate changes, the costs to communities in terms of energy co
 
 ```{block, type='secondary'}
 
-**Sustaining Complexity: Why Higher Education Should Avoid TechnoSolutionism (Practice-Oriented)**
+#### **Sustaining Complexity: Why Higher Education Should Avoid TechnoSolutionism (Practice-Oriented)**
 
 _Jim Luke (Lansing Community College), Bonnie Stewart (University of Windsor)_
 
@@ -353,7 +353,7 @@ During the pandemic, two long-separate perspectives on digital technologies and 
 
 ```{block, type='secondary'}
 
-**Rejecting the ready-made future: Reimagining technologies from and for the classroom (Research-Oriented)**
+#### **Rejecting the ready-made future: Reimagining technologies from and for the classroom (Research-Oriented)**
 
 _Esteban Morales, Rachel Horst (University of British Columbia)_
 
@@ -371,7 +371,7 @@ Discussions about technology are often rooted in a combination of technological 
 
 ```{block, type='secondary'}
 
-**Open Educational Practices (OEP): Critical Policy Analysis in the Canadian Post-Secondary Education Context (Research-Oriented)**
+#### **Open Educational Practices (OEP): Critical Policy Analysis in the Canadian Post-Secondary Education Context (Research-Oriented)**
 
 _Mara Bordignon (University of Western Ontario)_
 
@@ -390,7 +390,7 @@ Progress in OEP creation, adoption, and use in Canadian post-secondary education
 
 ```{block, type='secondary'}
 
-**Online or Remote Learning and Mental Health (Research-Oriented)**
+#### **Online or Remote Learning and Mental Health (Research-Oriented)**
 
 _Stephanie Moore (University of New Mexico), Michael Barbour (Touro University California), George Veletsianos (Royal Roads University)_
 

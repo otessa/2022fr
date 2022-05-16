@@ -35,9 +35,12 @@ As digital pedagogy and instructional strategy, electronic portfolios (ePortfoli
 ```
 
 ```{block, type='secondary'}
-#### [Transitioning, and Why It’ll Never Be Enough](https://otessa.org/2022/program/#asynch)
+#### [Transitioning, and Why It’ll Never Be Enough (Accessible Version)](https://trentu.yuja.com/V/Video?v=584536&node=2262679&a=686510845&autoplay=1){target="_blank"}
+
+#### [Transitioning, and Why It’ll Never Be Enough (Original Version - Flashing Lights Warning)](https://trentu.yuja.com/V/Video?v=573385&node=2230363&a=1214280770&autoplay=1){target="_blank"}
 
 *Christian Metaxas, Trent University*
+
 
 <!--
 [Materials](https://conference.otessa.org/index.php/conference/article/view/144)

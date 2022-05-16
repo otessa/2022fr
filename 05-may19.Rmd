@@ -107,7 +107,7 @@ Au début de la pandémie, je venais d'achever ma recherche de thèse qui portai
 ```{block, type='secondary'}
 #### 2:15-2:45
 
-**Évolution de pratiques pédagogiques inclusives au collégial en contexte pandémique (Research-Oriented)**
+#### **Évolution de pratiques pédagogiques inclusives au collégial en contexte pandémique (Research-Oriented)**
 
 *Géraldine Heilporn (Université Laval), Simon Larose (Université Laval), Catherine Beaulieu (Cégep de Saint-Laurent, Montréal, Québec)*
 
@@ -124,7 +124,7 @@ La pandémie a amené de nombreux changements en enseignement postsecondaire, no
 #### 2:45-3:45
 
 
-**Aspirations for post pandemic teaching and learning: Stepping stones for future possibilities**
+#### **Aspirations for post pandemic teaching and learning: Stepping stones for future possibilities**
 *Lisa Gedak (Royal Roads University & Kwantlen Polytechnic University), Leeann Waddington, (Kwantlen Polytechnic University)*
 
 **Keywords:** Appreciative Inquiry, Online Learning, Educational Development, Tech-enhanced Practices, COVID-19 Pivot
@@ -149,15 +149,23 @@ The respective findings suggest applicability in other contexts. This session ai
 ```{block, type='secondary'}
 #### 2:15-2:45
 
-**Making in-roads toward multi-access learning and teaching (Practice-Oriented)**
+#### **Making in-roads toward multi-access learning and teaching (Practice-Oriented)**
 
 *Mariel Miller, Valerie Irvine, Hayley Hewson (University of Victoria)*
+
+**Keywords:** 
+
+#### Abstract 
+
+In response to the COVID-19 global pandemic, the University of Victoria implemented two multi-access classrooms enabling face-to-face and online learners to attend and participate in classes concurrently. While multi-access learning can support more flexible, accessible, and equitable learning, it requires faculty to substantially reconsider and redesign their teaching. As such, a significant barrier to the adoption of high-quality multi-access learning is the time and effort required of faculty, particularly for those already fatigued by the massive pivots to emergency online teaching brought about by the pandemic. In this session, we will draw on our experiences as educators to describe three practical ways faculty can approach and gain confidence in multi-access learning: (a) multi-access as a contingency, (b) multi-access as a limited event, where multi-access learning is provided for certain or select classes rather than the full course; (c) team-teaching with an experienced multi-access instructor, and (d) multi-access courses designed in three layers with instructional hours divided into whole group, decentralized synchronous learning pods for peer discussion, and asynchronous engagement (e.g., with resource materials, annotation, blogging, and backchannel chat). For each, we will discuss benefits and limitations and key considerations for preserving the integrity of the learning experience.
+
+##### [Session Link](https://app.forj.ai/en?t=/tradeshow/index&page=auditorium&id=1638304532451&auditorium_room_id=1647886846001){target="_blank"}
 ```
 
 ```{block, type='secondary'}
 #### 2:45-3:45
 
-**Professional Learning and Online Tutoring**
+#### **Professional Learning and Online Tutoring**
 
 *Michael Canuel (LearnQuebec)*
 
@@ -176,7 +184,7 @@ There is considerable anecdotal evidence that online tutoring benefits students 
 ```{block, type='secondary'}
 #### 2:15-2:45
 
-**How Digital Technologies Shapes Pedagogical Practices in Virtual Chinese Language Classroom (Research-Oriented)**
+#### **How Digital Technologies Shapes Pedagogical Practices in Virtual Chinese Language Classroom (Research-Oriented)**
 
 *Yina Liu (University of Alberta), Jing Jin (University of Alberta)*
 
@@ -192,7 +200,7 @@ This presentation focuses on teaching practices of two Chinese language teachers
 ```{block, type='secondary'}
 #### 2:45-3:45
 
-**Indigenizing Internationalization and Internationalizing Indigenization: Insights from a Virtual Study Abroad to Ireland, Jamaica, and Aotearoa/New Zealand (Research-Oriented)**
+#### **Indigenizing Internationalization and Internationalizing Indigenization: Insights from a Virtual Study Abroad to Ireland, Jamaica, and Aotearoa/New Zealand (Research-Oriented)**
 
 *Michael Cottrell, Kristine Dreaver-Charles (University of Saskatchewan)*
 
@@ -306,7 +314,7 @@ Students’ motivation and engagement have been a subject of concern in online l
 ```{block, type='secondary'}
 #### 2:45-3:45
 
-**Learning In the Open: The Journey of Creating and Implementing Open Web-Based Portfolio Templates (Practice-Oriented)**
+#### **Learning In the Open: The Journey of Creating and Implementing Open Web-Based Portfolio Templates (Practice-Oriented)**
 
 *Melanie Laurie (Fraser Health), Jamie Drozda (Thompson Rivers University)*
 
@@ -479,7 +487,7 @@ This contribution is situated at the University of Saskatchewan, where Open Educ
 ```{block, type='secondary'}
 #### 4:30-5:00 – Sustaining Positive Change - PSE
 
-**Investigating the Conversational Framework as a design approach (Research-Oriented)**
+#### **Investigating the Conversational Framework as a design approach (Research-Oriented)**
 
 *Maryam Shirdel Pour, Michael Paskevicius (University of Victoria)*
 
@@ -496,7 +504,7 @@ The “Conversational Framework”, which represents a learning design framework
 ```{block, type='secondary'}
 #### 5:00-5:30 – Addressing the New Inequities - PSE
 
-**Defining Diversity in the Development of a Health Education Media Library (Practice-Oriented)**
+#### **Defining Diversity in the Development of a Health Education Media Library (Practice-Oriented)**
 
 *Danielle Dilkes (University of Western Ontario)*
 
