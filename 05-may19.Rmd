@@ -332,10 +332,11 @@ The authors will discuss the process of building WordPress sites as ePortfolio t
 
 ## Évènement social (4:00 – 4:30) {-}
 
-```{block, type='gh'}
-#### Dr Jones (DJ)
 
-*Beats*
+```{block, type='gh'}
+#### Kendra Coupland
+
+**Mindfulness Session**
 
 ##### [Session Link](https://app.forj.ai/en?t=/tradeshow/index&page=auditorium&id=1638304532451&auditorium_room_id=1647886846001){target="_blank"}
 ```

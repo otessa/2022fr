@@ -32,3 +32,19 @@ Parallel Session 11.5
 
 ***Regrets***
 ```
+
+```{block, type='feedback'}
+
+#### Kendra Coupland - Mindfulness Social Session {-}
+
+**Moved from Wednesday, 4:00 pm to Thursday, 4:00 pm**
+
+
+```
+```{block, type='feedback'}
+
+#### Dr. Jones - DJ {-}
+
+**Moved from Thursday, 4:00 pm to Wednesday, 4:00 pm**
+
+```

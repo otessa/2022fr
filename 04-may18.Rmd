@@ -315,12 +315,13 @@ Using Sean Michael Morris and Jesse Stommel’s landmark essay “A Guide for Re
 ## Évènement social (4:00 – 4:30) {-}
 
 ```{block, type='gh'}
-#### Kendra Coupland
+#### Dr Jones (DJ)
 
-**Mindfulness Session**
+*Beats*
 
 ##### [Session Link](https://app.forj.ai/en?t=/tradeshow/index&page=auditorium&id=1638304532451&auditorium_room_id=1647886846001){target="_blank"}
 ```
+
 
 ## Séances en parallèle 11 (4:30 – 5:30) {-}
 
