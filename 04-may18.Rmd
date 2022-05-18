@@ -293,7 +293,7 @@ In this presentation, the Orlando team will share lessons learned from this tech
 
 ##### [Session Link](https://app.forj.ai/en?t=/tradeshow/index&page=auditorium&id=1638304532451&auditorium_room_id=1647886846001){target="_blank"}
 ```
-
+<!--
 ```{block, type='secondary'}
 #### 2:45-3:45 – Addressing the New Inequities
 
@@ -309,7 +309,7 @@ Using Sean Michael Morris and Jesse Stommel’s landmark essay “A Guide for Re
 
 ##### [Session Link](https://app.forj.ai/en?t=/tradeshow/index&page=auditorium&id=1638304532451&auditorium_room_id=1647886846001){target="_blank"}
 ```
-
+-->
 ## Pause 3:45 – 4:00 {-}
 
 ## Évènement social (4:00 – 4:30) {-}
@@ -369,7 +369,7 @@ In this case study research, educators, other education professionals, and paren
 
 ##### [Session Link](https://app.forj.ai/en?t=/tradeshow/index&page=auditorium&id=1638304532451&auditorium_room_id=1647886846001){target="_blank"}
 ```
-
+<!--
 ```{block, type='secondary'}
 #### Nonverbal Communication (NVC) and teacher presence in collaborative online learning in primary school (Research-Oriented)
 
@@ -384,7 +384,7 @@ Communication process requires a powerful combination of verbal and nonverbal pr
 ##### [Session Link](https://app.forj.ai/en?t=/tradeshow/index&page=auditorium&id=1638304532451&auditorium_room_id=1647886846001){target="_blank"}
 
 ```
-
+-->
 
 ### Séance en parallèle 11.3 – Transitions of Online Learning and Teaching – PSE Assessment {-}
 
