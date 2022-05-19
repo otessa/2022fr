@@ -8,24 +8,7 @@
 *** L'horaire suit l'heure de l'est (Québec, Canada)***
 ```
 
-```{block, type='reflect'}
-#### Conférences principales
 
-```
-
-```{block, type='wp'}
-#### Conférencières et conférenciers invités
-
-```
-
-```{block, type='secondary'}
-#### Séances régulières (communications)
-
-```
-```{block, type='gh'}
-#### Évènements sociaux
-
-```
 --- 
 
 
@@ -33,7 +16,6 @@
 ## Ouverture du bureau d’accueil (10:30 - 12:30) {-}
 
 
-## Mot de bienvenue et conférence principale (11:00 - 12:30) {-}
 
 
 ## Séances en parallèle 16 - Workshops (11:30 - 12:30) {-}
@@ -103,6 +85,11 @@ Are you considering using or making pressbooks – but do not know where to star
 ## Pause (12:30 – 12:45) {-}
 
 ## Unconference (aka: EdCamp) (12:45 – 1:45) {-}
+
+```{block, type='todo'}
+#### Click 'Unconference' in the table of contents for details and to sign up! {-}
+
+```
 ## Pause (1:45 – 2:15) {-}
 
 ## Séances en parallèle 17 (2:15 – 4:15) {-}
